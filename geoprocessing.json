@@ -1,0 +1,19 @@
+{
+  "author": "Dan Yocum <danyocum@gmail.com>",
+  "organization": "Seasketch",
+  "region": "us-west-2",
+  "clients": [
+    {
+      "name": "RasterStats",
+      "description": "Calculates sketch raster stats",
+      "source": "src/clients/RasterStats.tsx"
+    }
+  ],
+  "preprocessingFunctions": [
+    "src/functions/clipToBounds.ts",
+    "src/functions/clipToOceanEez.ts"
+  ],
+  "geoprocessingFunctions": [
+    "src/functions/rasterSum.ts"
+  ]
+}
