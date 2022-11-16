@@ -16,5 +16,71 @@
     ],
     "classKeys": [],
     "url": "https://d3muy0hbwp5qkl.cloudfront.net"
+  },
+  {
+    "datasourceId": "eez",
+    "geo_type": "vector",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": 1,
+          "sum": null,
+          "area": 3032525677797.563
+        }
+      }
+    },
+    "formats": [
+      "fgb"
+    ],
+    "layerName": "eez_mr_osm",
+    "classKeys": [],
+    "created": "2022-11-16T23:04:19.554Z",
+    "lastUpdated": "2022-11-16T23:04:19.554Z",
+    "src": "data/src/Analytics/current-vector.gpkg",
+    "propertiesToKeep": []
+  },
+  {
+    "datasourceId": "offshore",
+    "geo_type": "vector",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": 1,
+          "sum": null,
+          "area": 2921944328507.4966
+        }
+      }
+    },
+    "formats": [
+      "fgb"
+    ],
+    "layerName": "offshore_mr",
+    "classKeys": [],
+    "created": "2022-11-16T23:06:02.948Z",
+    "lastUpdated": "2022-11-16T23:06:02.948Z",
+    "src": "data/src/Analytics/current-vector.gpkg",
+    "propertiesToKeep": []
+  },
+  {
+    "src": "data/src/Analytics/current-vector.gpkg",
+    "layerName": "nearshore_mr_osm",
+    "geo_type": "vector",
+    "datasourceId": "nearshore",
+    "formats": [
+      "fgb"
+    ],
+    "classKeys": [],
+    "created": "2022-11-16T23:08:48.589Z",
+    "lastUpdated": "2022-11-16T23:08:48.589Z",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": 30,
+          "sum": null,
+          "area": 110581349290.06752
+        }
+      }
+    },
+    "propertiesToKeep": []
   }
 ]
