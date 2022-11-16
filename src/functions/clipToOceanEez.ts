@@ -40,7 +40,7 @@ export async function clipLand(feature: Feature<Polygon | MultiPolygon>) {
 
 export async function clipOutsideEez(
   feature: Feature<Polygon | MultiPolygon>,
-  eezFilterByNames: string[] = []
+  eezFilterByNames: string[] = ["Micronesia"]
 ) {
   let eezFeatures = await SubdividedEezLandUnionSource.fetch(bbox(feature));
   if (eezFeatures.length === 0) return feature;
