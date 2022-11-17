@@ -2,7 +2,7 @@
  * @jest-environment node
  * @group smoke
  */
-import { clipToOceanEez } from "./clipToOceanEez";
+import { clipToOffshore } from "./clipToOceanOffshore";
 import {
   getExamplePolygonSketches,
   writeResultOutput,
@@ -12,21 +12,23 @@ import booleanValid from "@turf/boolean-valid";
 
 describe("Basic smoke tests", () => {
   test("handler function is present", () => {
-    expect(typeof clipToOceanEez).toBe("function");
+    expect(typeof clipToOffshore).toBe("function");
   });
 
-  test("clipToOceanEez", async () => {
+  test("clipToOffshore", async () => {
     const examples = await getExamplePolygonSketches();
+    console.log(examples);
+    console.log(examples.length);
     for (const example of examples) {
       try {
-        const result = await clipToOceanEez(example);
+        const result = await clipToOffshore(example);
         expect(result).toBeTruthy();
         expect(booleanValid(result));
         expect(
           result.geometry.type === "Polygon" ||
             result.geometry.type === "MultiPolygon"
         );
-        writeResultOutput(result, "clipToOceanEez", example?.properties?.name);
+        writeResultOutput(result, "clipToOffshore", example?.properties?.name);
       } catch (e) {
         console.log("error", example?.properties?.name, e);
         if (e instanceof ValidationError) {

@@ -4,7 +4,9 @@
   "region": "us-west-2",
   "clients": [],
   "preprocessingFunctions": [
-    "src/functions/clipToOceanEez.ts"
+    "src/functions/clipToOceanEez.ts",
+    "src/functions/clipToOffshore.ts",
+    "src/functions/clipToNearshore.ts"
   ],
   "geoprocessingFunctions": []
 }
