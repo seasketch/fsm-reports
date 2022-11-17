@@ -5,8 +5,8 @@
   "clients": [],
   "preprocessingFunctions": [
     "src/functions/clipToOceanEez.ts",
-    "src/functions/clipToOffshore.ts",
-    "src/functions/clipToNearshore.ts"
+    "src/functions/clipToOceanOffshore.ts",
+    "src/functions/clipToOceanNearshore.ts"
   ],
   "geoprocessingFunctions": []
 }
