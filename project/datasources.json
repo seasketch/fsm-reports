@@ -62,16 +62,8 @@
     "propertiesToKeep": []
   },
   {
-    "src": "data/src/Analytics/current-vector.gpkg",
-    "layerName": "nearshore_mr_osm",
-    "geo_type": "vector",
     "datasourceId": "nearshore",
-    "formats": [
-      "fgb"
-    ],
-    "classKeys": [],
-    "created": "2022-11-16T23:08:48.589Z",
-    "lastUpdated": "2022-11-16T23:08:48.589Z",
+    "geo_type": "vector",
     "keyStats": {
       "total": {
         "total": {
@@ -81,6 +73,124 @@
         }
       }
     },
+    "formats": [
+      "fgb"
+    ],
+    "layerName": "nearshore_mr_osm",
+    "classKeys": [],
+    "created": "2022-11-16T23:08:48.589Z",
+    "lastUpdated": "2022-11-16T23:08:48.589Z",
+    "src": "data/src/Analytics/current-vector.gpkg",
     "propertiesToKeep": []
+  },
+  {
+    "datasourceId": "depth_zone_photic",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 35,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-11-21T21:44:08.941Z",
+    "lastUpdated": "2022-11-21T21:44:08.941Z",
+    "src": "data/src/Analytics/prioritization-24/offshore/inputs/features/photic_zone.tif"
+  },
+  {
+    "datasourceId": "depth_zone_mesophotic",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 82,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-11-21T21:45:54.536Z",
+    "lastUpdated": "2022-11-21T21:45:54.536Z",
+    "src": "data/src/Analytics/prioritization-24/offshore/inputs/features/mesophotic_zone.tif"
+  },
+  {
+    "datasourceId": "depth_zone_bathyal",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 4388,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-11-21T21:46:53.256Z",
+    "lastUpdated": "2022-11-21T21:46:53.256Z",
+    "src": "data/src/Analytics/prioritization-24/offshore/inputs/features/bathyal_zone.tif"
+  },
+  {
+    "datasourceId": "depth_zone_abyssal",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 5298,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-11-21T21:47:40.605Z",
+    "lastUpdated": "2022-11-21T21:47:40.605Z",
+    "src": "data/src/Analytics/prioritization-24/offshore/inputs/features/abyssal_zone.tif"
+  },
+  {
+    "src": "data/src/Analytics/prioritization-24/offshore/inputs/features/hadal_zone.tif",
+    "band": 1,
+    "geo_type": "raster",
+    "datasourceId": "depth_zone_hadal",
+    "formats": [
+      "tif"
+    ],
+    "created": "2022-11-21T21:50:04.900Z",
+    "lastUpdated": "2022-11-21T21:50:04.900Z",
+    "keyStats": {
+      "total": {
+        "total": {
+          "sum": 151,
+          "count": null,
+          "area": null
+        }
+      }
+    },
+    "noDataValue": -3.3999999521443642e+38,
+    "measurementType": "quantitative"
   }
 ]

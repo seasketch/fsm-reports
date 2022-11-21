@@ -1,0 +1,43 @@
+{
+  "metrics": [
+    {
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 75066893245.88089,
+      "extra": {
+        "sketchName": "fsm-east-west"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "classId": "nearshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 9184007305.209621,
+      "extra": {
+        "sketchName": "fsm-east-west"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 65882899740.64502,
+      "extra": {
+        "sketchName": "fsm-east-west"
+      }
+    }
+  ],
+  "sketch": {
+    "type": "Feature",
+    "properties": {
+      "name": "fsm-east-west",
+      "updatedAt": "2022-11-17T10:02:53.645Z",
+      "sketchClassId": "123abc"
+    },
+    "geometry": null
+  }
+}

@@ -1,12 +1,18 @@
 {
-  "author": "Dan Yocum <danyocum@gmail.com>",
+  "author": "Tim Welch <tim.j.welch@gmail.com>",
   "organization": "Seasketch",
   "region": "us-west-2",
-  "clients": [],
+  "clients": [{
+    "name": "AllReport",
+    "description":  "All reports",
+    "source": "src/clients/AllReport.tsx"
+  }],
   "preprocessingFunctions": [
     "src/functions/clipToOceanEez.ts",
     "src/functions/clipToOceanOffshore.ts",
     "src/functions/clipToOceanNearshore.ts"
   ],
-  "geoprocessingFunctions": []
+  "geoprocessingFunctions": [
+    "src/functions/boundaryAreaOverlap.ts"
+  ]
 }

@@ -50,7 +50,7 @@
     "tiny-worker": "^2.3.0"
   },
   "devDependencies": {
-    "@seasketch/geoprocessing": "1.0.0",
+    "@seasketch/geoprocessing": "1.0.1-alpha.6",
     "@turf/boolean-disjoint": "6.5.0",
     "@turf/boolean-valid": "6.5.0"
   },

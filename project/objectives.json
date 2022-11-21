@@ -1,7 +1,21 @@
 [{
   "objectiveId": "eez",
   "shortDesc": "EEZ Objective",
-  "target": 0.2,
+  "target": 0.3,
+  "countsToward": {
+      "Fully Protected Area": "yes"
+  }
+}, {
+  "objectiveId": "offshore",
+  "shortDesc": "Offshore Objective",
+  "target": 0.3,
+  "countsToward": {
+      "Fully Protected Area": "yes"
+  }
+}, {
+  "objectiveId": "nearshore",
+  "shortDesc": "Nearshore Objective",
+  "target": 0.3,
   "countsToward": {
       "Fully Protected Area": "yes"
   }
