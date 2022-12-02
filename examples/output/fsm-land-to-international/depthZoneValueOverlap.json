@@ -1,0 +1,63 @@
+{
+  "metrics": [
+    {
+      "metricId": "depthZoneValueOverlap",
+      "classId": "depth_zone_abyssal",
+      "groupId": null,
+      "geographyId": null,
+      "value": 16,
+      "extra": {
+        "sketchName": "fsm-land-to-international"
+      }
+    },
+    {
+      "metricId": "depthZoneValueOverlap",
+      "classId": "depth_zone_bathyal",
+      "groupId": null,
+      "geographyId": null,
+      "value": 2,
+      "extra": {
+        "sketchName": "fsm-land-to-international"
+      }
+    },
+    {
+      "metricId": "depthZoneValueOverlap",
+      "classId": "depth_zone_hadal",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "fsm-land-to-international"
+      }
+    },
+    {
+      "metricId": "depthZoneValueOverlap",
+      "classId": "depth_zone_mesophotic",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "fsm-land-to-international"
+      }
+    },
+    {
+      "metricId": "depthZoneValueOverlap",
+      "classId": "depth_zone_photic",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "fsm-land-to-international"
+      }
+    }
+  ],
+  "sketch": {
+    "type": "Feature",
+    "properties": {
+      "name": "fsm-land-to-international",
+      "updatedAt": "2022-11-17T10:02:53.645Z",
+      "sketchClassId": "123abc"
+    },
+    "geometry": null
+  }
+}

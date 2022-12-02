@@ -16,12 +16,69 @@
                 "datasourceId": "offshore",
                 "objectiveId": "offshore",
                 "layerId": ""
+            }
+        ]
+    },
+    {
+        "metricId": "depthZoneValueOverlap",
+        "type": "valueOverlap",
+        "objectiveId": "depth_zone",
+        "classes": [
+            {
+                "classId": "depth_zone_abyssal",
+                "display": "Abyssal",
+                "datasourceId": "depth_zone_abyssal",
+                "layerId": ""
+            },{
+                "classId": "depth_zone_bathyal",
+                "display": "Bathyal",
+                "datasourceId": "depth_zone_bathyal",
+                "layerId": ""
+            },{
+                "classId": "depth_zone_hadal",
+                "display": "Hadal",
+                "datasourceId": "depth_zone_hadal",
+                "layerId": ""
+            },{
+                "classId": "depth_zone_mesophotic",
+                "display": "Mesophotic",
+                "datasourceId": "depth_zone_mesophotic",
+                "layerId": ""
+            },{
+                "classId": "depth_zone_photic",
+                "display": "Photic",
+                "datasourceId": "depth_zone_photic",
+                "layerId": ""
+            }
+        ]
+    },
+    {
+        "metricId": "envRegionValueOverlap",
+        "type": "valueOverlap",
+        "objectiveId": "env_regions",
+        "classes": [
+            {
+                "datasourceId": "pelagic_habitat_zones1",
+                "classId": "pelagic_habitat_zones1",
+                "display": "Zone 1",
+                "layerId": ""
             },
             {
-                "classId": "nearshore",
-                "display": "Nearshore",
-                "datasourceId": "nearshore",
-                "objectiveId": "nearshore",
+                "datasourceId": "pelagic_habitat_zones2",
+                "classId": "pelagic_habitat_zones2",
+                "display": "Zone 2",
+                "layerId": ""
+            },
+            {
+                "datasourceId": "pelagic_habitat_zones3",
+                "classId": "pelagic_habitat_zones3",
+                "display": "Zone 3",
+                "layerId": ""
+            },
+            {
+                "datasourceId": "pelagic_habitat_zones4",
+                "classId": "pelagic_habitat_zones4",
+                "display": "Zone 4",
                 "layerId": ""
             }
         ]

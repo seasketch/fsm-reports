@@ -1,0 +1,53 @@
+{
+  "metrics": [
+    {
+      "metricId": "envRegionValueOverlap",
+      "classId": "pelagic_habitat_zones1",
+      "groupId": null,
+      "geographyId": null,
+      "value": 12,
+      "extra": {
+        "sketchName": "fsm-land-to-international"
+      }
+    },
+    {
+      "metricId": "envRegionValueOverlap",
+      "classId": "pelagic_habitat_zones2",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "fsm-land-to-international"
+      }
+    },
+    {
+      "metricId": "envRegionValueOverlap",
+      "classId": "pelagic_habitat_zones3",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5,
+      "extra": {
+        "sketchName": "fsm-land-to-international"
+      }
+    },
+    {
+      "metricId": "envRegionValueOverlap",
+      "classId": "pelagic_habitat_zones4",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "fsm-land-to-international"
+      }
+    }
+  ],
+  "sketch": {
+    "type": "Feature",
+    "properties": {
+      "name": "fsm-land-to-international",
+      "updatedAt": "2022-11-17T10:02:53.645Z",
+      "sketchClassId": "123abc"
+    },
+    "geometry": null
+  }
+}

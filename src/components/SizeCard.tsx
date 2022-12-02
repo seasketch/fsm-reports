@@ -174,7 +174,7 @@ const genSingleSizeTable = (data: ReportResult) => {
           {
             columnLabel: "Boundary",
             type: "class",
-            width: 20,
+            width: 15,
           },
           {
             columnLabel: "Found Within Plan",
@@ -189,7 +189,7 @@ const genSingleSizeTable = (data: ReportResult) => {
                 )
               ),
             valueLabel: "sq. km.",
-            width: 25,
+            width: 30,
           },
           {
             columnLabel: " ",
@@ -203,7 +203,7 @@ const genSingleSizeTable = (data: ReportResult) => {
               targetLabelStyle: "tight",
               barHeight: 11,
             },
-            width: 30,
+            width: 40,
             targetValueFormatter: (
               value: number,
               row: number,

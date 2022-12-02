@@ -1,1 +1,15 @@
-{"bbox":[135.3124418376210087,-1.1731109652985900, 165.6765282259970036, 13.4454329253892997],"noun":"Micronesia","nounPossessive":"Micronesian","externalLinks":{},"clipDatasources":{"land":"global-clipping-osm-land","eez":"global-clipping-eez-land-union"}}
+{
+    "bbox": [
+        135.312441837621,
+        -1.17311096529859,
+        165.676528225997,
+        13.4454329253893
+    ],
+    "noun": "Micronesia",
+    "nounPossessive": "Micronesian",
+    "externalLinks": {},
+    "clipDatasources": {
+        "land": "global-clipping-osm-land",
+        "eez": "global-clipping-eez-land-union"
+    }
+}

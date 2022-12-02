@@ -12,16 +12,6 @@
     },
     {
       "metricId": "boundaryAreaOverlap",
-      "classId": "nearshore",
-      "groupId": null,
-      "geographyId": null,
-      "value": 9184007305.209621,
-      "extra": {
-        "sketchName": "fsm-east-west"
-      }
-    },
-    {
-      "metricId": "boundaryAreaOverlap",
       "classId": "offshore",
       "groupId": null,
       "geographyId": null,

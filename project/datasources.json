@@ -172,25 +172,113 @@
     "src": "data/src/Analytics/prioritization-24/offshore/inputs/features/abyssal_zone.tif"
   },
   {
-    "src": "data/src/Analytics/prioritization-24/offshore/inputs/features/hadal_zone.tif",
-    "band": 1,
-    "geo_type": "raster",
     "datasourceId": "depth_zone_hadal",
-    "formats": [
-      "tif"
-    ],
-    "created": "2022-11-21T21:50:04.900Z",
-    "lastUpdated": "2022-11-21T21:50:04.900Z",
+    "geo_type": "raster",
     "keyStats": {
       "total": {
         "total": {
+          "count": null,
           "sum": 151,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-11-21T21:50:04.900Z",
+    "lastUpdated": "2022-11-21T21:50:04.900Z",
+    "src": "data/src/Analytics/prioritization-24/offshore/inputs/features/hadal_zone.tif"
+  },
+  {
+    "datasourceId": "pelagic_habitat_zones1",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "sum": 2842,
           "count": null,
           "area": null
         }
       }
     },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
     "noDataValue": -3.3999999521443642e+38,
-    "measurementType": "quantitative"
+    "created": "2022-12-01T19:55:20.582Z",
+    "lastUpdated": "2022-12-02T00:18:15.979Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/pelagic_habitat_zones_12params_category1.tif"
+  },
+  {
+    "datasourceId": "pelagic_habitat_zones2",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 1473,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-01T19:56:24.046Z",
+    "lastUpdated": "2022-12-01T19:56:24.046Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/pelagic_habitat_zones_12params_category2.tif"
+  },
+  {
+    "datasourceId": "pelagic_habitat_zones3",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 2329,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-01T19:58:47.848Z",
+    "lastUpdated": "2022-12-01T19:58:47.848Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/pelagic_habitat_zones_12params_category3.tif"
+  },
+  {
+    "datasourceId": "pelagic_habitat_zones4",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 2388,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-01T20:00:53.318Z",
+    "lastUpdated": "2022-12-01T20:00:53.318Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/pelagic_habitat_zones_12params_category4.tif"
   }
 ]

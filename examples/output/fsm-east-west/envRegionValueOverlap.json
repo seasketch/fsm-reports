@@ -1,0 +1,53 @@
+{
+  "metrics": [
+    {
+      "metricId": "envRegionValueOverlap",
+      "classId": "pelagic_habitat_zones1",
+      "groupId": null,
+      "geographyId": null,
+      "value": 183,
+      "extra": {
+        "sketchName": "fsm-east-west"
+      }
+    },
+    {
+      "metricId": "envRegionValueOverlap",
+      "classId": "pelagic_habitat_zones2",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "fsm-east-west"
+      }
+    },
+    {
+      "metricId": "envRegionValueOverlap",
+      "classId": "pelagic_habitat_zones3",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3,
+      "extra": {
+        "sketchName": "fsm-east-west"
+      }
+    },
+    {
+      "metricId": "envRegionValueOverlap",
+      "classId": "pelagic_habitat_zones4",
+      "groupId": null,
+      "geographyId": null,
+      "value": 21,
+      "extra": {
+        "sketchName": "fsm-east-west"
+      }
+    }
+  ],
+  "sketch": {
+    "type": "Feature",
+    "properties": {
+      "name": "fsm-east-west",
+      "updatedAt": "2022-11-17T10:02:53.645Z",
+      "sketchClassId": "123abc"
+    },
+    "geometry": null
+  }
+}

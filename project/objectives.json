@@ -19,4 +19,18 @@
   "countsToward": {
       "Fully Protected Area": "yes"
   }
+}, {
+  "objectiveId": "depth_zone",
+  "shortDesc": "Depth Zone",
+  "target": 0.3,
+  "countsToward": {
+      "Fully Protected Area": "yes"
+  }
+}, {
+  "objectiveId": "env_regions",
+  "shortDesc": "Environmental regions",
+  "target": 0.3,
+  "countsToward": {
+      "Fully Protected Area": "yes"
+  }
 }]
