@@ -1,0 +1,178 @@
+{
+  "metrics": [
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6376b35881125f1a56289356",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 850,
+      "extra": {
+        "sketchName": "long"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6376b35881125f1a56289356",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 597,
+      "extra": {
+        "sketchName": "long"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6376b35881125f1a56289356",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "long"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6376b35881125f1a56289356",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "long"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6376b35881125f1a56289356",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 32,
+      "extra": {
+        "sketchName": "long"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6376b35881125f1a56289356",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "long"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6376b35881125f1a56289356",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 272,
+      "extra": {
+        "sketchName": "long"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6376b35881125f1a56289356",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 438,
+      "extra": {
+        "sketchName": "long"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6376b35881125f1a56289356",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 437,
+      "extra": {
+        "sketchName": "long"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6376b35881125f1a56289356",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 122,
+      "extra": {
+        "sketchName": "long"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6376b35881125f1a56289356",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 182,
+      "extra": {
+        "sketchName": "long"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6376b35881125f1a56289356",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 104,
+      "extra": {
+        "sketchName": "long"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6376b35881125f1a56289356",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "long"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6376b35881125f1a56289356",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "long"
+      }
+    }
+  ],
+  "sketch": {
+    "type": "Feature",
+    "properties": {
+      "id": "6376b35881125f1a56289356",
+      "name": "long",
+      "updatedAt": "2022-11-21T19:23:16.496Z",
+      "createdAt": "2022-11-17T22:19:04.962Z",
+      "sketchClassId": "6376b1e681125f1a56289340",
+      "isCollection": false,
+      "userAttributes": []
+    },
+    "id": "1",
+    "bbox": [
+      136.5434007298542,
+      3.1214126314693567,
+      165.67652822599453,
+      6.2612601794926315
+    ],
+    "geometry": null
+  }
+}

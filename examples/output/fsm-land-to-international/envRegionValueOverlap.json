@@ -2,6 +2,7 @@
   "metrics": [
     {
       "metricId": "envRegionValueOverlap",
+      "sketchId": "abc123",
       "classId": "pelagic_habitat_zones1",
       "groupId": null,
       "geographyId": null,
@@ -12,6 +13,7 @@
     },
     {
       "metricId": "envRegionValueOverlap",
+      "sketchId": "abc123",
       "classId": "pelagic_habitat_zones2",
       "groupId": null,
       "geographyId": null,
@@ -22,6 +24,7 @@
     },
     {
       "metricId": "envRegionValueOverlap",
+      "sketchId": "abc123",
       "classId": "pelagic_habitat_zones3",
       "groupId": null,
       "geographyId": null,
@@ -32,6 +35,7 @@
     },
     {
       "metricId": "envRegionValueOverlap",
+      "sketchId": "abc123",
       "classId": "pelagic_habitat_zones4",
       "groupId": null,
       "geographyId": null,
@@ -46,7 +50,8 @@
     "properties": {
       "name": "fsm-land-to-international",
       "updatedAt": "2022-11-17T10:02:53.645Z",
-      "sketchClassId": "123abc"
+      "sketchClassId": "123abc",
+      "id": "abc123"
     },
     "geometry": null
   }

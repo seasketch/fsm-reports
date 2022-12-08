@@ -2,6 +2,7 @@
   "metrics": [
     {
       "metricId": "boundaryAreaOverlap",
+      "sketchId": "abc123",
       "classId": "eez",
       "groupId": null,
       "geographyId": null,
@@ -12,6 +13,7 @@
     },
     {
       "metricId": "boundaryAreaOverlap",
+      "sketchId": "abc123",
       "classId": "offshore",
       "groupId": null,
       "geographyId": null,
@@ -26,7 +28,8 @@
     "properties": {
       "name": "fsm-land-to-international",
       "updatedAt": "2022-11-17T10:02:53.645Z",
-      "sketchClassId": "123abc"
+      "sketchClassId": "123abc",
+      "id": "abc123"
     },
     "geometry": null
   }

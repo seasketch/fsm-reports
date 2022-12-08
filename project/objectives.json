@@ -33,4 +33,25 @@
   "countsToward": {
       "Fully Protected Area": "yes"
   }
+}, {
+  "objectiveId": "gm_30",
+  "shortDesc": "Geomorphic features 30%",
+  "target": 0.3,
+  "countsToward": {
+      "Fully Protected Area": "yes"
+  }
+}, {
+  "objectiveId": "gm_15",
+  "shortDesc": "Geomorphic features 15%",
+  "target": 0.15,
+  "countsToward": {
+      "Fully Protected Area": "yes"
+  }
+}, {
+  "objectiveId": "gm_10",
+  "shortDesc": "Geomorphic features 10%",
+  "target": 0.1,
+  "countsToward": {
+      "Fully Protected Area": "yes"
+  }
 }]

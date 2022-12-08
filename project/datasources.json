@@ -199,8 +199,8 @@
     "keyStats": {
       "total": {
         "total": {
-          "sum": 2842,
           "count": null,
+          "sum": 2842,
           "area": null
         }
       }
@@ -280,5 +280,313 @@
     "created": "2022-12-01T20:00:53.318Z",
     "lastUpdated": "2022-12-01T20:00:53.318Z",
     "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/pelagic_habitat_zones_12params_category4.tif"
+  },
+  {
+    "datasourceId": "gm_abyssal_plains",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 2970,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-03T02:08:12.599Z",
+    "lastUpdated": "2022-12-03T02:08:12.599Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_abyssal_plains.tif"
+  },
+  {
+    "datasourceId": "gm_basins_perched",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 7,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-03T02:09:56.399Z",
+    "lastUpdated": "2022-12-03T02:09:56.399Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_basins__Basins.perched.on.the.slope.tif"
+  },
+  {
+    "datasourceId": "gm_basins_large",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 1444,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-03T02:15:11.088Z",
+    "lastUpdated": "2022-12-03T02:15:11.088Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_basins__Large.basins.of.seas.and.oceans.tif"
+  },
+  {
+    "datasourceId": "gm_basins_major",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 1356,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-03T02:17:35.369Z",
+    "lastUpdated": "2022-12-03T02:17:35.369Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_basins__Major.ocean.basins.tif"
+  },
+  {
+    "datasourceId": "gm_basins_small",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 138,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-03T02:18:34.529Z",
+    "lastUpdated": "2022-12-03T02:18:34.529Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_basins__Small.basins.of.seas.and.oceans.tif"
+  },
+  {
+    "datasourceId": "gm_bridges",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 1,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-03T02:32:43.754Z",
+    "lastUpdated": "2022-12-03T02:32:43.754Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_bridges.tif"
+  },
+  {
+    "datasourceId": "gm_escarpments",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 1859,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-05T22:15:13.974Z",
+    "lastUpdated": "2022-12-05T22:15:13.974Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_escarpments.tif"
+  },
+  {
+    "datasourceId": "gm_knolls",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 1630,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-05T22:16:01.219Z",
+    "lastUpdated": "2022-12-05T22:16:01.219Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/yesson_knolls.tif"
+  },
+  {
+    "datasourceId": "gm_plateaus",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 1167,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-05T22:16:45.756Z",
+    "lastUpdated": "2022-12-05T22:16:45.756Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_plateaus.tif"
+  },
+  {
+    "datasourceId": "gm_ridges",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 997,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-05T22:17:23.340Z",
+    "lastUpdated": "2022-12-05T22:17:23.340Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_ridges.tif"
+  },
+  {
+    "datasourceId": "gm_seamounts",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 1207,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-05T22:18:46.156Z",
+    "lastUpdated": "2022-12-05T22:18:46.156Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/yesson_seamounts_40km.tif"
+  },
+  {
+    "datasourceId": "gm_spreading_ridges",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 395,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-05T22:19:44.129Z",
+    "lastUpdated": "2022-12-05T22:19:44.129Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_spreading_ridges.tif"
+  },
+  {
+    "datasourceId": "gm_trenches",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 165,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-05T22:21:54.394Z",
+    "lastUpdated": "2022-12-05T22:21:54.394Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_trenches.tif"
+  },
+  {
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_troughs.tif",
+    "band": 1,
+    "geo_type": "raster",
+    "datasourceId": "gm_troughs",
+    "formats": [
+      "tif"
+    ],
+    "created": "2022-12-05T22:24:36.532Z",
+    "lastUpdated": "2022-12-05T22:24:36.532Z",
+    "keyStats": {
+      "total": {
+        "total": {
+          "sum": 5,
+          "count": null,
+          "area": null
+        }
+      }
+    },
+    "noDataValue": -3.3999999521443642e+38,
+    "measurementType": "quantitative"
   }
 ]

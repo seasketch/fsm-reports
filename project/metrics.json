@@ -82,5 +82,109 @@
                 "layerId": ""
             }
         ]
+    },
+    {
+        "metricId": "geomorphValueOverlap",
+        "type": "valueOverlap",
+        "classes": [
+            {
+                "classId": "gm_abyssal_plains",
+                "display": "Abyssal Plains",
+                "datasourceId": "gm_abyssal_plains",
+                "objectiveId": "gm_30",
+                "layerId": ""
+            },
+            {
+                "classId": "gm_basins_perched",
+                "display": "Basins - Perched on slope",
+                "datasourceId": "gm_basins_perched",
+                "objectiveId": "gm_30",
+                "layerId": ""
+            },
+            {
+                "classId": "gm_basins_large",
+                "display": "Basins - Large",
+                "datasourceId": "gm_basins_large",
+                "objectiveId": "gm_30",
+                "layerId": ""
+            },
+            {
+                "classId": "gm_basins_major",
+                "display": "Basins - Major",
+                "datasourceId": "gm_basins_major",
+                "objectiveId": "gm_30",
+                "layerId": ""
+            },
+            {
+                "classId": "gm_basins_small",
+                "display": "Basins - Small",
+                "datasourceId": "gm_basins_small",
+                "objectiveId": "gm_30",
+                "layerId": ""
+            },
+            {
+                "classId": "gm_bridges",
+                "display": "Bridges",
+                "datasourceId": "gm_bridges",
+                "objectiveId": "gm_10",
+                "layerId": ""
+            },
+            {
+                "classId": "gm_escarpments",
+                "display": "Escarpments",
+                "datasourceId": "gm_escarpments",
+                "objectiveId": "gm_10",
+                "layerId": ""
+            },
+            {
+                "classId": "gm_knolls",
+                "display": "Knolls",
+                "datasourceId": "gm_knolls",
+                "objectiveId": "gm_30",
+                "layerId": ""
+            },
+            {
+                "classId": "gm_plateaus",
+                "display": "Plateaus",
+                "datasourceId": "gm_plateaus",
+                "objectiveId": "gm_15",
+                "layerId": ""
+            },
+            {
+                "classId": "gm_ridges",
+                "display": "Ridges",
+                "datasourceId": "gm_ridges",
+                "objectiveId": "gm_10",
+                "layerId": ""
+            },
+            {
+                "classId": "gm_seamounts",
+                "display": "Seamounts",
+                "datasourceId": "gm_seamounts",
+                "objectiveId": "gm_30",
+                "layerId": ""
+            },
+            {
+                "classId": "gm_spreading_ridges",
+                "display": "Spreading Ridges",
+                "datasourceId": "gm_spreading_ridges",
+                "objectiveId": "gm_10",
+                "layerId": ""
+            },
+            {
+                "classId": "gm_trenches",
+                "display": "Trenches",
+                "datasourceId": "gm_trenches",
+                "objectiveId": "gm_15",
+                "layerId": ""
+            },
+            {
+                "classId": "gm_troughs",
+                "display": "Troughs",
+                "datasourceId": "gm_troughs",
+                "objectiveId": "gm_10",
+                "layerId": ""
+            }
+        ]
     }
 ]

@@ -15,6 +15,7 @@
   "geoprocessingFunctions": [
     "src/functions/boundaryAreaOverlap.ts",
     "src/functions/depthZoneValueOverlap.ts",
-    "src/functions/envRegionValueOverlap.ts"
+    "src/functions/envRegionValueOverlap.ts",
+    "src/functions/geomorphValueOverlap.ts"
   ]
 }
