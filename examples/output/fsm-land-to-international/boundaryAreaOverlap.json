@@ -3,6 +3,17 @@
     {
       "metricId": "boundaryAreaOverlap",
       "sketchId": "abc123",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 78187496.18896858,
+      "extra": {
+        "sketchName": "fsm-land-to-international"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "abc123",
       "classId": "eez",
       "groupId": null,
       "geographyId": null,

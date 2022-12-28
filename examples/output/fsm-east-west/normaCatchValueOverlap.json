@@ -1,34 +1,34 @@
 {
   "metrics": [
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "normaCatchValueOverlap",
       "sketchId": "abc123",
-      "classId": "contiguous",
+      "classId": "norma_longline_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 11016623742.745285,
+      "value": 67.07666638982482,
       "extra": {
         "sketchName": "fsm-east-west"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "normaCatchValueOverlap",
       "sketchId": "abc123",
-      "classId": "eez",
+      "classId": "norma_pole_and_line_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 75066893245.88089,
+      "value": 85.56363689526916,
       "extra": {
         "sketchName": "fsm-east-west"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "normaCatchValueOverlap",
       "sketchId": "abc123",
-      "classId": "offshore",
+      "classId": "norma_purse_seine_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 65882899740.64502,
+      "value": 288.2591673359275,
       "extra": {
         "sketchName": "fsm-east-west"
       }

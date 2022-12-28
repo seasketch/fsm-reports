@@ -80,4 +80,5 @@ export default new PreprocessingHandler(clipToOffshore, {
   description: "Erases portion of sketch overlapping with offshore boundary",
   timeout: 40,
   requiresProperties: [],
+  memory: 4096,
 });

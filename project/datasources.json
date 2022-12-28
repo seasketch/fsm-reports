@@ -568,25 +568,179 @@
     "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_trenches.tif"
   },
   {
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_troughs.tif",
-    "band": 1,
-    "geo_type": "raster",
     "datasourceId": "gm_troughs",
-    "formats": [
-      "tif"
-    ],
-    "created": "2022-12-05T22:24:36.532Z",
-    "lastUpdated": "2022-12-05T22:24:36.532Z",
+    "geo_type": "raster",
     "keyStats": {
       "total": {
         "total": {
-          "sum": 5,
           "count": null,
+          "sum": 5,
           "area": null
         }
       }
     },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
     "noDataValue": -3.3999999521443642e+38,
-    "measurementType": "quantitative"
+    "created": "2022-12-05T22:24:36.532Z",
+    "lastUpdated": "2022-12-05T22:24:36.532Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_troughs.tif"
+  },
+  {
+    "datasourceId": "gfw_longline_effort",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 33870621.384363845,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-08T18:58:53.945Z",
+    "lastUpdated": "2022-12-08T18:58:53.945Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/cost/GFW_longline_effort.tif"
+  },
+  {
+    "datasourceId": "gfw_pole_and_line_effort",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 418283.9891613885,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-08T18:59:26.410Z",
+    "lastUpdated": "2022-12-08T18:59:26.410Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/cost/GFW_pole_and_line_effort.tif"
+  },
+  {
+    "datasourceId": "gfw_purse_seine_effort",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 39745855.830594234,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-08T19:00:06.912Z",
+    "lastUpdated": "2022-12-08T19:00:06.912Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/cost/GFW_purse_seine_effort.tif"
+  },
+  {
+    "datasourceId": "norma_longline_catch",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 3386.3558332757093,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-08T19:00:36.049Z",
+    "lastUpdated": "2022-12-08T19:00:36.049Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/cost/NORMA_longline_catch.tif"
+  },
+  {
+    "datasourceId": "norma_pole_and_line_catch",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 2332.2591030094773,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-08T19:01:14.304Z",
+    "lastUpdated": "2022-12-08T19:01:14.304Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/cost/NORMA_pole_and_line_catch.tif"
+  },
+  {
+    "datasourceId": "norma_purse_seine_catch",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 142475.14378327155,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-08T19:02:03.489Z",
+    "lastUpdated": "2022-12-08T19:02:03.489Z",
+    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/cost/NORMA_purse_seine_catch.tif"
+  },
+  {
+    "datasourceId": "12_24_nm_boundary",
+    "geo_type": "vector",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": 23,
+          "sum": null,
+          "area": 183250418383.92377
+        }
+      }
+    },
+    "formats": [
+      "fgb"
+    ],
+    "layerName": "12_24nm_boundary_mr_v3",
+    "classKeys": [],
+    "created": "2022-12-12T18:43:26.556Z",
+    "lastUpdated": "2022-12-14T17:26:16.278Z",
+    "src": "data/src/Analytics/current-vector.gpkg",
+    "propertiesToKeep": []
   }
 ]

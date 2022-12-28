@@ -1,34 +1,34 @@
 {
   "metrics": [
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "gfwEffortValueOverlap",
       "sketchId": "abc123",
-      "classId": "contiguous",
+      "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 11016623742.745285,
+      "value": 1007901.9273018837,
       "extra": {
         "sketchName": "fsm-east-west"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "gfwEffortValueOverlap",
       "sketchId": "abc123",
-      "classId": "eez",
+      "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 75066893245.88089,
+      "value": 12606.270229563117,
       "extra": {
         "sketchName": "fsm-east-west"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "gfwEffortValueOverlap",
       "sketchId": "abc123",
-      "classId": "offshore",
+      "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 65882899740.64502,
+      "value": 173330.91955518723,
       "extra": {
         "sketchName": "fsm-east-west"
       }

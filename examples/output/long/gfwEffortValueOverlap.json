@@ -1,34 +1,34 @@
 {
   "metrics": [
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "gfwEffortValueOverlap",
       "sketchId": "6376b35881125f1a56289356",
-      "classId": "contiguous",
+      "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 21055626898.789997,
+      "value": 11863284.717891216,
       "extra": {
         "sketchName": "long"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "gfwEffortValueOverlap",
       "sketchId": "6376b35881125f1a56289356",
-      "classId": "eez",
+      "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 776105949246.3468,
+      "value": 56719.83073571324,
       "extra": {
         "sketchName": "long"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "gfwEffortValueOverlap",
       "sketchId": "6376b35881125f1a56289356",
-      "classId": "offshore",
+      "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 776105949246.2756,
+      "value": 14778371.822010845,
       "extra": {
         "sketchName": "long"
       }

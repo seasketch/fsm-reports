@@ -1,136 +1,136 @@
 {
   "metrics": [
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "gfwEffortValueOverlap",
       "sketchId": "6376b31d81125f1a56289351",
-      "classId": "contiguous",
+      "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 16860232469.008862,
+      "value": 326551.81741775945,
       "extra": {
         "sketchName": "west"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "gfwEffortValueOverlap",
       "sketchId": "6376b35881125f1a56289356",
-      "classId": "contiguous",
+      "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 21055626898.789997,
+      "value": 11863284.717891216,
       "extra": {
         "sketchName": "long"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "gfwEffortValueOverlap",
       "sketchId": "637bd01f30794c0718ce2291",
-      "classId": "contiguous",
+      "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 128436311162.09753,
+      "value": 16366229.477926545,
       "extra": {
         "sketchName": "size-target-test",
         "isCollection": true
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "gfwEffortValueOverlap",
       "sketchId": "63852d1f7eabfd48c78af3d6",
-      "classId": "contiguous",
+      "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 96032316300.17496,
+      "value": 10235329.618190918,
       "extra": {
         "sketchName": "big"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "gfwEffortValueOverlap",
       "sketchId": "6376b31d81125f1a56289351",
-      "classId": "eez",
+      "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 149219525846.253,
+      "value": 2103.8753027021885,
       "extra": {
         "sketchName": "west"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "gfwEffortValueOverlap",
       "sketchId": "6376b35881125f1a56289356",
-      "classId": "eez",
+      "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 776105949246.3468,
+      "value": 56719.83073571324,
       "extra": {
         "sketchName": "long"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "gfwEffortValueOverlap",
       "sketchId": "637bd01f30794c0718ce2291",
-      "classId": "eez",
+      "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 1432210606411.2683,
+      "value": 117100.20783813018,
       "extra": {
         "sketchName": "size-target-test",
         "isCollection": true
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "gfwEffortValueOverlap",
       "sketchId": "63852d1f7eabfd48c78af3d6",
-      "classId": "eez",
+      "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 861274873526.5677,
+      "value": 81275.72566097695,
       "extra": {
         "sketchName": "big"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "gfwEffortValueOverlap",
       "sketchId": "6376b31d81125f1a56289351",
-      "classId": "offshore",
+      "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 149219525846.1997,
+      "value": 294850.5326060988,
       "extra": {
         "sketchName": "west"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "gfwEffortValueOverlap",
       "sketchId": "6376b35881125f1a56289356",
-      "classId": "offshore",
+      "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 776105949246.2756,
+      "value": 14778371.822010845,
       "extra": {
         "sketchName": "long"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "gfwEffortValueOverlap",
       "sketchId": "637bd01f30794c0718ce2291",
-      "classId": "offshore",
+      "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 1432210606410.861,
+      "value": 19021546.344836775,
       "extra": {
         "sketchName": "size-target-test",
         "isCollection": true
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "gfwEffortValueOverlap",
       "sketchId": "63852d1f7eabfd48c78af3d6",
-      "classId": "offshore",
+      "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 861274873526.2695,
+      "value": 12617091.506578684,
       "extra": {
         "sketchName": "big"
       }

@@ -18,7 +18,7 @@ import {
 } from "@seasketch/geoprocessing/client-core";
 import project from "../../project";
 
-const metricGroup = project.getMetricGroup("geomorphValueOverlap");
+const metricGroup = project.getMetricGroup("normaCatchValueOverlap");
 const precalcMetrics = project.getPrecalcMetrics(
   metricGroup,
   "sum",
@@ -30,8 +30,8 @@ const Card = () => {
   return (
     <>
       <ResultsCard
-        title="Seafloor Habitat Protection - by Feature"
-        functionName="geomorphValueOverlap"
+        title="Fishing Effort - Catch"
+        functionName="normaCatchValueOverlap"
         useChildCard
       >
         {(data: ReportResult) => {
@@ -46,25 +46,25 @@ const Card = () => {
 
           return (
             <ToolbarCard
-              title="Seafloor Habitat Protection - by Feature"
+              title="Fishing Effort - Catch"
               items={
                 <LayerToggle label="Map" layerId={metricGroup.layerId} simple />
               }
             >
               <p>
-                The seafloor has many unique physical features, each creating
-                habitats that support different ecological communities. Offshore
-                plans should consider including a portion of each offshore
-                feature.
+                This report summarizes the percentage of fish caught within this
+                offshore plan, based on the average annual catch from 2017-2020.
+                Plans should consider the potential impact to fisheries if
+                access or activities are restricted.
               </p>
 
               <ClassTable
                 rows={topLevelMetrics}
                 metricGroup={metricGroup}
-                objective={project.getMetricGroupObjectives(metricGroup)}
+                objective={undefined}
                 columnConfig={[
                   {
-                    columnLabel: "Feature",
+                    columnLabel: "Gear Type",
                     type: "class",
                     width: 30,
                   },
@@ -107,30 +107,34 @@ const Card = () => {
 
               <Collapse title="Learn more">
                 <p>
-                  ℹ️ Overview: seafloor features were identified based on
-                  geomorphology, which classifies features using depth, seabed
-                  slope, and other environmental characteristics. Plans should
-                  ensure the representative coverage of each seafloor feature
-                  type. This report summarizes the percentage of each habitat
-                  that overlaps with this plan.
+                  ℹ️ Fish catch is used as a proxy for measuring the potential
+                  economic loss to fisheries caused by the creation of protected
+                  areas. This report can be used to minimize the potential
+                  impact of a plan to fisheries, as well as identify and reduce
+                  conflict between conservation objectives and fishing
+                  activities. The higher the percentage, the greater the
+                  potential impact if access or activities are restricted.
                 </p>
                 <p>
-                  🎯 Planning Objective: include the recommended % of each
-                  feature type at minimum. The target % varies by feature type.
+                  🎯 Planning Objective: there is no specific objective/target
+                  for limiting the potential impact to fishing activities.
                 </p>
                 <p>
-                  🗺️ Source Data: Seamounts and knolls were identifed using
-                  Yesson et al., 2021. Other geomorphological features were
-                  identified using Harris et al., 2014. Seamounts were buffered
-                  an additional 40km beyond their natural extent.
+                  🗺️ Source Data: Catch data collected by observers were
+                  provided by National Oceanic Resource Management Authority
+                  (NORMA).
+                  <ul>
+                    <li>Purse seine: 2010-2021</li>
+                    <li>Longline: 2010-2021</li>
+                    <li>Pole and line: 2010-2020</li>
+                  </ul>
                 </p>
                 <p>
-                  📈 Report: The percentage of each feature type within this
-                  plan is calculated by finding the overlap of each feature type
-                  with the plan, summing its area, then dividing it by the total
-                  area of each feature type found within the EEZ. If the plan
-                  includes multiple areas that overlap, the overlap is only
-                  counted once.
+                  📈 Report: Percentages are calculated by summing the hours of
+                  fishing effort within the MPAs in this plan, and dividing it
+                  by the total area of fishing effort in the overall planning
+                  area. If the plan includes multiple areas that overlap, the
+                  overlap is only counted once.
                 </p>
               </Collapse>
             </ToolbarCard>

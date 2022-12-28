@@ -30,7 +30,7 @@ const Card = () => {
   return (
     <>
       <ResultsCard
-        title="Depth Zones"
+        title="Environmental Regions"
         functionName="envRegionValueOverlap"
         useChildCard
       >

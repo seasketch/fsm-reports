@@ -16,6 +16,8 @@
     "src/functions/boundaryAreaOverlap.ts",
     "src/functions/depthZoneValueOverlap.ts",
     "src/functions/envRegionValueOverlap.ts",
-    "src/functions/geomorphValueOverlap.ts"
+    "src/functions/geomorphValueOverlap.ts",
+    "src/functions/gfwEffortValueOverlap.ts",
+    "src/functions/normaCatchValueOverlap.ts"
   ]
 }

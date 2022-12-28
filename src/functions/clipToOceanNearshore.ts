@@ -80,4 +80,5 @@ export default new PreprocessingHandler(clipToNearshore, {
   description: "Erases portion of sketch falling outside of nearshore boundary",
   timeout: 40,
   requiresProperties: [],
+  memory: 4096,
 });

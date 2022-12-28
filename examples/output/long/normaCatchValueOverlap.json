@@ -1,34 +1,34 @@
 {
   "metrics": [
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "normaCatchValueOverlap",
       "sketchId": "6376b35881125f1a56289356",
-      "classId": "contiguous",
+      "classId": "norma_longline_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 21055626898.789997,
+      "value": 1192.6799996295013,
       "extra": {
         "sketchName": "long"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "normaCatchValueOverlap",
       "sketchId": "6376b35881125f1a56289356",
-      "classId": "eez",
+      "classId": "norma_pole_and_line_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 776105949246.3468,
+      "value": 373.745456719771,
       "extra": {
         "sketchName": "long"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "normaCatchValueOverlap",
       "sketchId": "6376b35881125f1a56289356",
-      "classId": "offshore",
+      "classId": "norma_purse_seine_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 776105949246.2756,
+      "value": 49163.319136574864,
       "extra": {
         "sketchName": "long"
       }

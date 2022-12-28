@@ -7,6 +7,7 @@ import {
   nestMetrics,
   valueFormatter,
   toPercentMetric,
+  sortMetricsDisplayOrder,
 } from "@seasketch/geoprocessing/client-core";
 import {
   ClassTable,
@@ -89,29 +90,35 @@ const SizeCard = () => {
             }
           >
             <p>
-              Offshore plans must meet size objectives and stay within the
-              offshore area of the {project.basic.nounPossessive || ""} EEZ,
-              which is 12 nautical miles out to 200 nautical miles.
+              {project.basic.nounPossessive || ""} waters extend from the
+              shoreline out to 200 nautical miles, known as the Exclusive
+              Economic Zone (EEZ). This report summarizes offshore plan overlap
+              with the EEZ and other boundaries within it, measuring progress
+              towards achieving % targets for each boundary.
             </p>
-
             {genSingleSizeTable(data)}
-
             {isCollection && (
               <Collapse title="Show by MPA">
                 {genNetworkSizeTable(data)}
               </Collapse>
             )}
-
             <Collapse title="Learn more">
               <p>
-                The Exclusive Economic Zone (EEZ) extends from the shoreline out
-                to 200 nautical miles. The EEZ is further split up into two
-                distinct subregions, inshore and offshore.
+                <img
+                  src={require("../assets/img/territorial_waters.png")}
+                  style={{ maxWidth: "100%" }}
+                />
+                <a
+                  target="_blank"
+                  href="https://en.wikipedia.org/wiki/Territorial_waters"
+                >
+                  Source: Wikipedia - Territorial Waters
+                </a>
               </p>
               <p>
                 {" "}
                 This report summarizes the size and proportion of this plan
-                within these 3 regions.
+                within these boundaries.
               </p>
               <p>
                 If MPA boundaries overlap with each other, the overlap is only
@@ -131,10 +138,14 @@ const genSingleSizeTable = (data: ReportResult) => {
     (m) => m.sketchId === data.sketch.properties.id
   );
 
-  const finalMetrics = [
-    ...singleMetrics,
-    ...toPercentMetric(singleMetrics, boundaryTotalMetrics, PERC_METRIC_ID),
-  ];
+  const finalMetrics = sortMetricsDisplayOrder(
+    [
+      ...singleMetrics,
+      ...toPercentMetric(singleMetrics, boundaryTotalMetrics, PERC_METRIC_ID),
+    ],
+    "classId",
+    ["eez", "offshore", "contiguous"]
+  );
 
   const aggMetrics = nestMetrics(finalMetrics, ["classId", "metricId"]);
 
@@ -174,7 +185,7 @@ const genSingleSizeTable = (data: ReportResult) => {
           {
             columnLabel: "Boundary",
             type: "class",
-            width: 15,
+            width: 25,
           },
           {
             columnLabel: "Found Within Plan",
@@ -189,7 +200,7 @@ const genSingleSizeTable = (data: ReportResult) => {
                 )
               ),
             valueLabel: "sq. km.",
-            width: 30,
+            width: 20,
           },
           {
             columnLabel: " ",

@@ -8,7 +8,7 @@
                 "display": "EEZ",
                 "datasourceId": "eez",
                 "objectiveId": "eez",
-                "layerId": ""
+                "layerId": "607b3caa11ccf2303daf87c5"
             },
             {
                 "classId": "offshore",
@@ -16,6 +16,13 @@
                 "datasourceId": "offshore",
                 "objectiveId": "offshore",
                 "layerId": ""
+            },
+            {
+                "classId": "contiguous",
+                "display": "Contiguous",
+                "datasourceId": "12_24_nm_boundary",
+                "objectiveId": "12_24_zone",
+                "layerId": "607b3caa11ccf2303daf87c9"
             }
         ]
     },
@@ -183,6 +190,54 @@
                 "display": "Troughs",
                 "datasourceId": "gm_troughs",
                 "objectiveId": "gm_10",
+                "layerId": ""
+            }
+        ]
+    },
+    {
+        "metricId": "gfwEffortValueOverlap",
+        "type": "valueOverlap",
+        "classes": [
+            {
+                "datasourceId": "gfw_longline_effort",
+                "classId": "gfw_longline_effort",
+                "display": "Longline",
+                "layerId": ""
+            },
+            {
+                "datasourceId": "gfw_purse_seine_effort",
+                "classId": "gfw_purse_seine_effort",
+                "display": "Purse seine",
+                "layerId": ""
+            },
+            {
+                "datasourceId": "gfw_pole_and_line_effort",
+                "classId": "gfw_pole_and_line_effort",
+                "display": "Pole and line",
+                "layerId": ""
+            }
+        ]
+    },
+    {
+        "metricId": "normaCatchValueOverlap",
+        "type": "valueOverlap",
+        "classes": [
+            {
+                "datasourceId": "norma_longline_catch",
+                "classId": "norma_longline_catch",
+                "display": "Longline",
+                "layerId": ""
+            },
+            {
+                "datasourceId": "norma_purse_seine_catch",
+                "classId": "norma_purse_seine_catch",
+                "display": "Purse seine",
+                "layerId": ""
+            },
+            {
+                "datasourceId": "norma_pole_and_line_catch",
+                "classId": "norma_pole_and_line_catch",
+                "display": "Pole and line",
                 "layerId": ""
             }
         ]

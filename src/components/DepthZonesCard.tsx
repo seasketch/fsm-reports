@@ -46,7 +46,7 @@ const Card = () => {
 
           return (
             <ToolbarCard
-              title="Depth Zones"
+              title="Depth Zone"
               items={
                 <LayerToggle label="Map" layerId={metricGroup.layerId} simple />
               }
@@ -119,7 +119,8 @@ const Card = () => {
                   <a href="https://www.gebco.net/" target="_blank">
                     GEBCO
                   </a>{" "}
-                  bathymetry data was classified into 4 depth zones
+                  bathymetry digital elevation models were grouped into depth
+                  zones
                 </p>
                 <p>
                   📈 Report: The percentage of each depth zone within this plan

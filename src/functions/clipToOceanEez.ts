@@ -147,4 +147,5 @@ export default new PreprocessingHandler(clipToOceanEez, {
     "Erases portion of sketch overlapping with land or extending into ocean outsize EEZ boundary",
   timeout: 40,
   requiresProperties: [],
+  memory: 4096,
 });

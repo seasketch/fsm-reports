@@ -20,6 +20,13 @@
       "Fully Protected Area": "yes"
   }
 }, {
+  "objectiveId": "12_24_zone",
+  "shortDesc": "12-24nm Zone Objective",
+  "target": 1.0,
+  "countsToward": {
+      "Fully Protected Area": "yes"
+  }
+}, {
   "objectiveId": "depth_zone",
   "shortDesc": "Depth Zone",
   "target": 0.3,
