@@ -66,7 +66,7 @@ const Card = () => {
                   {
                     columnLabel: "Feature",
                     type: "class",
-                    width: 30,
+                    width: 25,
                   },
                   {
                     columnLabel: "% Found Within Plan",
@@ -80,7 +80,7 @@ const Card = () => {
                       targetLabelStyle: "tight",
                       barHeight: 11,
                     },
-                    width: 40,
+                    width: 60,
                     targetValueFormatter: (
                       value: number,
                       row: number,
@@ -97,6 +97,11 @@ const Card = () => {
                           `${valueFormatter(value / 100, "percent0dig")}`;
                       }
                     },
+                  },
+                  {
+                    type: "layerToggle",
+                    width: 15,
+                    columnLabel: "Map",
                   },
                 ]}
               />
