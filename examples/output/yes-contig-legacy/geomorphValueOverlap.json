@@ -1,0 +1,367 @@
+{
+  "metrics": [
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9f287e6222710ccf0415",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "west1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9fc47e6222710ccf0417",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "yes-contig-legacy",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9f287e6222710ccf0415",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "west1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9fc47e6222710ccf0417",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "yes-contig-legacy",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9f287e6222710ccf0415",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "west1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9fc47e6222710ccf0417",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "yes-contig-legacy",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9f287e6222710ccf0415",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "west1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9fc47e6222710ccf0417",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "yes-contig-legacy",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9f287e6222710ccf0415",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "west1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9fc47e6222710ccf0417",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "yes-contig-legacy",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9f287e6222710ccf0415",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "west1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9fc47e6222710ccf0417",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "yes-contig-legacy",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9f287e6222710ccf0415",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 13,
+      "extra": {
+        "sketchName": "west1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9fc47e6222710ccf0417",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 13,
+      "extra": {
+        "sketchName": "yes-contig-legacy",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9f287e6222710ccf0415",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 14,
+      "extra": {
+        "sketchName": "west1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9fc47e6222710ccf0417",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 14,
+      "extra": {
+        "sketchName": "yes-contig-legacy",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9f287e6222710ccf0415",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "west1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9fc47e6222710ccf0417",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "yes-contig-legacy",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9f287e6222710ccf0415",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 26,
+      "extra": {
+        "sketchName": "west1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9fc47e6222710ccf0417",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 26,
+      "extra": {
+        "sketchName": "yes-contig-legacy",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9f287e6222710ccf0415",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 11,
+      "extra": {
+        "sketchName": "west1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9fc47e6222710ccf0417",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 11,
+      "extra": {
+        "sketchName": "yes-contig-legacy",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9f287e6222710ccf0415",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "west1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9fc47e6222710ccf0417",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "yes-contig-legacy",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9f287e6222710ccf0415",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "west1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9fc47e6222710ccf0417",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "yes-contig-legacy",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9f287e6222710ccf0415",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "west1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "63bd9fc47e6222710ccf0417",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "yes-contig-legacy",
+        "isCollection": true
+      }
+    }
+  ],
+  "sketch": {
+    "type": "FeatureCollection",
+    "properties": {
+      "id": "63bd9fc47e6222710ccf0417",
+      "name": "yes-contig-legacy",
+      "updatedAt": "2023-01-10T17:27:32.657Z",
+      "createdAt": "2023-01-10T17:26:28.747Z",
+      "sketchClassId": "6377badb6e639a792de961fb",
+      "isCollection": true,
+      "userAttributes": [
+        {
+          "fieldType": "ChoiceField",
+          "label": "Include 12-24 nm Contiguous Zone as No-Take?",
+          "value": "Yes",
+          "exportId": "include_12-24_nm_contiguous_zone"
+        }
+      ]
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "63bd9f287e6222710ccf0415",
+          "name": "west1",
+          "updatedAt": "2023-01-10T17:27:32.660Z",
+          "createdAt": "2023-01-10T17:23:52.415Z",
+          "sketchClassId": "6376b1e681125f1a56289340",
+          "isCollection": false,
+          "userAttributes": []
+        },
+        "id": "1",
+        "bbox": [
+          140.6823524693773,
+          8.83674563157263,
+          142.61594621937675,
+          10.281209654843519
+        ],
+        "geometry": null
+      }
+    ]
+  }
+}

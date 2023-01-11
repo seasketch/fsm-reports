@@ -2,7 +2,7 @@
  * @jest-environment node
  * @group smoke
  */
-import { clipToOceanEez } from "./clipToOceanEez";
+import { clipToContiguous } from "./clipToOceanContiguous";
 import { clipToPolygonPreprocessorSmokeTest } from "../util/genClipToPolygonPreprocessorSmokeTest";
 
-clipToPolygonPreprocessorSmokeTest(clipToOceanEez, "clipToOceanEez");
+clipToPolygonPreprocessorSmokeTest(clipToContiguous, "clipToOceanContiguous");

@@ -1,0 +1,114 @@
+{
+  "metrics": [
+    {
+      "metricId": "normaCatchValueOverlap",
+      "sketchId": "63bd9f287e6222710ccf0415",
+      "classId": "norma_longline_catch",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4.7991666458547115,
+      "extra": {
+        "sketchName": "west1"
+      }
+    },
+    {
+      "metricId": "normaCatchValueOverlap",
+      "sketchId": "63bd9fc47e6222710ccf0417",
+      "classId": "norma_longline_catch",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4.7991666458547115,
+      "extra": {
+        "sketchName": "yes-contig-legacy",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "normaCatchValueOverlap",
+      "sketchId": "63bd9f287e6222710ccf0415",
+      "classId": "norma_pole_and_line_catch",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8.927272753790021,
+      "extra": {
+        "sketchName": "west1"
+      }
+    },
+    {
+      "metricId": "normaCatchValueOverlap",
+      "sketchId": "63bd9fc47e6222710ccf0417",
+      "classId": "norma_pole_and_line_catch",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8.927272753790021,
+      "extra": {
+        "sketchName": "yes-contig-legacy",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "normaCatchValueOverlap",
+      "sketchId": "63bd9f287e6222710ccf0415",
+      "classId": "norma_purse_seine_catch",
+      "groupId": null,
+      "geographyId": null,
+      "value": 299.4750020131469,
+      "extra": {
+        "sketchName": "west1"
+      }
+    },
+    {
+      "metricId": "normaCatchValueOverlap",
+      "sketchId": "63bd9fc47e6222710ccf0417",
+      "classId": "norma_purse_seine_catch",
+      "groupId": null,
+      "geographyId": null,
+      "value": 299.4750020131469,
+      "extra": {
+        "sketchName": "yes-contig-legacy",
+        "isCollection": true
+      }
+    }
+  ],
+  "sketch": {
+    "type": "FeatureCollection",
+    "properties": {
+      "id": "63bd9fc47e6222710ccf0417",
+      "name": "yes-contig-legacy",
+      "updatedAt": "2023-01-10T17:27:32.657Z",
+      "createdAt": "2023-01-10T17:26:28.747Z",
+      "sketchClassId": "6377badb6e639a792de961fb",
+      "isCollection": true,
+      "userAttributes": [
+        {
+          "fieldType": "ChoiceField",
+          "label": "Include 12-24 nm Contiguous Zone as No-Take?",
+          "value": "Yes",
+          "exportId": "include_12-24_nm_contiguous_zone"
+        }
+      ]
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "63bd9f287e6222710ccf0415",
+          "name": "west1",
+          "updatedAt": "2023-01-10T17:27:32.660Z",
+          "createdAt": "2023-01-10T17:23:52.415Z",
+          "sketchClassId": "6376b1e681125f1a56289340",
+          "isCollection": false,
+          "userAttributes": []
+        },
+        "id": "1",
+        "bbox": [
+          140.6823524693773,
+          8.83674563157263,
+          142.61594621937675,
+          10.281209654843519
+        ],
+        "geometry": null
+      }
+    ]
+  }
+}
