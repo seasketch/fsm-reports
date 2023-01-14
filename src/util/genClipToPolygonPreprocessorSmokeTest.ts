@@ -44,6 +44,6 @@ export const clipToPolygonPreprocessorSmokeTest = (
           }
         }
       }
-    }, 20000);
+    }, 60000);
   });
 };

@@ -6,7 +6,7 @@
       "classId": "contiguous",
       "groupId": null,
       "geographyId": null,
-      "value": 980618342.3729523,
+      "value": 847281073.1659787,
       "extra": {
         "sketchName": "no-contig-ssn",
         "isCollection": true
@@ -18,7 +18,7 @@
       "classId": "contiguous",
       "groupId": null,
       "geographyId": null,
-      "value": 980618342.3729523,
+      "value": 847281073.1659787,
       "extra": {
         "sketchName": "small-west"
       }
@@ -132,7 +132,7 @@
         {
           "label": "Include 12-24 nm Contiguous Zone as No-Take?",
           "value": false,
-          "exportId": "include_12_24_nm_contiguous_zone",
+          "exportId": "include_12-24_nm_contiguous_zone",
           "fieldType": "YesNo"
         },
         {
@@ -148,7 +148,7 @@
           "fieldType": "TextArea"
         }
       ],
-      "include_12_24_nm_contiguous_zon": false
+      "include_12-24_nm_contiguous_zone": false
     }
   }
 }

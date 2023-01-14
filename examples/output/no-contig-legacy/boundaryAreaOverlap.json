@@ -6,7 +6,7 @@
       "classId": "contiguous",
       "groupId": null,
       "geographyId": null,
-      "value": 707041235.5274403,
+      "value": 654631352.8783262,
       "extra": {
         "sketchName": "west1"
       }
@@ -17,7 +17,7 @@
       "classId": "contiguous",
       "groupId": null,
       "geographyId": null,
-      "value": 707041235.5274403,
+      "value": 654631352.8783262,
       "extra": {
         "sketchName": "no-contig-legacy",
         "isCollection": true

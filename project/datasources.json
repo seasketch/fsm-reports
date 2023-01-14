@@ -729,17 +729,17 @@
         "total": {
           "count": 23,
           "sum": null,
-          "area": 183250418383.92377
+          "area": 182757384106.58716
         }
       }
     },
     "formats": [
       "fgb"
     ],
-    "layerName": "12_24nm_boundary_mr_v3",
+    "layerName": "12_24nm_boundary_mr_reproduction",
     "classKeys": [],
     "created": "2022-12-12T18:43:26.556Z",
-    "lastUpdated": "2022-12-30T19:35:46.326Z",
+    "lastUpdated": "2023-01-13T23:24:27.372Z",
     "src": "data/src/Analytics/current-vector.gpkg",
     "propertiesToKeep": []
   }

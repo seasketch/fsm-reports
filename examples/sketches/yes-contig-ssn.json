@@ -94,7 +94,7 @@
             {
                 "label": "Include 12-24 nm Contiguous Zone as No-Take?",
                 "value": true,
-                "exportId": "include_12_24_nm_contiguous_zone",
+                "exportId": "include_12-24_nm_contiguous_zone",
                 "fieldType": "YesNo"
             },
             {
@@ -110,6 +110,6 @@
                 "fieldType": "TextArea"
             }
         ],
-        "include_12_24_nm_contiguous_zon": true
+        "include_12-24_nm_contiguous_zone": true
     }
 }

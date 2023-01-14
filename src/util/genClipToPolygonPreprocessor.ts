@@ -35,10 +35,14 @@ export const genClipToPolygonPreprocessor = (
     datasourceId: string;
     operation: "intersect" | "difference";
   }>,
-  maxSize?: number
+  options: {
+    /** Ensures result is a polygon. If clip results in multipolygon, returns the largest component */
+    ensurePolygon?: boolean;
+    maxSize?: number;
+  } = {}
 ) => {
   const func = (feature: Feature): Promise<Feature> =>
-    clipToPolygonDatasources(clipOperations, feature, maxSize);
+    clipToPolygonDatasources(clipOperations, feature, options);
   return func;
 };
 
@@ -54,9 +58,18 @@ export async function clipToPolygonDatasources(
     operation: "intersect" | "difference";
   }>,
   feature: Feature,
-  maxSize: number = 500000,
-  enforceMaxSize: boolean = false
+  options: {
+    maxSize?: number;
+    enforceMaxSize?: boolean;
+    ensurePolygon?: boolean;
+  } = {}
 ): Promise<Feature> {
+  const {
+    maxSize = 500000,
+    enforceMaxSize = false,
+    ensurePolygon = true,
+  } = options;
+
   //// INITIAL CHECKS ////
 
   if (!isPolygonFeature(feature)) {
@@ -90,8 +103,8 @@ export async function clipToPolygonDatasources(
   if (!clipped || area(clipped) === 0) {
     throw new ValidationError("Sketch is outside of boundary");
   } else {
-    // If multipolygon, keep only the biggest piece
-    if (clipped.geometry.type === "MultiPolygon") {
+    if (options.ensurePolygon && clipped.geometry.type === "MultiPolygon") {
+      // If multipolygon, keep only the biggest piece
       const flattened = flatten(clipped);
       let biggest = [0, 0];
       for (var i = 0; i < flattened.features.length; i++) {

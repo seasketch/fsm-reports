@@ -1,0 +1,4173 @@
+{
+  "metrics": [
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "002b23f5-8978-4686-9346-6bb216246833",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "22c41b9b-4f1e-4110-a251-36264045e6af",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 11,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2cb47297-2296-4c64-9493-0a437740978c",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 9,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "42979bc6-ec91-4290-935a-98977abaa87f",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 45,
+      "extra": {
+        "sketchName": "contiguous_zone_sketches",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "86defaf7-e45c-4322-b565-67410c1b01f1",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "9eec0da4-69dd-4590-97bd-92a358608c34",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 7,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "a4afaa84-4059-4e10-bb26-5799a718883a",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "c50e2746-5cd4-4860-8603-89094044fc33",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "cbec47ba-676a-475b-91bf-74e3af3563db",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "de6816a8-f40e-4564-99fa-47165537d961",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 9,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ed138ca7-92a2-4908-b912-877487721cb2",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "002b23f5-8978-4686-9346-6bb216246833",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 2,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "22c41b9b-4f1e-4110-a251-36264045e6af",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2cb47297-2296-4c64-9493-0a437740978c",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 2,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "42979bc6-ec91-4290-935a-98977abaa87f",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 54,
+      "extra": {
+        "sketchName": "contiguous_zone_sketches",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 7,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 14,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "86defaf7-e45c-4322-b565-67410c1b01f1",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "9eec0da4-69dd-4590-97bd-92a358608c34",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "a4afaa84-4059-4e10-bb26-5799a718883a",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 17,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "c50e2746-5cd4-4860-8603-89094044fc33",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "cbec47ba-676a-475b-91bf-74e3af3563db",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 7,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "de6816a8-f40e-4564-99fa-47165537d961",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ed138ca7-92a2-4908-b912-877487721cb2",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "002b23f5-8978-4686-9346-6bb216246833",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "22c41b9b-4f1e-4110-a251-36264045e6af",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2cb47297-2296-4c64-9493-0a437740978c",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "42979bc6-ec91-4290-935a-98977abaa87f",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 25,
+      "extra": {
+        "sketchName": "contiguous_zone_sketches",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "86defaf7-e45c-4322-b565-67410c1b01f1",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "9eec0da4-69dd-4590-97bd-92a358608c34",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "a4afaa84-4059-4e10-bb26-5799a718883a",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "c50e2746-5cd4-4860-8603-89094044fc33",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "cbec47ba-676a-475b-91bf-74e3af3563db",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "de6816a8-f40e-4564-99fa-47165537d961",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ed138ca7-92a2-4908-b912-877487721cb2",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "002b23f5-8978-4686-9346-6bb216246833",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "22c41b9b-4f1e-4110-a251-36264045e6af",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2cb47297-2296-4c64-9493-0a437740978c",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "42979bc6-ec91-4290-935a-98977abaa87f",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4,
+      "extra": {
+        "sketchName": "contiguous_zone_sketches",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "86defaf7-e45c-4322-b565-67410c1b01f1",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "9eec0da4-69dd-4590-97bd-92a358608c34",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "a4afaa84-4059-4e10-bb26-5799a718883a",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "c50e2746-5cd4-4860-8603-89094044fc33",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "cbec47ba-676a-475b-91bf-74e3af3563db",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "de6816a8-f40e-4564-99fa-47165537d961",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ed138ca7-92a2-4908-b912-877487721cb2",
+      "classId": "gm_basins_perched",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "002b23f5-8978-4686-9346-6bb216246833",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "22c41b9b-4f1e-4110-a251-36264045e6af",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2cb47297-2296-4c64-9493-0a437740978c",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "42979bc6-ec91-4290-935a-98977abaa87f",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 28,
+      "extra": {
+        "sketchName": "contiguous_zone_sketches",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 2,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "86defaf7-e45c-4322-b565-67410c1b01f1",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "9eec0da4-69dd-4590-97bd-92a358608c34",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "a4afaa84-4059-4e10-bb26-5799a718883a",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 9,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "c50e2746-5cd4-4860-8603-89094044fc33",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "cbec47ba-676a-475b-91bf-74e3af3563db",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 2,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "de6816a8-f40e-4564-99fa-47165537d961",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 7,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ed138ca7-92a2-4908-b912-877487721cb2",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "002b23f5-8978-4686-9346-6bb216246833",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "22c41b9b-4f1e-4110-a251-36264045e6af",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2cb47297-2296-4c64-9493-0a437740978c",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "42979bc6-ec91-4290-935a-98977abaa87f",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous_zone_sketches",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "86defaf7-e45c-4322-b565-67410c1b01f1",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "9eec0da4-69dd-4590-97bd-92a358608c34",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "a4afaa84-4059-4e10-bb26-5799a718883a",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "c50e2746-5cd4-4860-8603-89094044fc33",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "cbec47ba-676a-475b-91bf-74e3af3563db",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "de6816a8-f40e-4564-99fa-47165537d961",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ed138ca7-92a2-4908-b912-877487721cb2",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "002b23f5-8978-4686-9346-6bb216246833",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 7,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "22c41b9b-4f1e-4110-a251-36264045e6af",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2cb47297-2296-4c64-9493-0a437740978c",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 18,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "42979bc6-ec91-4290-935a-98977abaa87f",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 284,
+      "extra": {
+        "sketchName": "contiguous_zone_sketches",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 14,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 25,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 28,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 16,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "86defaf7-e45c-4322-b565-67410c1b01f1",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 20,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "9eec0da4-69dd-4590-97bd-92a358608c34",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "a4afaa84-4059-4e10-bb26-5799a718883a",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 13,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 46,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "c50e2746-5cd4-4860-8603-89094044fc33",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 7,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "cbec47ba-676a-475b-91bf-74e3af3563db",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 7,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 21,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 14,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "de6816a8-f40e-4564-99fa-47165537d961",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 21,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ed138ca7-92a2-4908-b912-877487721cb2",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 2,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "002b23f5-8978-4686-9346-6bb216246833",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "22c41b9b-4f1e-4110-a251-36264045e6af",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2cb47297-2296-4c64-9493-0a437740978c",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "42979bc6-ec91-4290-935a-98977abaa87f",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 111,
+      "extra": {
+        "sketchName": "contiguous_zone_sketches",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "86defaf7-e45c-4322-b565-67410c1b01f1",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "9eec0da4-69dd-4590-97bd-92a358608c34",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "a4afaa84-4059-4e10-bb26-5799a718883a",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 26,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "c50e2746-5cd4-4860-8603-89094044fc33",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "cbec47ba-676a-475b-91bf-74e3af3563db",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 9,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "de6816a8-f40e-4564-99fa-47165537d961",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ed138ca7-92a2-4908-b912-877487721cb2",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "002b23f5-8978-4686-9346-6bb216246833",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 23,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 33,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "22c41b9b-4f1e-4110-a251-36264045e6af",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2cb47297-2296-4c64-9493-0a437740978c",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 23,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "42979bc6-ec91-4290-935a-98977abaa87f",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 98,
+      "extra": {
+        "sketchName": "contiguous_zone_sketches",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "86defaf7-e45c-4322-b565-67410c1b01f1",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "9eec0da4-69dd-4590-97bd-92a358608c34",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 19,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "a4afaa84-4059-4e10-bb26-5799a718883a",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "c50e2746-5cd4-4860-8603-89094044fc33",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "cbec47ba-676a-475b-91bf-74e3af3563db",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "de6816a8-f40e-4564-99fa-47165537d961",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ed138ca7-92a2-4908-b912-877487721cb2",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "002b23f5-8978-4686-9346-6bb216246833",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 7,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "22c41b9b-4f1e-4110-a251-36264045e6af",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2cb47297-2296-4c64-9493-0a437740978c",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "42979bc6-ec91-4290-935a-98977abaa87f",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 158,
+      "extra": {
+        "sketchName": "contiguous_zone_sketches",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 13,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 21,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 21,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 7,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "86defaf7-e45c-4322-b565-67410c1b01f1",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 13,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "9eec0da4-69dd-4590-97bd-92a358608c34",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "a4afaa84-4059-4e10-bb26-5799a718883a",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 24,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "c50e2746-5cd4-4860-8603-89094044fc33",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "cbec47ba-676a-475b-91bf-74e3af3563db",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 7,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "de6816a8-f40e-4564-99fa-47165537d961",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 14,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ed138ca7-92a2-4908-b912-877487721cb2",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "002b23f5-8978-4686-9346-6bb216246833",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 12,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "22c41b9b-4f1e-4110-a251-36264045e6af",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2cb47297-2296-4c64-9493-0a437740978c",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 23,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "42979bc6-ec91-4290-935a-98977abaa87f",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 268,
+      "extra": {
+        "sketchName": "contiguous_zone_sketches",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 23,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 33,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 9,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "86defaf7-e45c-4322-b565-67410c1b01f1",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 20,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "9eec0da4-69dd-4590-97bd-92a358608c34",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "a4afaa84-4059-4e10-bb26-5799a718883a",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 51,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "c50e2746-5cd4-4860-8603-89094044fc33",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "cbec47ba-676a-475b-91bf-74e3af3563db",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 18,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 12,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "de6816a8-f40e-4564-99fa-47165537d961",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 26,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ed138ca7-92a2-4908-b912-877487721cb2",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 7,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "002b23f5-8978-4686-9346-6bb216246833",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "22c41b9b-4f1e-4110-a251-36264045e6af",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2cb47297-2296-4c64-9493-0a437740978c",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "42979bc6-ec91-4290-935a-98977abaa87f",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 13,
+      "extra": {
+        "sketchName": "contiguous_zone_sketches",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "86defaf7-e45c-4322-b565-67410c1b01f1",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "9eec0da4-69dd-4590-97bd-92a358608c34",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "a4afaa84-4059-4e10-bb26-5799a718883a",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "c50e2746-5cd4-4860-8603-89094044fc33",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "cbec47ba-676a-475b-91bf-74e3af3563db",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 12,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "de6816a8-f40e-4564-99fa-47165537d961",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ed138ca7-92a2-4908-b912-877487721cb2",
+      "classId": "gm_spreading_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "002b23f5-8978-4686-9346-6bb216246833",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "22c41b9b-4f1e-4110-a251-36264045e6af",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2cb47297-2296-4c64-9493-0a437740978c",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "42979bc6-ec91-4290-935a-98977abaa87f",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 19,
+      "extra": {
+        "sketchName": "contiguous_zone_sketches",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "86defaf7-e45c-4322-b565-67410c1b01f1",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "9eec0da4-69dd-4590-97bd-92a358608c34",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "a4afaa84-4059-4e10-bb26-5799a718883a",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "c50e2746-5cd4-4860-8603-89094044fc33",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "cbec47ba-676a-475b-91bf-74e3af3563db",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 9,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "de6816a8-f40e-4564-99fa-47165537d961",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ed138ca7-92a2-4908-b912-877487721cb2",
+      "classId": "gm_trenches",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "002b23f5-8978-4686-9346-6bb216246833",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "22c41b9b-4f1e-4110-a251-36264045e6af",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2cb47297-2296-4c64-9493-0a437740978c",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "42979bc6-ec91-4290-935a-98977abaa87f",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous_zone_sketches",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "86defaf7-e45c-4322-b565-67410c1b01f1",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "9eec0da4-69dd-4590-97bd-92a358608c34",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "a4afaa84-4059-4e10-bb26-5799a718883a",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "c50e2746-5cd4-4860-8603-89094044fc33",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "cbec47ba-676a-475b-91bf-74e3af3563db",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "de6816a8-f40e-4564-99fa-47165537d961",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "ed138ca7-92a2-4908-b912-877487721cb2",
+      "classId": "gm_troughs",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    }
+  ],
+  "sketch": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+          "isCollection": false,
+          "sketchClassId": "8c8d8973-2b09-4062-9339-ef0cb2d42520",
+          "createdAt": "2023-01-13T23:55:40.632Z",
+          "updatedAt": "2023-01-13T23:55:40.632Z",
+          "name": "contiguous-zone-1"
+        },
+        "bbox": [
+          142.587549,
+          6.276767,
+          143.48602,
+          7.107805
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+          "isCollection": false,
+          "sketchClassId": "ce56a14b-27ed-4abb-9630-46e9eb7dcb17",
+          "createdAt": "2023-01-13T23:55:40.633Z",
+          "updatedAt": "2023-01-13T23:55:40.633Z",
+          "name": "contiguous-zone-2"
+        },
+        "bbox": [
+          148.670441,
+          6.265825,
+          149.852718,
+          8.057858
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "de6816a8-f40e-4564-99fa-47165537d961",
+          "isCollection": false,
+          "sketchClassId": "9aeb50af-723f-425e-8065-489879008618",
+          "createdAt": "2023-01-13T23:55:40.633Z",
+          "updatedAt": "2023-01-13T23:55:40.633Z",
+          "name": "contiguous-zone-3"
+        },
+        "bbox": [
+          143.416905,
+          6.830509,
+          144.872046,
+          7.788397
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+          "isCollection": false,
+          "sketchClassId": "b0d33e6f-dcdc-4814-9a96-6f1a2ebd8efb",
+          "createdAt": "2023-01-13T23:55:40.633Z",
+          "updatedAt": "2023-01-13T23:55:40.633Z",
+          "name": "contiguous-zone-4"
+        },
+        "bbox": [
+          145.441469,
+          6.967447,
+          147.455594,
+          8.499142
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+          "isCollection": false,
+          "sketchClassId": "0d86d3b4-1bc0-4119-8398-c8121d9ff4b1",
+          "createdAt": "2023-01-13T23:55:40.633Z",
+          "updatedAt": "2023-01-13T23:55:40.633Z",
+          "name": "contiguous-zone-5"
+        },
+        "bbox": [
+          147.227352,
+          7.689813,
+          148.075888,
+          8.522956
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+          "isCollection": false,
+          "sketchClassId": "368e3bdd-e61e-43df-bf5e-10b2c6757f04",
+          "createdAt": "2023-01-13T23:55:40.633Z",
+          "updatedAt": "2023-01-13T23:55:40.633Z",
+          "name": "contiguous-zone-6"
+        },
+        "bbox": [
+          139.920636,
+          7.713102,
+          140.823909,
+          8.557962
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "c50e2746-5cd4-4860-8603-89094044fc33",
+          "isCollection": false,
+          "sketchClassId": "93dbef10-ac7a-4922-940c-d5b6d65e2c81",
+          "createdAt": "2023-01-13T23:55:40.633Z",
+          "updatedAt": "2023-01-13T23:55:40.633Z",
+          "name": "contiguous-zone-7"
+        },
+        "bbox": [
+          144.090843,
+          8.17143,
+          144.940525,
+          9.015136
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "86defaf7-e45c-4322-b565-67410c1b01f1",
+          "isCollection": false,
+          "sketchClassId": "be46a700-a062-4353-b64a-c9758a33cf0c",
+          "createdAt": "2023-01-13T23:55:40.634Z",
+          "updatedAt": "2023-01-13T23:55:40.634Z",
+          "name": "contiguous-zone-8"
+        },
+        "bbox": [
+          136.943713,
+          7.898587,
+          137.985473,
+          8.996418
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "a4afaa84-4059-4e10-bb26-5799a718883a",
+          "isCollection": false,
+          "sketchClassId": "0d8392ad-d1a6-4292-a1e7-3536ec674866",
+          "createdAt": "2023-01-13T23:55:40.634Z",
+          "updatedAt": "2023-01-13T23:55:40.634Z",
+          "name": "contiguous-zone-9"
+        },
+        "bbox": [
+          149.270524,
+          8.12502,
+          150.849,
+          9.399532
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "cbec47ba-676a-475b-91bf-74e3af3563db",
+          "isCollection": false,
+          "sketchClassId": "ae7a3b77-3566-4c79-8715-5fa4a8726b70",
+          "createdAt": "2023-01-13T23:55:40.634Z",
+          "updatedAt": "2023-01-13T23:55:40.634Z",
+          "name": "contiguous-zone-10"
+        },
+        "bbox": [
+          144.973472,
+          8.818734,
+          145.796708,
+          9.638525
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+          "isCollection": false,
+          "sketchClassId": "0e578416-8cf3-4d9c-a29e-31a4c44c76aa",
+          "createdAt": "2023-01-13T23:55:40.634Z",
+          "updatedAt": "2023-01-13T23:55:40.634Z",
+          "name": "contiguous-zone-11"
+        },
+        "bbox": [
+          137.637499,
+          9.025866,
+          138.610788,
+          10.054432
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+          "isCollection": false,
+          "sketchClassId": "7a93503d-b34a-47bb-b282-8da1513008bd",
+          "createdAt": "2023-01-13T23:55:40.634Z",
+          "updatedAt": "2023-01-13T23:55:40.634Z",
+          "name": "contiguous-zone-12"
+        },
+        "bbox": [
+          139.163326,
+          9.355002,
+          140.933034,
+          10.489295
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "9eec0da4-69dd-4590-97bd-92a358608c34",
+          "isCollection": false,
+          "sketchClassId": "78a2dfd1-de32-4b3e-ae4e-5dd9a2157c95",
+          "createdAt": "2023-01-13T23:55:40.635Z",
+          "updatedAt": "2023-01-13T23:55:40.635Z",
+          "name": "contiguous-zone-13"
+        },
+        "bbox": [
+          154.30444,
+          0.61838,
+          155.215737,
+          1.513748
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2cb47297-2296-4c64-9493-0a437740978c",
+          "isCollection": false,
+          "sketchClassId": "1a009275-d4e3-43f3-ab30-e48ea23e9564",
+          "createdAt": "2023-01-13T23:55:40.635Z",
+          "updatedAt": "2023-01-13T23:55:40.635Z",
+          "name": "contiguous-zone-14"
+        },
+        "bbox": [
+          154.504333,
+          3.413951,
+          155.382267,
+          4.281411
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+          "isCollection": false,
+          "sketchClassId": "372cdb24-836c-471c-809e-325fa97ad22f",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-15"
+        },
+        "bbox": [
+          162.49786,
+          4.858222,
+          163.43671,
+          5.776735
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+          "isCollection": false,
+          "sketchClassId": "f1d6c050-1f1a-4b75-926e-2241f7c62e37",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-16"
+        },
+        "bbox": [
+          152.704073,
+          4.875051,
+          154.230365,
+          6.33761
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "002b23f5-8978-4686-9346-6bb216246833",
+          "isCollection": false,
+          "sketchClassId": "b5acb1ed-9f94-4944-8884-a6c637808800",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-17"
+        },
+        "bbox": [
+          156.742669,
+          5.367711,
+          157.753802,
+          6.264225
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+          "isCollection": false,
+          "sketchClassId": "1027c897-6ad6-444b-8362-79600740d0e5",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-18"
+        },
+        "bbox": [
+          160.285178,
+          5.793561,
+          161.123183,
+          6.636039
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "22c41b9b-4f1e-4110-a251-36264045e6af",
+          "isCollection": false,
+          "sketchClassId": "7ca75cce-7887-430d-a2e3-0c15ba03316a",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-19"
+        },
+        "bbox": [
+          159.341225,
+          6.25763,
+          160.176846,
+          7.104735
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+          "isCollection": false,
+          "sketchClassId": "27c38276-1f2b-4d0c-926d-0a3f30f65bf2",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-20"
+        },
+        "bbox": [
+          157.358192,
+          6.316639,
+          158.774761,
+          7.493237
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "ed138ca7-92a2-4908-b912-877487721cb2",
+          "isCollection": false,
+          "sketchClassId": "827fe7bf-213a-4c5b-b374-4b2237ee2306",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-21"
+        },
+        "bbox": [
+          154.739631,
+          7.000378,
+          155.821666,
+          8.034262
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+          "isCollection": false,
+          "sketchClassId": "c475143e-81c5-4f90-a474-e0c7c4fee752",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-22"
+        },
+        "bbox": [
+          150.924417,
+          6.422887,
+          153.156336,
+          9.194743
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+          "isCollection": false,
+          "sketchClassId": "5c8c4d41-1375-4120-a446-9d5252e44b9c",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-23"
+        },
+        "bbox": [
+          153.833951,
+          7.653451,
+          154.722885,
+          8.555551
+        ],
+        "geometry": null
+      }
+    ],
+    "properties": {
+      "id": "42979bc6-ec91-4290-935a-98977abaa87f",
+      "isCollection": true,
+      "sketchClassId": "e4fdcdc6-4856-44bc-8d52-7bc15a4401f9",
+      "createdAt": "2023-01-13T23:55:40.637Z",
+      "updatedAt": "2023-01-13T23:55:40.637Z",
+      "name": "contiguous_zone_sketches",
+      "userAttributes": [
+        {
+          "fieldType": "ChoiceField",
+          "label": "Include 12-24 nm Contiguous Zone as No-Take?",
+          "value": "Yes",
+          "exportId": "include_12-24_nm_contiguous_zone"
+        },
+        {
+          "label": "Include 12-24 nm Contiguous Zone as No-Take?",
+          "value": true,
+          "exportId": "include_12-24_nm_contiguous_zone",
+          "fieldType": "YesNo"
+        },
+        {
+          "label": "Description",
+          "value": null,
+          "exportId": "description",
+          "fieldType": "TextArea"
+        },
+        {
+          "label": "Author(s)",
+          "value": null,
+          "exportId": "authors",
+          "fieldType": "TextArea"
+        }
+      ]
+    },
+    "bbox": [
+      136.943713,
+      0.61838,
+      163.43671,
+      10.489295
+    ]
+  }
+}
