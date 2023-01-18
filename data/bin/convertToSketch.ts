@@ -17,20 +17,24 @@ const fc = fs.readJSONSync(infile) as FeatureCollection<Polygon>;
 console.log(fc);
 
 const sketchFeatures = fc.features.map((feat, idx) => {
+  const idValue = feat.properties.id || idx + 1;
   const featureName = (() => {
     if (name) {
       if (feat.properties && feat.properties[name]) {
         return feat.properties[name];
       } else {
-        return `${name}-${idx + 1}`;
+        return `${name}-${idValue}`;
       }
     } else {
-      return `Area-${idx}`;
+      return `Area-${idValue}`;
     }
   })();
   console.log(`Feature name is ${featureName}`);
-  const sk = genSketch(feat.geometry, {
+  const sk = genSketch({
+    feature: feat,
     name: featureName,
+    ...feat.properties,
+    id: `${idValue}`,
   });
   delete sk.properties.userAttributes;
   return sk;
@@ -42,4 +46,4 @@ const sc = genSketchCollection(sketchFeatures, {
 delete sc.properties.userAttributes;
 
 fs.removeSync(outfile);
-fs.writeJSONSync(outfile, sc);
+fs.writeJSONSync(outfile, sc, { spaces: 4 });

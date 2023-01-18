@@ -4,69 +4,104 @@
  */
 
 import {
-  includeContiguous,
-  isTrueAttributeValue,
+  includeVirtualSketch,
+  isTruthyAttributeValue,
 } from "./includeVirtualSketch";
 import {
-  genSampleNullSketch,
-  genSampleNullSketchCollection,
+  getUserAttribute,
+  isSketchCollection,
+  NullSketchCollection,
+  SketchCollection,
 } from "@seasketch/geoprocessing";
+import { genSketch, genSketchCollection } from "./sketch";
+import { polygon } from "@turf/helpers";
 
 describe("isTrueAttributeValue", () => {
   test("should return proper boolean", async () => {
-    expect(isTrueAttributeValue(undefined)).toBe(false);
-    expect(isTrueAttributeValue("No")).toBe(false);
-    expect(isTrueAttributeValue(false)).toBe(false);
-    expect(isTrueAttributeValue(true)).toBe(true);
-    expect(isTrueAttributeValue("Yes")).toBe(true);
-    expect(isTrueAttributeValue("yes")).toBe(true);
+    expect(isTruthyAttributeValue(undefined)).toBe(false);
+    expect(isTruthyAttributeValue("No")).toBe(false);
+    expect(isTruthyAttributeValue(false)).toBe(false);
+    expect(isTruthyAttributeValue(true)).toBe(true);
+    expect(isTruthyAttributeValue("Yes")).toBe(true);
+    expect(isTruthyAttributeValue("yes")).toBe(true);
   });
 });
 
-describe("includeContiguous", () => {
-  test.only("should be included only if valid yes attribute", async () => {
-    const sketch = genSampleNullSketch("test");
-    const coll = genSampleNullSketchCollection([sketch], "test");
-    expect(includeContiguous(coll)).toBe(false);
+/**
+ * Returns true if contiguous zone should be included in the given sketch collection
+ */
+export const sketchTest = (
+  collection: SketchCollection | NullSketchCollection
+) => {
+  const val = getUserAttribute(collection.properties, "test");
+  return isTruthyAttributeValue(val);
+};
 
+const mergeColl = genSketchCollection([
+  genSketch({
+    name: "test2",
+    feature: polygon([
+      [
+        [1, 1],
+        [1, 2],
+        [2, 2],
+        [2, 1],
+        [1, 1],
+      ],
+    ]),
+  }),
+]);
+
+describe("includeVirtualSketch", () => {
+  test.only("should be included if valid yes attribute", async () => {
+    const sketch = genSketch({ name: "test1" });
+    const coll = genSketchCollection([sketch], { name: "testColl" });
     coll.properties.userAttributes = [
       {
         fieldType: "ChoiceField",
-        label: "Include 12-24 nm Contiguous Zone as No-Take?",
-        value: "foo",
-        exportId: "include_12-24_nm_contiguous_zone",
-      },
-    ];
-    expect(includeContiguous(coll)).toBe(false);
-
-    coll.properties.userAttributes = [
-      {
-        fieldType: "ChoiceField",
-        label: "Include 12-24 nm Contiguous Zone as No-Take?",
-        value: "No",
-        exportId: "include_12-24_nm_contiguous_zone",
-      },
-    ];
-    expect(includeContiguous(coll)).toBe(false);
-
-    coll.properties.userAttributes = [
-      {
-        fieldType: "ChoiceField",
-        label: "Include 12-24 nm Contiguous Zone as No-Take?",
+        label: "Include test?",
         value: "Yes",
-        exportId: "include_12-24_nm_contiguous_zone",
+        exportId: "test",
       },
     ];
-    expect(includeContiguous(coll)).toBe(true);
 
+    const mergedColl = includeVirtualSketch(coll, mergeColl, sketchTest);
+    expect(isSketchCollection(mergedColl));
+    expect(mergedColl.features.length).toBe(2);
+    expect(mergedColl.properties.name).toBe("testColl");
+    expect(mergedColl.features[0].properties.name).toBe("test1");
+    expect(mergedColl.features[1].properties.name).toBe("test2");
+    expect(mergedColl.bbox).toEqual([0, 0, 2, 2]); // verify expanded bbox
+  });
+
+  test.only("should not be included if invalid yes attribute", async () => {
+    const sketch = genSketch({ name: "test1" });
+    const coll = genSketchCollection([sketch], { name: "testColl" });
     coll.properties.userAttributes = [
       {
         fieldType: "ChoiceField",
-        label: "Include 12-24 nm Contiguous Zone as No-Take?",
-        value: "yes",
-        exportId: "include_12-24_nm_contiguous_zone",
+        label: "Include test?",
+        value: "foo",
+        exportId: "test",
       },
     ];
-    expect(includeContiguous(coll)).toBe(true);
+
+    const mergedColl = includeVirtualSketch(coll, mergeColl, sketchTest);
+    expect(isSketchCollection(mergedColl));
+    expect(mergedColl.features.length).toBe(1);
+    expect(mergedColl.properties.name).toBe("testColl");
+    expect(mergedColl.features[0].properties.name).toBe("test1");
+  });
+
+  test.only("should not be included if missing attribute", async () => {
+    const sketch = genSketch({ name: "test1" });
+    const coll = genSketchCollection([sketch], { name: "testColl" });
+    coll.properties.userAttributes = [];
+
+    const mergedColl = includeVirtualSketch(coll, mergeColl, sketchTest);
+    expect(isSketchCollection(mergedColl));
+    expect(mergedColl.features.length).toBe(1);
+    expect(mergedColl.properties.name).toBe("testColl");
+    expect(mergedColl.features[0].properties.name).toBe("test1");
   });
 });
