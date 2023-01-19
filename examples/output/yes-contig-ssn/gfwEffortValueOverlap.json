@@ -6,7 +6,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 4089.792178630829,
+      "value": 12770.983009338379,
       "extra": {
         "sketchName": "contiguous-zone-1"
       }
@@ -17,7 +17,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 3902.815478608012,
+      "value": 16650.43052005768,
       "extra": {
         "sketchName": "contiguous-zone-10"
       }
@@ -28,7 +28,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 11158.877166748047,
+      "value": 57215.03542327881,
       "extra": {
         "sketchName": "small-west"
       }
@@ -39,7 +39,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 302776.1023543859,
+      "value": 936433.2233896255,
       "extra": {
         "sketchName": "yes-contig-ssn",
         "isCollection": true
@@ -51,7 +51,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 17534.25669670105,
+      "value": 66887.31727600098,
       "extra": {
         "sketchName": "contiguous-zone-11"
       }
@@ -62,7 +62,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 869.5031769685447,
+      "value": 2827.3648071289062,
       "extra": {
         "sketchName": "contiguous-zone-12"
       }
@@ -73,7 +73,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 2482.409101963043,
+      "value": 7812.948993682861,
       "extra": {
         "sketchName": "contiguous-zone-13"
       }
@@ -84,7 +84,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 13381.063398599625,
+      "value": 39778.657787323,
       "extra": {
         "sketchName": "contiguous-zone-14"
       }
@@ -95,7 +95,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 50650.400044709444,
+      "value": 135973.38874816895,
       "extra": {
         "sketchName": "contiguous-zone-15"
       }
@@ -106,7 +106,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 13920.110639214516,
+      "value": 46515.779792785645,
       "extra": {
         "sketchName": "contiguous-zone-16"
       }
@@ -117,7 +117,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 12632.284745335579,
+      "value": 54845.03371953964,
       "extra": {
         "sketchName": "contiguous-zone-17"
       }
@@ -128,7 +128,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 7581.216923713684,
+      "value": 19421.562450408936,
       "extra": {
         "sketchName": "contiguous-zone-18"
       }
@@ -139,7 +139,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 10009.281412124634,
+      "value": 15569.030336856842,
       "extra": {
         "sketchName": "contiguous-zone-19"
       }
@@ -150,7 +150,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 8515.338657796383,
+      "value": 34990.948543548584,
       "extra": {
         "sketchName": "contiguous-zone-2"
       }
@@ -161,7 +161,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 68112.37797355652,
+      "value": 173390.3205485344,
       "extra": {
         "sketchName": "contiguous-zone-20"
       }
@@ -172,7 +172,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 12329.183169841766,
+      "value": 58385.12936973572,
       "extra": {
         "sketchName": "contiguous-zone-21"
       }
@@ -183,7 +183,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 17766.099193289876,
+      "value": 72388.64918136597,
       "extra": {
         "sketchName": "contiguous-zone-22"
       }
@@ -194,7 +194,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 12533.260804146528,
+      "value": 28643.959252357483,
       "extra": {
         "sketchName": "contiguous-zone-23"
       }
@@ -205,7 +205,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 1574.7814318174496,
+      "value": 2324.4842109680176,
       "extra": {
         "sketchName": "contiguous-zone-3"
       }
@@ -216,7 +216,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 4851.567546961829,
+      "value": 20283.84157848358,
       "extra": {
         "sketchName": "contiguous-zone-4"
       }
@@ -227,7 +227,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 1783.8140016235411,
+      "value": 8160.663391113281,
       "extra": {
         "sketchName": "contiguous-zone-5"
       }
@@ -238,7 +238,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 389.5641941577196,
+      "value": 763.7381081581116,
       "extra": {
         "sketchName": "contiguous-zone-6"
       }
@@ -249,7 +249,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 3834.2026507426053,
+      "value": 7191.390453338623,
       "extra": {
         "sketchName": "contiguous-zone-7"
       }
@@ -260,7 +260,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 9346.181416630745,
+      "value": 37554.15616607666,
       "extra": {
         "sketchName": "contiguous-zone-8"
       }
@@ -271,7 +271,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 13527.720350503922,
+      "value": 21914.745712280273,
       "extra": {
         "sketchName": "contiguous-zone-9"
       }
@@ -282,7 +282,7 @@
       "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 148.02129900455475,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-1"
       }
@@ -293,7 +293,7 @@
       "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 272.0048418045044,
+      "value": 1220.2194213867188,
       "extra": {
         "sketchName": "contiguous-zone-10"
       }
@@ -315,7 +315,7 @@
       "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 2870.20268939808,
+      "value": 3898.272243499756,
       "extra": {
         "sketchName": "yes-contig-ssn",
         "isCollection": true
@@ -360,7 +360,7 @@
       "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 4.501628875732422,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-14"
       }
@@ -371,7 +371,7 @@
       "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 1000.0148971378803,
+      "value": 1949.133560180664,
       "extra": {
         "sketchName": "contiguous-zone-15"
       }
@@ -382,7 +382,7 @@
       "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 141.5557041168213,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-16"
       }
@@ -415,7 +415,7 @@
       "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 31.3681640625,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-19"
       }
@@ -437,7 +437,7 @@
       "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 183.86462652683258,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-20"
       }
@@ -448,7 +448,7 @@
       "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 52.34347424097359,
+      "value": 124.71521377563477,
       "extra": {
         "sketchName": "contiguous-zone-21"
       }
@@ -459,7 +459,7 @@
       "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 0.2386176884174347,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-22"
       }
@@ -470,7 +470,7 @@
       "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 24.892564088106155,
+      "value": 30.45305633544922,
       "extra": {
         "sketchName": "contiguous-zone-23"
       }
@@ -481,7 +481,7 @@
       "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 91.6466588973999,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-3"
       }
@@ -514,7 +514,7 @@
       "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 182.69226267188787,
+      "value": 573.7509918212891,
       "extra": {
         "sketchName": "contiguous-zone-6"
       }
@@ -525,7 +525,7 @@
       "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 572.201161570847,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-7"
       }
@@ -547,7 +547,7 @@
       "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 164.85678871162236,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-9"
       }
@@ -558,7 +558,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 16656.532662391663,
+      "value": 74116.86135864258,
       "extra": {
         "sketchName": "contiguous-zone-1"
       }
@@ -569,7 +569,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 333.41077423095703,
+      "value": 964.9219970703125,
       "extra": {
         "sketchName": "contiguous-zone-10"
       }
@@ -580,7 +580,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 395.92710876464844,
+      "value": 11812.615234375,
       "extra": {
         "sketchName": "small-west"
       }
@@ -591,7 +591,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 1003825.5371374339,
+      "value": 2700187.8982982635,
       "extra": {
         "sketchName": "yes-contig-ssn",
         "isCollection": true
@@ -603,7 +603,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 1751.7577624320984,
+      "value": 9542.854385375977,
       "extra": {
         "sketchName": "contiguous-zone-11"
       }
@@ -614,7 +614,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 1559.3802092075348,
+      "value": 1995.8968505859375,
       "extra": {
         "sketchName": "contiguous-zone-12"
       }
@@ -625,7 +625,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 99835.47895812988,
+      "value": 496414.6618041992,
       "extra": {
         "sketchName": "contiguous-zone-13"
       }
@@ -636,7 +636,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 18477.42178440094,
+      "value": 75510.88000488281,
       "extra": {
         "sketchName": "contiguous-zone-14"
       }
@@ -647,7 +647,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 152963.85635375977,
+      "value": 335531.19640922546,
       "extra": {
         "sketchName": "contiguous-zone-15"
       }
@@ -658,7 +658,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 18148.42009627819,
+      "value": 93593.06578063965,
       "extra": {
         "sketchName": "contiguous-zone-16"
       }
@@ -669,7 +669,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 10717.627139091492,
+      "value": 21076.999000549316,
       "extra": {
         "sketchName": "contiguous-zone-17"
       }
@@ -680,7 +680,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 4023.531394958496,
+      "value": 25097.50860595703,
       "extra": {
         "sketchName": "contiguous-zone-18"
       }
@@ -691,7 +691,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 2487.194937467575,
+      "value": 22104.527557373047,
       "extra": {
         "sketchName": "contiguous-zone-19"
       }
@@ -702,7 +702,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 41455.78690338135,
+      "value": 130620.56730651855,
       "extra": {
         "sketchName": "contiguous-zone-2"
       }
@@ -713,7 +713,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 591410.3642196655,
+      "value": 1214474.4210357666,
       "extra": {
         "sketchName": "contiguous-zone-20"
       }
@@ -724,7 +724,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 5874.560300499201,
+      "value": 20798.781021118164,
       "extra": {
         "sketchName": "contiguous-zone-21"
       }
@@ -735,7 +735,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 2945.907115459442,
+      "value": 7694.173095703125,
       "extra": {
         "sketchName": "contiguous-zone-22"
       }
@@ -757,7 +757,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 21622.151421904564,
+      "value": 113802.2017211914,
       "extra": {
         "sketchName": "contiguous-zone-3"
       }
@@ -768,7 +768,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 1047.7695364952087,
+      "value": 17556.3212890625,
       "extra": {
         "sketchName": "contiguous-zone-4"
       }
@@ -790,7 +790,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 11387.644021689892,
+      "value": 21147.949279785156,
       "extra": {
         "sketchName": "contiguous-zone-6"
       }
@@ -801,7 +801,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 263.56819796562195,
+      "value": 111.55083465576172,
       "extra": {
         "sketchName": "contiguous-zone-7"
       }
@@ -812,7 +812,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 467.24623925983906,
+      "value": 6219.9437255859375,
       "extra": {
         "sketchName": "contiguous-zone-8"
       }

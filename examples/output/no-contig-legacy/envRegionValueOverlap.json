@@ -6,7 +6,7 @@
       "classId": "pelagic_habitat_zones1",
       "groupId": null,
       "geographyId": null,
-      "value": 15,
+      "value": 52,
       "extra": {
         "sketchName": "west1"
       }
@@ -17,7 +17,7 @@
       "classId": "pelagic_habitat_zones1",
       "groupId": null,
       "geographyId": null,
-      "value": 15,
+      "value": 52,
       "extra": {
         "sketchName": "no-contig-legacy",
         "isCollection": true
@@ -52,7 +52,7 @@
       "classId": "pelagic_habitat_zones3",
       "groupId": null,
       "geographyId": null,
-      "value": 49,
+      "value": 158,
       "extra": {
         "sketchName": "west1"
       }
@@ -63,7 +63,7 @@
       "classId": "pelagic_habitat_zones3",
       "groupId": null,
       "geographyId": null,
-      "value": 49,
+      "value": 158,
       "extra": {
         "sketchName": "no-contig-legacy",
         "isCollection": true

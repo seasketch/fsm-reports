@@ -52,7 +52,7 @@
       "classId": "gm_basins_major",
       "groupId": null,
       "geographyId": null,
-      "value": 3,
+      "value": 11,
       "extra": {
         "sketchName": "no-contig-ssn",
         "isCollection": true
@@ -64,7 +64,7 @@
       "classId": "gm_basins_major",
       "groupId": null,
       "geographyId": null,
-      "value": 3,
+      "value": 11,
       "extra": {
         "sketchName": "small-west"
       }
@@ -144,7 +144,7 @@
       "classId": "gm_escarpments",
       "groupId": null,
       "geographyId": null,
-      "value": 12,
+      "value": 28,
       "extra": {
         "sketchName": "no-contig-ssn",
         "isCollection": true
@@ -156,6 +156,75 @@
       "classId": "gm_escarpments",
       "groupId": null,
       "geographyId": null,
+      "value": 28,
+      "extra": {
+        "sketchName": "small-west"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10925",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "no-contig-ssn",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10926",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "small-west"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10925",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "no-contig-ssn",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10926",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "small-west"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10925",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 12,
+      "extra": {
+        "sketchName": "no-contig-ssn",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10926",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
       "value": 12,
       "extra": {
         "sketchName": "small-west"
@@ -164,79 +233,10 @@
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "10925",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 1,
-      "extra": {
-        "sketchName": "no-contig-ssn",
-        "isCollection": true
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10926",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 1,
-      "extra": {
-        "sketchName": "small-west"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10925",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "no-contig-ssn",
-        "isCollection": true
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10926",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "small-west"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10925",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 5,
-      "extra": {
-        "sketchName": "no-contig-ssn",
-        "isCollection": true
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10926",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 5,
-      "extra": {
-        "sketchName": "small-west"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10925",
       "classId": "gm_seamounts",
       "groupId": null,
       "geographyId": null,
-      "value": 11,
+      "value": 36,
       "extra": {
         "sketchName": "no-contig-ssn",
         "isCollection": true
@@ -248,7 +248,7 @@
       "classId": "gm_seamounts",
       "groupId": null,
       "geographyId": null,
-      "value": 11,
+      "value": 36,
       "extra": {
         "sketchName": "small-west"
       }
@@ -282,7 +282,7 @@
       "classId": "gm_trenches",
       "groupId": null,
       "geographyId": null,
-      "value": 3,
+      "value": 11,
       "extra": {
         "sketchName": "no-contig-ssn",
         "isCollection": true
@@ -294,7 +294,7 @@
       "classId": "gm_trenches",
       "groupId": null,
       "geographyId": null,
-      "value": 3,
+      "value": 11,
       "extra": {
         "sketchName": "small-west"
       }

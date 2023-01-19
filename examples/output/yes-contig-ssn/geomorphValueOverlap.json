@@ -17,7 +17,7 @@
       "classId": "gm_abyssal_plains",
       "groupId": null,
       "geographyId": null,
-      "value": 1,
+      "value": 3,
       "extra": {
         "sketchName": "contiguous-zone-10"
       }
@@ -39,7 +39,7 @@
       "classId": "gm_abyssal_plains",
       "groupId": null,
       "geographyId": null,
-      "value": 45,
+      "value": 49,
       "extra": {
         "sketchName": "yes-contig-ssn",
         "isCollection": true
@@ -73,7 +73,7 @@
       "classId": "gm_abyssal_plains",
       "groupId": null,
       "geographyId": null,
-      "value": 7,
+      "value": 15,
       "extra": {
         "sketchName": "contiguous-zone-13"
       }
@@ -81,66 +81,66 @@
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "14",
-      "classId": "gm_abyssal_plains",
-      "groupId": null,
-      "geographyId": null,
-      "value": 9,
-      "extra": {
-        "sketchName": "contiguous-zone-14"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "15",
-      "classId": "gm_abyssal_plains",
-      "groupId": null,
-      "geographyId": null,
-      "value": 3,
-      "extra": {
-        "sketchName": "contiguous-zone-15"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "16",
-      "classId": "gm_abyssal_plains",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-16"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "17",
-      "classId": "gm_abyssal_plains",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-17"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "18",
-      "classId": "gm_abyssal_plains",
-      "groupId": null,
-      "geographyId": null,
-      "value": 5,
-      "extra": {
-        "sketchName": "contiguous-zone-18"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "19",
       "classId": "gm_abyssal_plains",
       "groupId": null,
       "geographyId": null,
       "value": 11,
       "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "15",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "16",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "17",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "18",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 2,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "19",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8,
+      "extra": {
         "sketchName": "contiguous-zone-19"
       }
     },
@@ -192,275 +192,275 @@
       "metricId": "geomorphValueOverlap",
       "sketchId": "23",
       "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "3",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "5",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "7",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "8",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "9",
+      "classId": "gm_abyssal_plains",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "1",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10923",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "small-west"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10924",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 106,
+      "extra": {
+        "sketchName": "yes-contig-ssn",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "11",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "12",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "13",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "14",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "15",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "16",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "17",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "18",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "19",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 14,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "20",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "21",
+      "classId": "gm_basins_large",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "22",
+      "classId": "gm_basins_large",
       "groupId": null,
       "geographyId": null,
       "value": 9,
       "extra": {
-        "sketchName": "contiguous-zone-23"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "3",
-      "classId": "gm_abyssal_plains",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-3"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "4",
-      "classId": "gm_abyssal_plains",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-4"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "5",
-      "classId": "gm_abyssal_plains",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-5"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "6",
-      "classId": "gm_abyssal_plains",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-6"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "7",
-      "classId": "gm_abyssal_plains",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-7"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "8",
-      "classId": "gm_abyssal_plains",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-8"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "9",
-      "classId": "gm_abyssal_plains",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-9"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "1",
-      "classId": "gm_basins_large",
-      "groupId": null,
-      "geographyId": null,
-      "value": 7,
-      "extra": {
-        "sketchName": "contiguous-zone-1"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10",
-      "classId": "gm_basins_large",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-10"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10923",
-      "classId": "gm_basins_large",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "small-west"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10924",
-      "classId": "gm_basins_large",
-      "groupId": null,
-      "geographyId": null,
-      "value": 54,
-      "extra": {
-        "sketchName": "yes-contig-ssn",
-        "isCollection": true
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "11",
-      "classId": "gm_basins_large",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-11"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "12",
-      "classId": "gm_basins_large",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-12"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "13",
-      "classId": "gm_basins_large",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-13"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "14",
-      "classId": "gm_basins_large",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-14"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "15",
-      "classId": "gm_basins_large",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-15"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "16",
-      "classId": "gm_basins_large",
-      "groupId": null,
-      "geographyId": null,
-      "value": 2,
-      "extra": {
-        "sketchName": "contiguous-zone-16"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "17",
-      "classId": "gm_basins_large",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-17"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "18",
-      "classId": "gm_basins_large",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-18"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "19",
-      "classId": "gm_basins_large",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-19"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "2",
-      "classId": "gm_basins_large",
-      "groupId": null,
-      "geographyId": null,
-      "value": 7,
-      "extra": {
-        "sketchName": "contiguous-zone-2"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "20",
-      "classId": "gm_basins_large",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-20"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "21",
-      "classId": "gm_basins_large",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-21"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "22",
-      "classId": "gm_basins_large",
-      "groupId": null,
-      "geographyId": null,
-      "value": 2,
-      "extra": {
         "sketchName": "contiguous-zone-22"
       }
     },
@@ -492,7 +492,7 @@
       "classId": "gm_basins_large",
       "groupId": null,
       "geographyId": null,
-      "value": 17,
+      "value": 39,
       "extra": {
         "sketchName": "contiguous-zone-4"
       }
@@ -503,7 +503,7 @@
       "classId": "gm_basins_large",
       "groupId": null,
       "geographyId": null,
-      "value": 1,
+      "value": 4,
       "extra": {
         "sketchName": "contiguous-zone-5"
       }
@@ -514,7 +514,7 @@
       "classId": "gm_basins_large",
       "groupId": null,
       "geographyId": null,
-      "value": 14,
+      "value": 22,
       "extra": {
         "sketchName": "contiguous-zone-6"
       }
@@ -525,7 +525,7 @@
       "classId": "gm_basins_large",
       "groupId": null,
       "geographyId": null,
-      "value": 4,
+      "value": 8,
       "extra": {
         "sketchName": "contiguous-zone-7"
       }
@@ -580,7 +580,7 @@
       "classId": "gm_basins_major",
       "groupId": null,
       "geographyId": null,
-      "value": 3,
+      "value": 11,
       "extra": {
         "sketchName": "small-west"
       }
@@ -588,23 +588,23 @@
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "10924",
+      "classId": "gm_basins_major",
+      "groupId": null,
+      "geographyId": null,
+      "value": 73,
+      "extra": {
+        "sketchName": "yes-contig-ssn",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "11",
       "classId": "gm_basins_major",
       "groupId": null,
       "geographyId": null,
       "value": 28,
       "extra": {
-        "sketchName": "yes-contig-ssn",
-        "isCollection": true
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "11",
-      "classId": "gm_basins_major",
-      "groupId": null,
-      "geographyId": null,
-      "value": 10,
-      "extra": {
         "sketchName": "contiguous-zone-11"
       }
     },
@@ -746,7 +746,7 @@
       "classId": "gm_basins_major",
       "groupId": null,
       "geographyId": null,
-      "value": 4,
+      "value": 1,
       "extra": {
         "sketchName": "contiguous-zone-23"
       }
@@ -812,7 +812,7 @@
       "classId": "gm_basins_major",
       "groupId": null,
       "geographyId": null,
-      "value": 10,
+      "value": 33,
       "extra": {
         "sketchName": "contiguous-zone-8"
       }
@@ -823,7 +823,7 @@
       "classId": "gm_basins_major",
       "groupId": null,
       "geographyId": null,
-      "value": 1,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-9"
       }
@@ -867,7 +867,7 @@
       "classId": "gm_basins_perched",
       "groupId": null,
       "geographyId": null,
-      "value": 4,
+      "value": 5,
       "extra": {
         "sketchName": "yes-contig-ssn",
         "isCollection": true
@@ -1055,7 +1055,7 @@
       "classId": "gm_basins_perched",
       "groupId": null,
       "geographyId": null,
-      "value": 3,
+      "value": 4,
       "extra": {
         "sketchName": "contiguous-zone-5"
       }
@@ -1121,7 +1121,7 @@
       "classId": "gm_basins_small",
       "groupId": null,
       "geographyId": null,
-      "value": 6,
+      "value": 13,
       "extra": {
         "sketchName": "contiguous-zone-10"
       }
@@ -1143,7 +1143,7 @@
       "classId": "gm_basins_small",
       "groupId": null,
       "geographyId": null,
-      "value": 28,
+      "value": 41,
       "extra": {
         "sketchName": "yes-contig-ssn",
         "isCollection": true
@@ -1254,7 +1254,7 @@
       "classId": "gm_basins_small",
       "groupId": null,
       "geographyId": null,
-      "value": 2,
+      "value": 1,
       "extra": {
         "sketchName": "contiguous-zone-2"
       }
@@ -1306,297 +1306,21 @@
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "3",
-      "classId": "gm_basins_small",
-      "groupId": null,
-      "geographyId": null,
-      "value": 7,
-      "extra": {
-        "sketchName": "contiguous-zone-3"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "4",
       "classId": "gm_basins_small",
       "groupId": null,
       "geographyId": null,
       "value": 9,
       "extra": {
-        "sketchName": "contiguous-zone-4"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "5",
-      "classId": "gm_basins_small",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-5"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "6",
-      "classId": "gm_basins_small",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-6"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "7",
-      "classId": "gm_basins_small",
-      "groupId": null,
-      "geographyId": null,
-      "value": 1,
-      "extra": {
-        "sketchName": "contiguous-zone-7"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "8",
-      "classId": "gm_basins_small",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-8"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "9",
-      "classId": "gm_basins_small",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-9"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "1",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-1"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-10"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10923",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "small-west"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10924",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "yes-contig-ssn",
-        "isCollection": true
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "11",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-11"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "12",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-12"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "13",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-13"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "14",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-14"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "15",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-15"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "16",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-16"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "17",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-17"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "18",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-18"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "19",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-19"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "2",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-2"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "20",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-20"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "21",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-21"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "22",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-22"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "23",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-23"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "3",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
         "sketchName": "contiguous-zone-3"
       }
     },
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "4",
-      "classId": "gm_bridges",
+      "classId": "gm_basins_small",
       "groupId": null,
       "geographyId": null,
-      "value": 0,
+      "value": 11,
       "extra": {
         "sketchName": "contiguous-zone-4"
       }
@@ -1604,7 +1328,7 @@
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "5",
-      "classId": "gm_bridges",
+      "classId": "gm_basins_small",
       "groupId": null,
       "geographyId": null,
       "value": 0,
@@ -1615,7 +1339,7 @@
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "6",
-      "classId": "gm_bridges",
+      "classId": "gm_basins_small",
       "groupId": null,
       "geographyId": null,
       "value": 0,
@@ -1626,242 +1350,242 @@
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "7",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-7"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "8",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-8"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "9",
-      "classId": "gm_bridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-9"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "1",
-      "classId": "gm_escarpments",
-      "groupId": null,
-      "geographyId": null,
-      "value": 14,
-      "extra": {
-        "sketchName": "contiguous-zone-1"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10",
-      "classId": "gm_escarpments",
-      "groupId": null,
-      "geographyId": null,
-      "value": 7,
-      "extra": {
-        "sketchName": "contiguous-zone-10"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10923",
-      "classId": "gm_escarpments",
-      "groupId": null,
-      "geographyId": null,
-      "value": 12,
-      "extra": {
-        "sketchName": "small-west"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10924",
-      "classId": "gm_escarpments",
-      "groupId": null,
-      "geographyId": null,
-      "value": 293,
-      "extra": {
-        "sketchName": "yes-contig-ssn",
-        "isCollection": true
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "11",
-      "classId": "gm_escarpments",
-      "groupId": null,
-      "geographyId": null,
-      "value": 21,
-      "extra": {
-        "sketchName": "contiguous-zone-11"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "12",
-      "classId": "gm_escarpments",
-      "groupId": null,
-      "geographyId": null,
-      "value": 25,
-      "extra": {
-        "sketchName": "contiguous-zone-12"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "13",
-      "classId": "gm_escarpments",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-13"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "14",
-      "classId": "gm_escarpments",
-      "groupId": null,
-      "geographyId": null,
-      "value": 1,
-      "extra": {
-        "sketchName": "contiguous-zone-14"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "15",
-      "classId": "gm_escarpments",
-      "groupId": null,
-      "geographyId": null,
-      "value": 1,
-      "extra": {
-        "sketchName": "contiguous-zone-15"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "16",
-      "classId": "gm_escarpments",
-      "groupId": null,
-      "geographyId": null,
-      "value": 7,
-      "extra": {
-        "sketchName": "contiguous-zone-16"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "17",
-      "classId": "gm_escarpments",
-      "groupId": null,
-      "geographyId": null,
-      "value": 10,
-      "extra": {
-        "sketchName": "contiguous-zone-17"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "18",
-      "classId": "gm_escarpments",
-      "groupId": null,
-      "geographyId": null,
-      "value": 4,
-      "extra": {
-        "sketchName": "contiguous-zone-18"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "19",
-      "classId": "gm_escarpments",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-19"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "2",
-      "classId": "gm_escarpments",
-      "groupId": null,
-      "geographyId": null,
-      "value": 28,
-      "extra": {
-        "sketchName": "contiguous-zone-2"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "20",
-      "classId": "gm_escarpments",
-      "groupId": null,
-      "geographyId": null,
-      "value": 6,
-      "extra": {
-        "sketchName": "contiguous-zone-20"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "21",
-      "classId": "gm_escarpments",
-      "groupId": null,
-      "geographyId": null,
-      "value": 2,
-      "extra": {
-        "sketchName": "contiguous-zone-21"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "22",
-      "classId": "gm_escarpments",
-      "groupId": null,
-      "geographyId": null,
-      "value": 18,
-      "extra": {
-        "sketchName": "contiguous-zone-22"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "23",
-      "classId": "gm_escarpments",
+      "classId": "gm_basins_small",
       "groupId": null,
       "geographyId": null,
       "value": 3,
       "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "8",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "9",
+      "classId": "gm_basins_small",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "1",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10923",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "small-west"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10924",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "yes-contig-ssn",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "11",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "12",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "13",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "14",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "15",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "16",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "17",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "18",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "19",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "20",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "21",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "22",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "23",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
         "sketchName": "contiguous-zone-23"
       }
     },
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "3",
-      "classId": "gm_escarpments",
+      "classId": "gm_bridges",
       "groupId": null,
       "geographyId": null,
-      "value": 21,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-3"
       }
@@ -1869,10 +1593,10 @@
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "4",
-      "classId": "gm_escarpments",
+      "classId": "gm_bridges",
       "groupId": null,
       "geographyId": null,
-      "value": 46,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-4"
       }
@@ -1880,10 +1604,10 @@
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "5",
-      "classId": "gm_escarpments",
+      "classId": "gm_bridges",
       "groupId": null,
       "geographyId": null,
-      "value": 14,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-5"
       }
@@ -1891,10 +1615,10 @@
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "6",
-      "classId": "gm_escarpments",
+      "classId": "gm_bridges",
       "groupId": null,
       "geographyId": null,
-      "value": 16,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-6"
       }
@@ -1902,10 +1626,10 @@
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "7",
-      "classId": "gm_escarpments",
+      "classId": "gm_bridges",
       "groupId": null,
       "geographyId": null,
-      "value": 7,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-7"
       }
@@ -1913,11 +1637,287 @@
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "8",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "9",
+      "classId": "gm_bridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "1",
       "classId": "gm_escarpments",
       "groupId": null,
       "geographyId": null,
       "value": 20,
       "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10923",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 28,
+      "extra": {
+        "sketchName": "small-west"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10924",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 521,
+      "extra": {
+        "sketchName": "yes-contig-ssn",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "11",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 46,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "12",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 42,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "13",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "14",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "15",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "16",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "17",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 16,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "18",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "19",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 47,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "20",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 7,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "21",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "22",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 29,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "23",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "3",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 43,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 79,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "5",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 28,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 26,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "7",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "8",
+      "classId": "gm_escarpments",
+      "groupId": null,
+      "geographyId": null,
+      "value": 58,
+      "extra": {
         "sketchName": "contiguous-zone-8"
       }
     },
@@ -1927,7 +1927,7 @@
       "classId": "gm_escarpments",
       "groupId": null,
       "geographyId": null,
-      "value": 13,
+      "value": 17,
       "extra": {
         "sketchName": "contiguous-zone-9"
       }
@@ -1935,736 +1935,184 @@
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "1",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 20,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 12,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10923",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "small-west"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10924",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 213,
+      "extra": {
+        "sketchName": "yes-contig-ssn",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "11",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "12",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 7,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "13",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "14",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 12,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "15",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "16",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "17",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "18",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "19",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "20",
       "classId": "gm_knolls",
       "groupId": null,
       "geographyId": null,
       "value": 9,
       "extra": {
-        "sketchName": "contiguous-zone-1"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 6,
-      "extra": {
-        "sketchName": "contiguous-zone-10"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10923",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 1,
-      "extra": {
-        "sketchName": "small-west"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10924",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 112,
-      "extra": {
-        "sketchName": "yes-contig-ssn",
-        "isCollection": true
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "11",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 4,
-      "extra": {
-        "sketchName": "contiguous-zone-11"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "12",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 4,
-      "extra": {
-        "sketchName": "contiguous-zone-12"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "13",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-13"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "14",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 3,
-      "extra": {
-        "sketchName": "contiguous-zone-14"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "15",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-15"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "16",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 1,
-      "extra": {
-        "sketchName": "contiguous-zone-16"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "17",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 1,
-      "extra": {
-        "sketchName": "contiguous-zone-17"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "18",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-18"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "19",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 6,
-      "extra": {
-        "sketchName": "contiguous-zone-19"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "2",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 4,
-      "extra": {
-        "sketchName": "contiguous-zone-2"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "20",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 5,
-      "extra": {
         "sketchName": "contiguous-zone-20"
       }
     },
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "21",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 5,
-      "extra": {
-        "sketchName": "contiguous-zone-21"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "22",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 3,
-      "extra": {
-        "sketchName": "contiguous-zone-22"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "23",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 5,
-      "extra": {
-        "sketchName": "contiguous-zone-23"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "3",
       "classId": "gm_knolls",
       "groupId": null,
       "geographyId": null,
       "value": 8,
       "extra": {
-        "sketchName": "contiguous-zone-3"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "4",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 26,
-      "extra": {
-        "sketchName": "contiguous-zone-4"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "5",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 5,
-      "extra": {
-        "sketchName": "contiguous-zone-5"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "6",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 6,
-      "extra": {
-        "sketchName": "contiguous-zone-6"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "7",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 1,
-      "extra": {
-        "sketchName": "contiguous-zone-7"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "8",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 3,
-      "extra": {
-        "sketchName": "contiguous-zone-8"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "9",
-      "classId": "gm_knolls",
-      "groupId": null,
-      "geographyId": null,
-      "value": 6,
-      "extra": {
-        "sketchName": "contiguous-zone-9"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "1",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-1"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-10"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10923",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "small-west"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10924",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 98,
-      "extra": {
-        "sketchName": "yes-contig-ssn",
-        "isCollection": true
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "11",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-11"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "12",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-12"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "13",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 19,
-      "extra": {
-        "sketchName": "contiguous-zone-13"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "14",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 23,
-      "extra": {
-        "sketchName": "contiguous-zone-14"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "15",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-15"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "16",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 33,
-      "extra": {
-        "sketchName": "contiguous-zone-16"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "17",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 23,
-      "extra": {
-        "sketchName": "contiguous-zone-17"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "18",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-18"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "19",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-19"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "2",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-2"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "20",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-20"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "21",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
         "sketchName": "contiguous-zone-21"
       }
     },
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "22",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-22"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "23",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-23"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "3",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-3"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "4",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-4"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "5",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-5"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "6",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-6"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "7",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-7"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "8",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-8"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "9",
-      "classId": "gm_plateaus",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-9"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "1",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 8,
-      "extra": {
-        "sketchName": "contiguous-zone-1"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 6,
-      "extra": {
-        "sketchName": "contiguous-zone-10"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10923",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 5,
-      "extra": {
-        "sketchName": "small-west"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10924",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 160,
-      "extra": {
-        "sketchName": "yes-contig-ssn",
-        "isCollection": true
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "11",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 7,
-      "extra": {
-        "sketchName": "contiguous-zone-11"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "12",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 21,
-      "extra": {
-        "sketchName": "contiguous-zone-12"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "13",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-13"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "14",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-14"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "15",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-15"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "16",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 6,
-      "extra": {
-        "sketchName": "contiguous-zone-16"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "17",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 7,
-      "extra": {
-        "sketchName": "contiguous-zone-17"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "18",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-18"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "19",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-19"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "2",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 21,
-      "extra": {
-        "sketchName": "contiguous-zone-2"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "20",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-20"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "21",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 1,
-      "extra": {
-        "sketchName": "contiguous-zone-21"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "22",
-      "classId": "gm_ridges",
+      "classId": "gm_knolls",
       "groupId": null,
       "geographyId": null,
       "value": 4,
@@ -2675,10 +2123,10 @@
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "23",
-      "classId": "gm_ridges",
+      "classId": "gm_knolls",
       "groupId": null,
       "geographyId": null,
-      "value": 0,
+      "value": 7,
       "extra": {
         "sketchName": "contiguous-zone-23"
       }
@@ -2686,294 +2134,18 @@
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "3",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 14,
-      "extra": {
-        "sketchName": "contiguous-zone-3"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "4",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 24,
-      "extra": {
-        "sketchName": "contiguous-zone-4"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "5",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 13,
-      "extra": {
-        "sketchName": "contiguous-zone-5"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "6",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 7,
-      "extra": {
-        "sketchName": "contiguous-zone-6"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "7",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-7"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "8",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 13,
-      "extra": {
-        "sketchName": "contiguous-zone-8"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "9",
-      "classId": "gm_ridges",
-      "groupId": null,
-      "geographyId": null,
-      "value": 6,
-      "extra": {
-        "sketchName": "contiguous-zone-9"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "1",
-      "classId": "gm_seamounts",
-      "groupId": null,
-      "geographyId": null,
-      "value": 12,
-      "extra": {
-        "sketchName": "contiguous-zone-1"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10",
-      "classId": "gm_seamounts",
-      "groupId": null,
-      "geographyId": null,
-      "value": 5,
-      "extra": {
-        "sketchName": "contiguous-zone-10"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10923",
-      "classId": "gm_seamounts",
-      "groupId": null,
-      "geographyId": null,
-      "value": 11,
-      "extra": {
-        "sketchName": "small-west"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "10924",
-      "classId": "gm_seamounts",
-      "groupId": null,
-      "geographyId": null,
-      "value": 275,
-      "extra": {
-        "sketchName": "yes-contig-ssn",
-        "isCollection": true
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "11",
-      "classId": "gm_seamounts",
+      "classId": "gm_knolls",
       "groupId": null,
       "geographyId": null,
       "value": 18,
       "extra": {
-        "sketchName": "contiguous-zone-11"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "12",
-      "classId": "gm_seamounts",
-      "groupId": null,
-      "geographyId": null,
-      "value": 33,
-      "extra": {
-        "sketchName": "contiguous-zone-12"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "13",
-      "classId": "gm_seamounts",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-13"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "14",
-      "classId": "gm_seamounts",
-      "groupId": null,
-      "geographyId": null,
-      "value": 5,
-      "extra": {
-        "sketchName": "contiguous-zone-14"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "15",
-      "classId": "gm_seamounts",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-15"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "16",
-      "classId": "gm_seamounts",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-16"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "17",
-      "classId": "gm_seamounts",
-      "groupId": null,
-      "geographyId": null,
-      "value": 12,
-      "extra": {
-        "sketchName": "contiguous-zone-17"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "18",
-      "classId": "gm_seamounts",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-18"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "19",
-      "classId": "gm_seamounts",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-19"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "2",
-      "classId": "gm_seamounts",
-      "groupId": null,
-      "geographyId": null,
-      "value": 9,
-      "extra": {
-        "sketchName": "contiguous-zone-2"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "20",
-      "classId": "gm_seamounts",
-      "groupId": null,
-      "geographyId": null,
-      "value": 0,
-      "extra": {
-        "sketchName": "contiguous-zone-20"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "21",
-      "classId": "gm_seamounts",
-      "groupId": null,
-      "geographyId": null,
-      "value": 7,
-      "extra": {
-        "sketchName": "contiguous-zone-21"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "22",
-      "classId": "gm_seamounts",
-      "groupId": null,
-      "geographyId": null,
-      "value": 23,
-      "extra": {
-        "sketchName": "contiguous-zone-22"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "23",
-      "classId": "gm_seamounts",
-      "groupId": null,
-      "geographyId": null,
-      "value": 3,
-      "extra": {
-        "sketchName": "contiguous-zone-23"
-      }
-    },
-    {
-      "metricId": "geomorphValueOverlap",
-      "sketchId": "3",
-      "classId": "gm_seamounts",
-      "groupId": null,
-      "geographyId": null,
-      "value": 26,
-      "extra": {
         "sketchName": "contiguous-zone-3"
       }
     },
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "4",
-      "classId": "gm_seamounts",
+      "classId": "gm_knolls",
       "groupId": null,
       "geographyId": null,
       "value": 51,
@@ -2984,10 +2156,10 @@
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "5",
-      "classId": "gm_seamounts",
+      "classId": "gm_knolls",
       "groupId": null,
       "geographyId": null,
-      "value": 23,
+      "value": 7,
       "extra": {
         "sketchName": "contiguous-zone-5"
       }
@@ -2995,10 +2167,10 @@
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "6",
-      "classId": "gm_seamounts",
+      "classId": "gm_knolls",
       "groupId": null,
       "geographyId": null,
-      "value": 10,
+      "value": 13,
       "extra": {
         "sketchName": "contiguous-zone-6"
       }
@@ -3006,10 +2178,10 @@
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "7",
-      "classId": "gm_seamounts",
+      "classId": "gm_knolls",
       "groupId": null,
       "geographyId": null,
-      "value": 3,
+      "value": 4,
       "extra": {
         "sketchName": "contiguous-zone-7"
       }
@@ -3017,10 +2189,10 @@
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "8",
-      "classId": "gm_seamounts",
+      "classId": "gm_knolls",
       "groupId": null,
       "geographyId": null,
-      "value": 20,
+      "value": 9,
       "extra": {
         "sketchName": "contiguous-zone-8"
       }
@@ -3028,11 +2200,839 @@
     {
       "metricId": "geomorphValueOverlap",
       "sketchId": "9",
+      "classId": "gm_knolls",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "1",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10923",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "small-west"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10924",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 285,
+      "extra": {
+        "sketchName": "yes-contig-ssn",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "11",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "12",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "13",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 47,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "14",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 77,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "15",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "16",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 99,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "17",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 62,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "18",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "19",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "20",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "21",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "22",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "23",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "3",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "5",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "7",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "8",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "9",
+      "classId": "gm_plateaus",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "1",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 17,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10923",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 12,
+      "extra": {
+        "sketchName": "small-west"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10924",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 297,
+      "extra": {
+        "sketchName": "yes-contig-ssn",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "11",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 15,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "12",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 38,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "13",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "14",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "15",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "16",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "17",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "18",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "19",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 35,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "20",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "21",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "22",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 12,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "23",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "3",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 30,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 45,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "5",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 30,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 14,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "7",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "8",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 26,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "9",
+      "classId": "gm_ridges",
+      "groupId": null,
+      "geographyId": null,
+      "value": 7,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "1",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 30,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10",
       "classId": "gm_seamounts",
       "groupId": null,
       "geographyId": null,
       "value": 8,
       "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10923",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 36,
+      "extra": {
+        "sketchName": "small-west"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "10924",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 750,
+      "extra": {
+        "sketchName": "yes-contig-ssn",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "11",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 41,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "12",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 85,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "13",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "14",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 15,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "15",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "16",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "17",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 24,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "18",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "19",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "2",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 22,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "20",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "21",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 15,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "22",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 68,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "23",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "3",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 77,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "4",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 142,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "5",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 69,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "6",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 28,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "7",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "8",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 55,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "geomorphValueOverlap",
+      "sketchId": "9",
+      "classId": "gm_seamounts",
+      "groupId": null,
+      "geographyId": null,
+      "value": 27,
+      "extra": {
         "sketchName": "contiguous-zone-9"
       }
     },
@@ -3042,7 +3042,7 @@
       "classId": "gm_spreading_ridges",
       "groupId": null,
       "geographyId": null,
-      "value": 12,
+      "value": 22,
       "extra": {
         "sketchName": "contiguous-zone-1"
       }
@@ -3075,7 +3075,7 @@
       "classId": "gm_spreading_ridges",
       "groupId": null,
       "geographyId": null,
-      "value": 13,
+      "value": 28,
       "extra": {
         "sketchName": "yes-contig-ssn",
         "isCollection": true
@@ -3241,7 +3241,7 @@
       "classId": "gm_spreading_ridges",
       "groupId": null,
       "geographyId": null,
-      "value": 1,
+      "value": 6,
       "extra": {
         "sketchName": "contiguous-zone-3"
       }
@@ -3340,7 +3340,7 @@
       "classId": "gm_trenches",
       "groupId": null,
       "geographyId": null,
-      "value": 3,
+      "value": 11,
       "extra": {
         "sketchName": "small-west"
       }
@@ -3351,7 +3351,7 @@
       "classId": "gm_trenches",
       "groupId": null,
       "geographyId": null,
-      "value": 22,
+      "value": 71,
       "extra": {
         "sketchName": "yes-contig-ssn",
         "isCollection": true
@@ -3363,7 +3363,7 @@
       "classId": "gm_trenches",
       "groupId": null,
       "geographyId": null,
-      "value": 9,
+      "value": 27,
       "extra": {
         "sketchName": "contiguous-zone-11"
       }
@@ -3572,7 +3572,7 @@
       "classId": "gm_trenches",
       "groupId": null,
       "geographyId": null,
-      "value": 10,
+      "value": 33,
       "extra": {
         "sketchName": "contiguous-zone-8"
       }

@@ -144,7 +144,7 @@
       "classId": "gm_escarpments",
       "groupId": null,
       "geographyId": null,
-      "value": 13,
+      "value": 29,
       "extra": {
         "sketchName": "west1"
       }
@@ -155,7 +155,7 @@
       "classId": "gm_escarpments",
       "groupId": null,
       "geographyId": null,
-      "value": 13,
+      "value": 29,
       "extra": {
         "sketchName": "no-contig-legacy",
         "isCollection": true
@@ -167,7 +167,7 @@
       "classId": "gm_knolls",
       "groupId": null,
       "geographyId": null,
-      "value": 14,
+      "value": 37,
       "extra": {
         "sketchName": "west1"
       }
@@ -178,7 +178,7 @@
       "classId": "gm_knolls",
       "groupId": null,
       "geographyId": null,
-      "value": 14,
+      "value": 37,
       "extra": {
         "sketchName": "no-contig-legacy",
         "isCollection": true
@@ -213,7 +213,7 @@
       "classId": "gm_ridges",
       "groupId": null,
       "geographyId": null,
-      "value": 26,
+      "value": 68,
       "extra": {
         "sketchName": "west1"
       }
@@ -224,7 +224,7 @@
       "classId": "gm_ridges",
       "groupId": null,
       "geographyId": null,
-      "value": 26,
+      "value": 68,
       "extra": {
         "sketchName": "no-contig-legacy",
         "isCollection": true
@@ -236,7 +236,7 @@
       "classId": "gm_seamounts",
       "groupId": null,
       "geographyId": null,
-      "value": 11,
+      "value": 40,
       "extra": {
         "sketchName": "west1"
       }
@@ -247,7 +247,7 @@
       "classId": "gm_seamounts",
       "groupId": null,
       "geographyId": null,
-      "value": 11,
+      "value": 40,
       "extra": {
         "sketchName": "no-contig-legacy",
         "isCollection": true

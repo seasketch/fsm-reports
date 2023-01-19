@@ -6,7 +6,7 @@
       "classId": "depth_zone_abyssal",
       "groupId": null,
       "geographyId": null,
-      "value": 5,
+      "value": 7,
       "extra": {
         "sketchName": "no-contig-ssn",
         "isCollection": true
@@ -18,7 +18,7 @@
       "classId": "depth_zone_abyssal",
       "groupId": null,
       "geographyId": null,
-      "value": 5,
+      "value": 7,
       "extra": {
         "sketchName": "small-west"
       }
@@ -29,7 +29,7 @@
       "classId": "depth_zone_bathyal",
       "groupId": null,
       "geographyId": null,
-      "value": 10,
+      "value": 32,
       "extra": {
         "sketchName": "no-contig-ssn",
         "isCollection": true
@@ -41,7 +41,7 @@
       "classId": "depth_zone_bathyal",
       "groupId": null,
       "geographyId": null,
-      "value": 10,
+      "value": 32,
       "extra": {
         "sketchName": "small-west"
       }
@@ -52,7 +52,7 @@
       "classId": "depth_zone_hadal",
       "groupId": null,
       "geographyId": null,
-      "value": 3,
+      "value": 7,
       "extra": {
         "sketchName": "no-contig-ssn",
         "isCollection": true
@@ -64,7 +64,7 @@
       "classId": "depth_zone_hadal",
       "groupId": null,
       "geographyId": null,
-      "value": 3,
+      "value": 7,
       "extra": {
         "sketchName": "small-west"
       }

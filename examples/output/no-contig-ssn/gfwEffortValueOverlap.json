@@ -6,7 +6,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 11158.877166748047,
+      "value": 57215.03542327881,
       "extra": {
         "sketchName": "no-contig-ssn",
         "isCollection": true
@@ -18,7 +18,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 11158.877166748047,
+      "value": 57215.03542327881,
       "extra": {
         "sketchName": "small-west"
       }
@@ -52,7 +52,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 395.92710876464844,
+      "value": 11812.615234375,
       "extra": {
         "sketchName": "no-contig-ssn",
         "isCollection": true
@@ -64,7 +64,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 395.92710876464844,
+      "value": 11812.615234375,
       "extra": {
         "sketchName": "small-west"
       }

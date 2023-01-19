@@ -6,7 +6,7 @@
       "classId": "norma_longline_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 0.2866666689515114,
+      "value": 0.21333333291113377,
       "extra": {
         "sketchName": "no-contig-ssn",
         "isCollection": true
@@ -18,7 +18,7 @@
       "classId": "norma_longline_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 0.2866666689515114,
+      "value": 0.21333333291113377,
       "extra": {
         "sketchName": "small-west"
       }
@@ -52,7 +52,7 @@
       "classId": "norma_purse_seine_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 59.554166197776794,
+      "value": 31.242499351501465,
       "extra": {
         "sketchName": "no-contig-ssn",
         "isCollection": true
@@ -64,7 +64,7 @@
       "classId": "norma_purse_seine_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 59.554166197776794,
+      "value": 31.242499351501465,
       "extra": {
         "sketchName": "small-west"
       }
