@@ -1,9 +1,10 @@
 import {
-  getUserAttribute,
-  Polygon,
+  Sketch,
   SketchCollection,
   SketchGeometryTypes,
+  SketchProperties,
 } from "@seasketch/geoprocessing";
+import { getUserAttribute } from "@seasketch/geoprocessing/client-core";
 import {
   includeVirtualSketch,
   isTruthyAttributeValue,
@@ -26,9 +27,11 @@ export const includeContiguous = <G extends SketchGeometryTypes>(
 /**
  * Returns true if contiguous zone should be included in the given sketch collection
  */
-export const shouldIncludeContiguous = (collection: SketchCollection) => {
+export const shouldIncludeContiguous = (
+  sketchOrProps: Sketch | SketchCollection | SketchProperties
+) => {
   const val = getUserAttribute(
-    collection.properties,
+    sketchOrProps,
     "include_12-24_nm_contiguous_zone"
   );
   return isTruthyAttributeValue(val);

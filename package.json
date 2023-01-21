@@ -54,7 +54,7 @@
     "tiny-worker": "^2.3.0"
   },
   "devDependencies": {
-    "@seasketch/geoprocessing": "1.0.1-experimental-dockerify.19",
+    "@seasketch/geoprocessing": "1.0.1-experimental-dockerify.26",
     "@turf/boolean-disjoint": "6.5.0",
     "@turf/boolean-valid": "6.5.0"
   },
