@@ -10,7 +10,8 @@ export const clipToOffshore = genClipToPolygonPreprocessor([
 
 export default new PreprocessingHandler(clipToOffshore, {
   title: "clipToOceanOffshore",
-  description: "Erases portion of sketch falling outside of offshore boundary",
+  description:
+    "Erases portion of sketch falling outside of offshore boundary (12-200nm)",
   timeout: 40,
   requiresProperties: [],
   memory: 4096,

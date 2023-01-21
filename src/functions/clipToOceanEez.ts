@@ -144,7 +144,7 @@ export async function clipToOceanEez(
 export default new PreprocessingHandler(clipToOceanEez, {
   title: "clipToOceanEez",
   description:
-    "Erases portion of sketch overlapping with land or extending into ocean outsize EEZ boundary",
+    "Erases portion of sketch overlapping with land or extending into ocean outsize EEZ boundary (0-200nm)",
   timeout: 40,
   requiresProperties: [],
   memory: 4096,
