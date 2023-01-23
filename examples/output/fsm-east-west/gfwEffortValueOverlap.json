@@ -6,7 +6,7 @@
       "classId": "gfw_longline_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 1007901.9273018837,
+      "value": 4029021.418615341,
       "extra": {
         "sketchName": "fsm-east-west"
       }
@@ -17,7 +17,7 @@
       "classId": "gfw_pole_and_line_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 12606.270229563117,
+      "value": 73501.05088233948,
       "extra": {
         "sketchName": "fsm-east-west"
       }
@@ -28,7 +28,7 @@
       "classId": "gfw_purse_seine_effort",
       "groupId": null,
       "geographyId": null,
-      "value": 173330.91955518723,
+      "value": 977192.2948646545,
       "extra": {
         "sketchName": "fsm-east-west"
       }

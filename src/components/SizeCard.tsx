@@ -8,6 +8,7 @@ import {
   valueFormatter,
   toPercentMetric,
   sortMetricsDisplayOrder,
+  isSketchCollection,
 } from "@seasketch/geoprocessing/client-core";
 import {
   ClassTable,
@@ -19,10 +20,13 @@ import {
   useSketchProperties,
   ToolbarCard,
   DataDownload,
+  Card,
+  InfoStatus,
 } from "@seasketch/geoprocessing/client-ui";
 import styled from "styled-components";
 import project from "../../project";
 import { squareMeterToKilometer } from "@seasketch/geoprocessing";
+import { shouldIncludeContiguous } from "../util/includeContiguousSketch";
 
 const boundaryMetricGroup = project.getMetricGroup("boundaryAreaOverlap");
 const boundaryTotalMetrics = project.getPrecalcMetrics(
@@ -75,57 +79,63 @@ const SizeCard = () => {
       {(data: ReportResult) => {
         if (Object.keys(data).length === 0)
           throw new Error("Protection results not found");
+
+        const includeContiguous =
+          isSketchCollection(data.sketch) &&
+          shouldIncludeContiguous(data.sketch);
         return (
-          <ToolbarCard
-            title="Size"
-            items={
-              <>
-                <DataDownload
-                  filename="size"
-                  data={data.metrics}
-                  formats={["csv", "json"]}
-                  placement="left-end"
-                />
-              </>
-            }
-          >
-            <p>
-              {project.basic.nounPossessive || ""} waters extend from the
-              shoreline out to 200 nautical miles, known as the Exclusive
-              Economic Zone (EEZ). This report summarizes offshore plan overlap
-              with the EEZ and other boundaries within it, measuring progress
-              towards achieving % targets for each boundary.
-            </p>
-            {genSingleSizeTable(data)}
-            {isCollection && (
-              <Collapse title="Show by MPA">
-                {genNetworkSizeTable(data)}
+          <>
+            <ToolbarCard
+              title="Size"
+              items={
+                <>
+                  <DataDownload
+                    filename="size"
+                    data={data.metrics}
+                    formats={["csv", "json"]}
+                    placement="left-end"
+                  />
+                </>
+              }
+            >
+              <p>
+                {project.basic.nounPossessive || ""} waters extend from the
+                shoreline out to 200 nautical miles, known as the Exclusive
+                Economic Zone (EEZ). This report summarizes offshore plan
+                overlap with the EEZ and other boundaries within it, measuring
+                progress towards achieving % targets for each boundary.
+              </p>
+              {genSingleSizeTable(data)}
+              {isCollection && (
+                <Collapse title="Show by MPA">
+                  {genNetworkSizeTable(data)}
+                </Collapse>
+              )}
+              <Collapse title="Learn more">
+                <p>
+                  <img
+                    src={require("../assets/img/territorial_waters.png")}
+                    style={{ maxWidth: "100%" }}
+                  />
+                  <a
+                    target="_blank"
+                    href="https://en.wikipedia.org/wiki/Territorial_waters"
+                  >
+                    Source: Wikipedia - Territorial Waters
+                  </a>
+                </p>
+                <p>
+                  {" "}
+                  This report summarizes the size and proportion of this plan
+                  within these boundaries.
+                </p>
+                <p>
+                  If MPA boundaries overlap with each other, the overlap is only
+                  counted once.
+                </p>
               </Collapse>
-            )}
-            <Collapse title="Learn more">
-              <p>
-                <img
-                  src={require("../assets/img/territorial_waters.png")}
-                  style={{ maxWidth: "100%" }}
-                />
-                <a
-                  target="_blank"
-                  href="https://en.wikipedia.org/wiki/Territorial_waters"
-                >
-                  Source: Wikipedia - Territorial Waters
-                </a>
-              </p>
-              <p>
-                {" "}
-                This report summarizes the size and proportion of this plan
-                within these boundaries.
-              </p>
-              <p>
-                If MPA boundaries overlap with each other, the overlap is only
-                counted once.
-              </p>
-            </Collapse>
-          </ToolbarCard>
+            </ToolbarCard>
+          </>
         );
       }}
     </ResultsCard>

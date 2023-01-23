@@ -6,7 +6,7 @@
       "classId": "gm_abyssal_plains",
       "groupId": null,
       "geographyId": null,
-      "value": 73,
+      "value": 249,
       "extra": {
         "sketchName": "fsm-east-west"
       }
@@ -17,7 +17,7 @@
       "classId": "gm_basins_large",
       "groupId": null,
       "geographyId": null,
-      "value": 58,
+      "value": 181,
       "extra": {
         "sketchName": "fsm-east-west"
       }
@@ -72,7 +72,7 @@
       "classId": "gm_escarpments",
       "groupId": null,
       "geographyId": null,
-      "value": 35,
+      "value": 56,
       "extra": {
         "sketchName": "fsm-east-west"
       }
@@ -83,7 +83,7 @@
       "classId": "gm_knolls",
       "groupId": null,
       "geographyId": null,
-      "value": 23,
+      "value": 50,
       "extra": {
         "sketchName": "fsm-east-west"
       }
@@ -105,7 +105,7 @@
       "classId": "gm_ridges",
       "groupId": null,
       "geographyId": null,
-      "value": 26,
+      "value": 42,
       "extra": {
         "sketchName": "fsm-east-west"
       }
@@ -116,7 +116,7 @@
       "classId": "gm_seamounts",
       "groupId": null,
       "geographyId": null,
-      "value": 4,
+      "value": 30,
       "extra": {
         "sketchName": "fsm-east-west"
       }

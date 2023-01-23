@@ -6,7 +6,7 @@
       "classId": "norma_longline_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 67.07666638982482,
+      "value": 68.8291668293532,
       "extra": {
         "sketchName": "fsm-east-west"
       }
@@ -17,7 +17,7 @@
       "classId": "norma_pole_and_line_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 85.56363689526916,
+      "value": 92.46363663673401,
       "extra": {
         "sketchName": "fsm-east-west"
       }
@@ -28,7 +28,7 @@
       "classId": "norma_purse_seine_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 288.2591673359275,
+      "value": 196.92758186534047,
       "extra": {
         "sketchName": "fsm-east-west"
       }

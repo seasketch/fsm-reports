@@ -6,7 +6,7 @@
       "classId": "pelagic_habitat_zones1",
       "groupId": null,
       "geographyId": null,
-      "value": 428,
+      "value": 1517,
       "extra": {
         "sketchName": "long"
       }
@@ -17,7 +17,7 @@
       "classId": "pelagic_habitat_zones2",
       "groupId": null,
       "geographyId": null,
-      "value": 510,
+      "value": 2037,
       "extra": {
         "sketchName": "long"
       }
@@ -39,7 +39,7 @@
       "classId": "pelagic_habitat_zones4",
       "groupId": null,
       "geographyId": null,
-      "value": 1403,
+      "value": 5484,
       "extra": {
         "sketchName": "long"
       }

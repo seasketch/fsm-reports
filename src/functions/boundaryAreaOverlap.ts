@@ -12,14 +12,20 @@ import {
   sortMetrics,
   getFlatGeobufFilename,
   isInternalVectorDatasource,
+  isSketchCollection,
 } from "@seasketch/geoprocessing";
 import { fgbFetchAll } from "@seasketch/geoprocessing/dataproviders";
+import { includeContiguous } from "../util/includeContiguousSketch";
 import project from "../../project";
+
+const metricGroup = project.getMetricGroup("boundaryAreaOverlap");
 
 export async function boundaryAreaOverlap(
   sketch: Sketch<Polygon> | SketchCollection<Polygon>
 ): Promise<ReportResult> {
-  const metricGroup = project.getMetricGroup("boundaryAreaOverlap");
+  const finalSketch = isSketchCollection(sketch)
+    ? includeContiguous(sketch)
+    : sketch;
 
   const polysByBoundary = (
     await Promise.all(
@@ -54,7 +60,7 @@ export async function boundaryAreaOverlap(
         const overlapResult = await overlapFeatures(
           metricGroup.metricId,
           polysByBoundary[curClass.classId],
-          sketch
+          finalSketch
         );
         return overlapResult.map(
           (metric): Metric => ({
@@ -72,7 +78,7 @@ export async function boundaryAreaOverlap(
 
   return {
     metrics: sortMetrics(rekeyMetrics(metrics)),
-    sketch: toNullSketch(sketch, true),
+    sketch: toNullSketch(finalSketch, true),
   };
 }
 

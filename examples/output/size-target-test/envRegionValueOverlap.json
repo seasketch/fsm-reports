@@ -6,7 +6,7 @@
       "classId": "pelagic_habitat_zones1",
       "groupId": null,
       "geographyId": null,
-      "value": 118,
+      "value": 452,
       "extra": {
         "sketchName": "west"
       }
@@ -17,7 +17,7 @@
       "classId": "pelagic_habitat_zones1",
       "groupId": null,
       "geographyId": null,
-      "value": 428,
+      "value": 1517,
       "extra": {
         "sketchName": "long"
       }
@@ -28,7 +28,7 @@
       "classId": "pelagic_habitat_zones1",
       "groupId": null,
       "geographyId": null,
-      "value": 1520,
+      "value": 5533,
       "extra": {
         "sketchName": "size-target-test",
         "isCollection": true
@@ -40,7 +40,7 @@
       "classId": "pelagic_habitat_zones1",
       "groupId": null,
       "geographyId": null,
-      "value": 1111,
+      "value": 4051,
       "extra": {
         "sketchName": "big"
       }
@@ -62,7 +62,7 @@
       "classId": "pelagic_habitat_zones2",
       "groupId": null,
       "geographyId": null,
-      "value": 510,
+      "value": 2037,
       "extra": {
         "sketchName": "long"
       }
@@ -73,7 +73,7 @@
       "classId": "pelagic_habitat_zones2",
       "groupId": null,
       "geographyId": null,
-      "value": 510,
+      "value": 2037,
       "extra": {
         "sketchName": "size-target-test",
         "isCollection": true
@@ -96,7 +96,7 @@
       "classId": "pelagic_habitat_zones3",
       "groupId": null,
       "geographyId": null,
-      "value": 377,
+      "value": 1363,
       "extra": {
         "sketchName": "west"
       }
@@ -118,7 +118,7 @@
       "classId": "pelagic_habitat_zones3",
       "groupId": null,
       "geographyId": null,
-      "value": 498,
+      "value": 1687,
       "extra": {
         "sketchName": "size-target-test",
         "isCollection": true
@@ -130,7 +130,7 @@
       "classId": "pelagic_habitat_zones3",
       "groupId": null,
       "geographyId": null,
-      "value": 121,
+      "value": 324,
       "extra": {
         "sketchName": "big"
       }
@@ -152,7 +152,7 @@
       "classId": "pelagic_habitat_zones4",
       "groupId": null,
       "geographyId": null,
-      "value": 1403,
+      "value": 5484,
       "extra": {
         "sketchName": "long"
       }
@@ -163,7 +163,7 @@
       "classId": "pelagic_habitat_zones4",
       "groupId": null,
       "geographyId": null,
-      "value": 1930,
+      "value": 7583,
       "extra": {
         "sketchName": "size-target-test",
         "isCollection": true
@@ -175,7 +175,7 @@
       "classId": "pelagic_habitat_zones4",
       "groupId": null,
       "geographyId": null,
-      "value": 1465,
+      "value": 5769,
       "extra": {
         "sketchName": "big"
       }

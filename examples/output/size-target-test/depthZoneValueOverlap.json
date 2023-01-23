@@ -6,7 +6,7 @@
       "classId": "depth_zone_abyssal",
       "groupId": null,
       "geographyId": null,
-      "value": 331,
+      "value": 1042,
       "extra": {
         "sketchName": "west"
       }
@@ -17,7 +17,7 @@
       "classId": "depth_zone_abyssal",
       "groupId": null,
       "geographyId": null,
-      "value": 1280,
+      "value": 4484,
       "extra": {
         "sketchName": "long"
       }
@@ -28,7 +28,7 @@
       "classId": "depth_zone_abyssal",
       "groupId": null,
       "geographyId": null,
-      "value": 2175,
+      "value": 7211,
       "extra": {
         "sketchName": "size-target-test",
         "isCollection": true
@@ -40,7 +40,7 @@
       "classId": "depth_zone_abyssal",
       "groupId": null,
       "geographyId": null,
-      "value": 1217,
+      "value": 3924,
       "extra": {
         "sketchName": "big"
       }
@@ -51,7 +51,7 @@
       "classId": "depth_zone_bathyal",
       "groupId": null,
       "geographyId": null,
-      "value": 219,
+      "value": 646,
       "extra": {
         "sketchName": "west"
       }
@@ -62,7 +62,7 @@
       "classId": "depth_zone_bathyal",
       "groupId": null,
       "geographyId": null,
-      "value": 1291,
+      "value": 4555,
       "extra": {
         "sketchName": "long"
       }
@@ -73,7 +73,7 @@
       "classId": "depth_zone_bathyal",
       "groupId": null,
       "geographyId": null,
-      "value": 2712,
+      "value": 9297,
       "extra": {
         "sketchName": "size-target-test",
         "isCollection": true
@@ -85,7 +85,7 @@
       "classId": "depth_zone_bathyal",
       "groupId": null,
       "geographyId": null,
-      "value": 1810,
+      "value": 6004,
       "extra": {
         "sketchName": "big"
       }
@@ -96,7 +96,7 @@
       "classId": "depth_zone_hadal",
       "groupId": null,
       "geographyId": null,
-      "value": 52,
+      "value": 130,
       "extra": {
         "sketchName": "west"
       }
@@ -118,7 +118,7 @@
       "classId": "depth_zone_hadal",
       "groupId": null,
       "geographyId": null,
-      "value": 52,
+      "value": 130,
       "extra": {
         "sketchName": "size-target-test",
         "isCollection": true
@@ -152,7 +152,7 @@
       "classId": "depth_zone_mesophotic",
       "groupId": null,
       "geographyId": null,
-      "value": 6,
+      "value": 9,
       "extra": {
         "sketchName": "long"
       }
@@ -163,7 +163,7 @@
       "classId": "depth_zone_mesophotic",
       "groupId": null,
       "geographyId": null,
-      "value": 77,
+      "value": 133,
       "extra": {
         "sketchName": "size-target-test",
         "isCollection": true
@@ -175,7 +175,7 @@
       "classId": "depth_zone_mesophotic",
       "groupId": null,
       "geographyId": null,
-      "value": 75,
+      "value": 131,
       "extra": {
         "sketchName": "big"
       }
@@ -208,7 +208,7 @@
       "classId": "depth_zone_photic",
       "groupId": null,
       "geographyId": null,
-      "value": 35,
+      "value": 85,
       "extra": {
         "sketchName": "size-target-test",
         "isCollection": true
@@ -220,7 +220,7 @@
       "classId": "depth_zone_photic",
       "groupId": null,
       "geographyId": null,
-      "value": 35,
+      "value": 85,
       "extra": {
         "sketchName": "big"
       }

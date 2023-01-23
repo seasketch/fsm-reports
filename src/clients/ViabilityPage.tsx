@@ -1,16 +1,18 @@
 import React from "react";
-import { SketchAttributesCard } from "@seasketch/geoprocessing/client-ui";
 import SizeCard from "../components/SizeCard";
+import ContiguousZoneCard from "../components/ContiguousZoneCard";
 import FishingEffortHoursCard from "../components/FishingEffortHoursCard";
 import FishingEffortCatchCard from "../components/FishingEffortCatchCard";
+import { SketchAttributesCard } from "@seasketch/geoprocessing/client-ui";
 
 const ReportPage = () => {
   return (
     <>
+      <SketchAttributesCard autoHide />
+      <ContiguousZoneCard autoHide />
       <SizeCard />
       <FishingEffortHoursCard />
       <FishingEffortCatchCard />
-      <SketchAttributesCard autoHide />
     </>
   );
 };

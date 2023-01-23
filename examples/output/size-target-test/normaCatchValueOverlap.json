@@ -6,7 +6,7 @@
       "classId": "norma_longline_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 16.567500033415854,
+      "value": 17.003333350643516,
       "extra": {
         "sketchName": "west"
       }
@@ -17,7 +17,7 @@
       "classId": "norma_longline_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 1192.6799996295013,
+      "value": 1212.2808330382686,
       "extra": {
         "sketchName": "long"
       }
@@ -28,7 +28,7 @@
       "classId": "norma_longline_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 1730.9474994416814,
+      "value": 1743.5874997124774,
       "extra": {
         "sketchName": "size-target-test",
         "isCollection": true
@@ -40,7 +40,7 @@
       "classId": "norma_longline_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 1101.7816656774376,
+      "value": 1089.9591665660264,
       "extra": {
         "sketchName": "big"
       }
@@ -51,7 +51,7 @@
       "classId": "norma_pole_and_line_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 52.0818185294047,
+      "value": 51.0818185294047,
       "extra": {
         "sketchName": "west"
       }
@@ -62,7 +62,7 @@
       "classId": "norma_pole_and_line_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 373.745456719771,
+      "value": 341.7272758856416,
       "extra": {
         "sketchName": "long"
       }
@@ -73,7 +73,7 @@
       "classId": "norma_pole_and_line_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 639.7818229543045,
+      "value": 610.7727327346802,
       "extra": {
         "sketchName": "size-target-test",
         "isCollection": true
@@ -85,7 +85,7 @@
       "classId": "norma_pole_and_line_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 313.60909442976117,
+      "value": 309.50909422244877,
       "extra": {
         "sketchName": "big"
       }
@@ -96,7 +96,7 @@
       "classId": "norma_purse_seine_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 848.444166066125,
+      "value": 762.9751682803035,
       "extra": {
         "sketchName": "west"
       }
@@ -107,7 +107,7 @@
       "classId": "norma_purse_seine_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 49163.319136574864,
+      "value": 44396.21717634529,
       "extra": {
         "sketchName": "long"
       }
@@ -118,7 +118,7 @@
       "classId": "norma_purse_seine_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 62106.954208364245,
+      "value": 56592.128006840765,
       "extra": {
         "sketchName": "size-target-test",
         "isCollection": true
@@ -130,7 +130,7 @@
       "classId": "norma_purse_seine_catch",
       "groupId": null,
       "geographyId": null,
-      "value": 36479.27773467032,
+      "value": 33769.84599420667,
       "extra": {
         "sketchName": "big"
       }

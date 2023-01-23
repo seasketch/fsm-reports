@@ -35,7 +35,7 @@
     "layerName": "eez_mr_osm",
     "classKeys": [],
     "created": "2022-11-16T23:04:19.554Z",
-    "lastUpdated": "2022-12-30T19:35:08.697Z",
+    "lastUpdated": "2023-01-19T03:00:30.544Z",
     "src": "data/src/Analytics/current-vector.gpkg",
     "propertiesToKeep": []
   },
@@ -57,7 +57,7 @@
     "layerName": "offshore_mr",
     "classKeys": [],
     "created": "2022-11-16T23:06:02.948Z",
-    "lastUpdated": "2022-12-30T19:35:10.889Z",
+    "lastUpdated": "2023-01-19T03:00:34.111Z",
     "src": "data/src/Analytics/current-vector.gpkg",
     "propertiesToKeep": []
   },
@@ -79,7 +79,7 @@
     "layerName": "nearshore_mr_osm",
     "classKeys": [],
     "created": "2022-11-16T23:08:48.589Z",
-    "lastUpdated": "2022-12-30T19:35:13.055Z",
+    "lastUpdated": "2023-01-19T03:00:37.880Z",
     "src": "data/src/Analytics/current-vector.gpkg",
     "propertiesToKeep": []
   },
@@ -90,7 +90,7 @@
       "total": {
         "total": {
           "count": null,
-          "sum": 35,
+          "sum": 85,
           "area": null
         }
       }
@@ -102,275 +102,11 @@
     "band": 1,
     "noDataValue": -3.3999999521443642e+38,
     "created": "2022-11-21T21:44:08.941Z",
-    "lastUpdated": "2022-12-30T19:35:14.075Z",
+    "lastUpdated": "2023-01-19T03:00:39.518Z",
     "src": " data/src/Data_Received/EmLab/offshore/inputs/features/photic_zone.tif"
   },
   {
     "datasourceId": "depth_zone_mesophotic",
-    "geo_type": "raster",
-    "keyStats": {
-      "total": {
-        "total": {
-          "count": null,
-          "sum": 82,
-          "area": null
-        }
-      }
-    },
-    "formats": [
-      "tif"
-    ],
-    "measurementType": "quantitative",
-    "band": 1,
-    "noDataValue": -3.3999999521443642e+38,
-    "created": "2022-11-21T21:45:54.536Z",
-    "lastUpdated": "2022-12-30T19:35:16.435Z",
-    "src": " data/src/Data_Received/EmLab/offshore/inputs/features/mesophotic_zone.tif"
-  },
-  {
-    "datasourceId": "depth_zone_bathyal",
-    "geo_type": "raster",
-    "keyStats": {
-      "total": {
-        "total": {
-          "count": null,
-          "sum": 4388,
-          "area": null
-        }
-      }
-    },
-    "formats": [
-      "tif"
-    ],
-    "measurementType": "quantitative",
-    "band": 1,
-    "noDataValue": -3.3999999521443642e+38,
-    "created": "2022-11-21T21:46:53.256Z",
-    "lastUpdated": "2022-12-30T19:35:17.372Z",
-    "src": " data/src/Data_Received/EmLab/offshore/inputs/features/bathyal_zone.tif"
-  },
-  {
-    "datasourceId": "depth_zone_abyssal",
-    "geo_type": "raster",
-    "keyStats": {
-      "total": {
-        "total": {
-          "count": null,
-          "sum": 5298,
-          "area": null
-        }
-      }
-    },
-    "formats": [
-      "tif"
-    ],
-    "measurementType": "quantitative",
-    "band": 1,
-    "noDataValue": -3.3999999521443642e+38,
-    "created": "2022-11-21T21:47:40.605Z",
-    "lastUpdated": "2022-12-30T19:35:18.335Z",
-    "src": " data/src/Data_Received/EmLab/offshore/inputs/features/abyssal_zone.tif"
-  },
-  {
-    "datasourceId": "depth_zone_hadal",
-    "geo_type": "raster",
-    "keyStats": {
-      "total": {
-        "total": {
-          "count": null,
-          "sum": 151,
-          "area": null
-        }
-      }
-    },
-    "formats": [
-      "tif"
-    ],
-    "measurementType": "quantitative",
-    "band": 1,
-    "noDataValue": -3.3999999521443642e+38,
-    "created": "2022-11-21T21:50:04.900Z",
-    "lastUpdated": "2022-12-30T19:35:19.436Z",
-    "src": " data/src/Data_Received/EmLab/offshore/inputs/features/hadal_zone.tif"
-  },
-  {
-    "datasourceId": "pelagic_habitat_zones1",
-    "geo_type": "raster",
-    "keyStats": {
-      "total": {
-        "total": {
-          "count": null,
-          "sum": 2842,
-          "area": null
-        }
-      }
-    },
-    "formats": [
-      "tif"
-    ],
-    "measurementType": "quantitative",
-    "band": 1,
-    "noDataValue": -3.3999999521443642e+38,
-    "created": "2022-12-01T19:55:20.582Z",
-    "lastUpdated": "2022-12-30T19:35:20.501Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/pelagic_habitat_zones_12params_category1.tif"
-  },
-  {
-    "datasourceId": "pelagic_habitat_zones2",
-    "geo_type": "raster",
-    "keyStats": {
-      "total": {
-        "total": {
-          "count": null,
-          "sum": 1473,
-          "area": null
-        }
-      }
-    },
-    "formats": [
-      "tif"
-    ],
-    "measurementType": "quantitative",
-    "band": 1,
-    "noDataValue": -3.3999999521443642e+38,
-    "created": "2022-12-01T19:56:24.046Z",
-    "lastUpdated": "2022-12-30T19:35:21.443Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/pelagic_habitat_zones_12params_category2.tif"
-  },
-  {
-    "datasourceId": "pelagic_habitat_zones3",
-    "geo_type": "raster",
-    "keyStats": {
-      "total": {
-        "total": {
-          "count": null,
-          "sum": 2329,
-          "area": null
-        }
-      }
-    },
-    "formats": [
-      "tif"
-    ],
-    "measurementType": "quantitative",
-    "band": 1,
-    "noDataValue": -3.3999999521443642e+38,
-    "created": "2022-12-01T19:58:47.848Z",
-    "lastUpdated": "2022-12-30T19:35:22.457Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/pelagic_habitat_zones_12params_category3.tif"
-  },
-  {
-    "datasourceId": "pelagic_habitat_zones4",
-    "geo_type": "raster",
-    "keyStats": {
-      "total": {
-        "total": {
-          "count": null,
-          "sum": 2388,
-          "area": null
-        }
-      }
-    },
-    "formats": [
-      "tif"
-    ],
-    "measurementType": "quantitative",
-    "band": 1,
-    "noDataValue": -3.3999999521443642e+38,
-    "created": "2022-12-01T20:00:53.318Z",
-    "lastUpdated": "2022-12-30T19:35:23.387Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/pelagic_habitat_zones_12params_category4.tif"
-  },
-  {
-    "datasourceId": "gm_abyssal_plains",
-    "geo_type": "raster",
-    "keyStats": {
-      "total": {
-        "total": {
-          "count": null,
-          "sum": 2970,
-          "area": null
-        }
-      }
-    },
-    "formats": [
-      "tif"
-    ],
-    "measurementType": "quantitative",
-    "band": 1,
-    "noDataValue": -3.3999999521443642e+38,
-    "created": "2022-12-03T02:08:12.599Z",
-    "lastUpdated": "2022-12-30T19:35:24.307Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_abyssal_plains.tif"
-  },
-  {
-    "datasourceId": "gm_basins_perched",
-    "geo_type": "raster",
-    "keyStats": {
-      "total": {
-        "total": {
-          "count": null,
-          "sum": 7,
-          "area": null
-        }
-      }
-    },
-    "formats": [
-      "tif"
-    ],
-    "measurementType": "quantitative",
-    "band": 1,
-    "noDataValue": -3.3999999521443642e+38,
-    "created": "2022-12-03T02:09:56.399Z",
-    "lastUpdated": "2022-12-30T19:35:25.365Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_basins__Basins.perched.on.the.slope.tif"
-  },
-  {
-    "datasourceId": "gm_basins_large",
-    "geo_type": "raster",
-    "keyStats": {
-      "total": {
-        "total": {
-          "count": null,
-          "sum": 1444,
-          "area": null
-        }
-      }
-    },
-    "formats": [
-      "tif"
-    ],
-    "measurementType": "quantitative",
-    "band": 1,
-    "noDataValue": -3.3999999521443642e+38,
-    "created": "2022-12-03T02:15:11.088Z",
-    "lastUpdated": "2022-12-30T19:35:26.469Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_basins__Large.basins.of.seas.and.oceans.tif"
-  },
-  {
-    "datasourceId": "gm_basins_major",
-    "geo_type": "raster",
-    "keyStats": {
-      "total": {
-        "total": {
-          "count": null,
-          "sum": 1356,
-          "area": null
-        }
-      }
-    },
-    "formats": [
-      "tif"
-    ],
-    "measurementType": "quantitative",
-    "band": 1,
-    "noDataValue": -3.3999999521443642e+38,
-    "created": "2022-12-03T02:17:35.369Z",
-    "lastUpdated": "2022-12-30T19:35:27.406Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_basins__Major.ocean.basins.tif"
-  },
-  {
-    "datasourceId": "gm_basins_small",
     "geo_type": "raster",
     "keyStats": {
       "total": {
@@ -387,9 +123,273 @@
     "measurementType": "quantitative",
     "band": 1,
     "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-11-21T21:45:54.536Z",
+    "lastUpdated": "2023-01-19T03:00:41.123Z",
+    "src": " data/src/Data_Received/EmLab/offshore/inputs/features/mesophotic_zone.tif"
+  },
+  {
+    "datasourceId": "depth_zone_bathyal",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 15057,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-11-21T21:46:53.256Z",
+    "lastUpdated": "2023-01-19T03:00:42.557Z",
+    "src": " data/src/Data_Received/EmLab/offshore/inputs/features/bathyal_zone.tif"
+  },
+  {
+    "datasourceId": "depth_zone_abyssal",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 18456,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-11-21T21:47:40.605Z",
+    "lastUpdated": "2023-01-19T03:00:43.959Z",
+    "src": " data/src/Data_Received/EmLab/offshore/inputs/features/abyssal_zone.tif"
+  },
+  {
+    "datasourceId": "depth_zone_hadal",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 400,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-11-21T21:50:04.900Z",
+    "lastUpdated": "2023-01-19T03:00:45.380Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/hadal_zone.tif"
+  },
+  {
+    "datasourceId": "pelagic_habitat_zones1",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 10587,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-01T19:55:20.582Z",
+    "lastUpdated": "2023-01-19T03:00:47.028Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/pelagic_habitat_zones_12params_category1.tif"
+  },
+  {
+    "datasourceId": "pelagic_habitat_zones2",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 5601,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-01T19:56:24.046Z",
+    "lastUpdated": "2023-01-19T03:00:48.513Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/pelagic_habitat_zones_12params_category2.tif"
+  },
+  {
+    "datasourceId": "pelagic_habitat_zones3",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 8619,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-01T19:58:47.848Z",
+    "lastUpdated": "2023-01-19T03:00:50.090Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/pelagic_habitat_zones_12params_category3.tif"
+  },
+  {
+    "datasourceId": "pelagic_habitat_zones4",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 9123,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-01T20:00:53.318Z",
+    "lastUpdated": "2023-01-19T03:00:51.600Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/pelagic_habitat_zones_12params_category4.tif"
+  },
+  {
+    "datasourceId": "gm_abyssal_plains",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 9854,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-03T02:08:12.599Z",
+    "lastUpdated": "2023-01-19T03:00:53.075Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/harris_abyssal_plains.tif"
+  },
+  {
+    "datasourceId": "gm_basins_perched",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 10,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-03T02:09:56.399Z",
+    "lastUpdated": "2023-01-19T03:00:54.629Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/harris_basins__Basins.perched.on.the.slope.tif"
+  },
+  {
+    "datasourceId": "gm_basins_large",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 4471,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-03T02:15:11.088Z",
+    "lastUpdated": "2023-01-19T03:00:56.042Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/harris_basins__Large.basins.of.seas.and.oceans.tif"
+  },
+  {
+    "datasourceId": "gm_basins_major",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 4630,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2022-12-03T02:17:35.369Z",
+    "lastUpdated": "2023-01-19T03:00:57.572Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/harris_basins__Major.ocean.basins.tif"
+  },
+  {
+    "datasourceId": "gm_basins_small",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 197,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
     "created": "2022-12-03T02:18:34.529Z",
-    "lastUpdated": "2022-12-30T19:35:28.477Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_basins__Small.basins.of.seas.and.oceans.tif"
+    "lastUpdated": "2023-01-19T03:00:59.263Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/harris_basins__Small.basins.of.seas.and.oceans.tif"
   },
   {
     "datasourceId": "gm_bridges",
@@ -410,8 +410,8 @@
     "band": 1,
     "noDataValue": -3.3999999521443642e+38,
     "created": "2022-12-03T02:32:43.754Z",
-    "lastUpdated": "2022-12-30T19:35:29.571Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_bridges.tif"
+    "lastUpdated": "2023-01-19T03:01:00.617Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/harris_bridges.tif"
   },
   {
     "datasourceId": "gm_escarpments",
@@ -420,7 +420,7 @@
       "total": {
         "total": {
           "count": null,
-          "sum": 1859,
+          "sum": 3892,
           "area": null
         }
       }
@@ -432,8 +432,8 @@
     "band": 1,
     "noDataValue": -3.3999999521443642e+38,
     "created": "2022-12-05T22:15:13.974Z",
-    "lastUpdated": "2022-12-30T19:35:30.626Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_escarpments.tif"
+    "lastUpdated": "2023-01-19T03:01:02.145Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/harris_escarpments.tif"
   },
   {
     "datasourceId": "gm_knolls",
@@ -442,7 +442,7 @@
       "total": {
         "total": {
           "count": null,
-          "sum": 1630,
+          "sum": 3889,
           "area": null
         }
       }
@@ -454,8 +454,8 @@
     "band": 1,
     "noDataValue": -3.3999999521443642e+38,
     "created": "2022-12-05T22:16:01.219Z",
-    "lastUpdated": "2022-12-30T19:35:31.658Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/yesson_knolls.tif"
+    "lastUpdated": "2023-01-19T03:01:03.819Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/yesson_knolls.tif"
   },
   {
     "datasourceId": "gm_plateaus",
@@ -464,7 +464,7 @@
       "total": {
         "total": {
           "count": null,
-          "sum": 1167,
+          "sum": 4411,
           "area": null
         }
       }
@@ -476,8 +476,8 @@
     "band": 1,
     "noDataValue": -3.3999999521443642e+38,
     "created": "2022-12-05T22:16:45.756Z",
-    "lastUpdated": "2022-12-30T19:35:32.686Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_plateaus.tif"
+    "lastUpdated": "2023-01-19T03:01:05.406Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/harris_plateaus.tif"
   },
   {
     "datasourceId": "gm_ridges",
@@ -486,7 +486,7 @@
       "total": {
         "total": {
           "count": null,
-          "sum": 997,
+          "sum": 2367,
           "area": null
         }
       }
@@ -498,8 +498,8 @@
     "band": 1,
     "noDataValue": -3.3999999521443642e+38,
     "created": "2022-12-05T22:17:23.340Z",
-    "lastUpdated": "2022-12-30T19:35:33.660Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_ridges.tif"
+    "lastUpdated": "2023-01-19T03:01:06.892Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/harris_ridges.tif"
   },
   {
     "datasourceId": "gm_seamounts",
@@ -508,7 +508,7 @@
       "total": {
         "total": {
           "count": null,
-          "sum": 1207,
+          "sum": 3878,
           "area": null
         }
       }
@@ -520,8 +520,8 @@
     "band": 1,
     "noDataValue": -3.3999999521443642e+38,
     "created": "2022-12-05T22:18:46.156Z",
-    "lastUpdated": "2022-12-30T19:35:34.708Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/yesson_seamounts_40km.tif"
+    "lastUpdated": "2023-01-19T03:01:08.515Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/yesson_seamounts_40km.tif"
   },
   {
     "datasourceId": "gm_spreading_ridges",
@@ -530,7 +530,7 @@
       "total": {
         "total": {
           "count": null,
-          "sum": 395,
+          "sum": 1256,
           "area": null
         }
       }
@@ -542,8 +542,8 @@
     "band": 1,
     "noDataValue": -3.3999999521443642e+38,
     "created": "2022-12-05T22:19:44.129Z",
-    "lastUpdated": "2022-12-30T19:35:35.605Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_spreading_ridges.tif"
+    "lastUpdated": "2023-01-19T03:01:10.095Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/harris_spreading_ridges.tif"
   },
   {
     "datasourceId": "gm_trenches",
@@ -552,7 +552,7 @@
       "total": {
         "total": {
           "count": null,
-          "sum": 165,
+          "sum": 476,
           "area": null
         }
       }
@@ -564,8 +564,8 @@
     "band": 1,
     "noDataValue": -3.3999999521443642e+38,
     "created": "2022-12-05T22:21:54.394Z",
-    "lastUpdated": "2022-12-30T19:35:36.589Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_trenches.tif"
+    "lastUpdated": "2023-01-19T03:01:11.683Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/harris_trenches.tif"
   },
   {
     "datasourceId": "gm_troughs",
@@ -574,7 +574,7 @@
       "total": {
         "total": {
           "count": null,
-          "sum": 5,
+          "sum": 11,
           "area": null
         }
       }
@@ -586,8 +586,8 @@
     "band": 1,
     "noDataValue": -3.3999999521443642e+38,
     "created": "2022-12-05T22:24:36.532Z",
-    "lastUpdated": "2022-12-30T19:35:37.501Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/features/harris_troughs.tif"
+    "lastUpdated": "2023-01-19T03:01:13.144Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/harris_troughs.tif"
   },
   {
     "datasourceId": "gfw_longline_effort",
@@ -596,7 +596,7 @@
       "total": {
         "total": {
           "count": null,
-          "sum": 33870621.384363845,
+          "sum": 139954501.36565527,
           "area": null
         }
       }
@@ -608,8 +608,8 @@
     "band": 1,
     "noDataValue": -3.3999999521443642e+38,
     "created": "2022-12-08T18:58:53.945Z",
-    "lastUpdated": "2022-12-30T19:35:38.534Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/cost/GFW_longline_effort.tif"
+    "lastUpdated": "2023-01-19T03:01:14.795Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/cost/GFW_longline_effort.tif"
   },
   {
     "datasourceId": "gfw_pole_and_line_effort",
@@ -618,7 +618,7 @@
       "total": {
         "total": {
           "count": null,
-          "sum": 418283.9891613885,
+          "sum": 2358451.0639886856,
           "area": null
         }
       }
@@ -630,8 +630,8 @@
     "band": 1,
     "noDataValue": -3.3999999521443642e+38,
     "created": "2022-12-08T18:59:26.410Z",
-    "lastUpdated": "2022-12-30T19:35:39.571Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/cost/GFW_pole_and_line_effort.tif"
+    "lastUpdated": "2023-01-19T03:01:16.304Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/cost/GFW_pole_and_line_effort.tif"
   },
   {
     "datasourceId": "gfw_purse_seine_effort",
@@ -640,7 +640,7 @@
       "total": {
         "total": {
           "count": null,
-          "sum": 39745855.830594234,
+          "sum": 182838213.01721144,
           "area": null
         }
       }
@@ -652,8 +652,8 @@
     "band": 1,
     "noDataValue": -3.3999999521443642e+38,
     "created": "2022-12-08T19:00:06.912Z",
-    "lastUpdated": "2022-12-30T19:35:40.563Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/cost/GFW_purse_seine_effort.tif"
+    "lastUpdated": "2023-01-19T03:01:17.978Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/cost/GFW_purse_seine_effort.tif"
   },
   {
     "datasourceId": "norma_longline_catch",
@@ -662,7 +662,7 @@
       "total": {
         "total": {
           "count": null,
-          "sum": 3386.3558332757093,
+          "sum": 3381.5074990293942,
           "area": null
         }
       }
@@ -674,8 +674,8 @@
     "band": 1,
     "noDataValue": -3.3999999521443642e+38,
     "created": "2022-12-08T19:00:36.049Z",
-    "lastUpdated": "2022-12-30T19:35:41.522Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/cost/NORMA_longline_catch.tif"
+    "lastUpdated": "2023-01-19T03:01:19.513Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/cost/NORMA_longline_catch.tif"
   },
   {
     "datasourceId": "norma_pole_and_line_catch",
@@ -684,7 +684,7 @@
       "total": {
         "total": {
           "count": null,
-          "sum": 2332.2591030094773,
+          "sum": 2313.159107042942,
           "area": null
         }
       }
@@ -696,8 +696,8 @@
     "band": 1,
     "noDataValue": -3.3999999521443642e+38,
     "created": "2022-12-08T19:01:14.304Z",
-    "lastUpdated": "2022-12-30T19:35:42.453Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/cost/NORMA_pole_and_line_catch.tif"
+    "lastUpdated": "2023-01-19T03:01:21.188Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/cost/NORMA_pole_and_line_catch.tif"
   },
   {
     "datasourceId": "norma_purse_seine_catch",
@@ -706,7 +706,7 @@
       "total": {
         "total": {
           "count": null,
-          "sum": 142475.14378327155,
+          "sum": 120192.67905750888,
           "area": null
         }
       }
@@ -718,8 +718,8 @@
     "band": 1,
     "noDataValue": -3.3999999521443642e+38,
     "created": "2022-12-08T19:02:03.489Z",
-    "lastUpdated": "2022-12-30T19:35:43.415Z",
-    "src": "data/src/Analytics/current-raster/prioritization-24/offshore/inputs/cost/NORMA_purse_seine_catch.tif"
+    "lastUpdated": "2023-01-19T03:01:22.741Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/cost/NORMA_purse_seine_catch.tif"
   },
   {
     "datasourceId": "12_24_nm_boundary",
@@ -729,17 +729,39 @@
         "total": {
           "count": 23,
           "sum": null,
-          "area": 183250418383.92377
+          "area": 182757384106.58716
         }
       }
     },
     "formats": [
       "fgb"
     ],
-    "layerName": "12_24nm_boundary_mr_v3",
+    "layerName": "12_24nm_boundary_mr_reproduction",
     "classKeys": [],
     "created": "2022-12-12T18:43:26.556Z",
-    "lastUpdated": "2022-12-30T19:35:46.326Z",
+    "lastUpdated": "2023-01-19T03:01:25.863Z",
+    "src": "data/src/Analytics/current-vector.gpkg",
+    "propertiesToKeep": []
+  },
+  {
+    "datasourceId": "24_200_nm_boundary",
+    "geo_type": "vector",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": 1,
+          "sum": null,
+          "area": 2739284960439.1675
+        }
+      }
+    },
+    "formats": [
+      "fgb"
+    ],
+    "layerName": "24_200nm_boundary_mr_reproduction",
+    "classKeys": [],
+    "created": "2023-01-21T04:15:16.292Z",
+    "lastUpdated": "2023-01-21T04:16:02.487Z",
     "src": "data/src/Analytics/current-vector.gpkg",
     "propertiesToKeep": []
   }

@@ -6,7 +6,7 @@
       "classId": "pelagic_habitat_zones1",
       "groupId": null,
       "geographyId": null,
-      "value": 12,
+      "value": 37,
       "extra": {
         "sketchName": "fsm-land-to-international"
       }
@@ -28,7 +28,7 @@
       "classId": "pelagic_habitat_zones3",
       "groupId": null,
       "geographyId": null,
-      "value": 5,
+      "value": 12,
       "extra": {
         "sketchName": "fsm-land-to-international"
       }

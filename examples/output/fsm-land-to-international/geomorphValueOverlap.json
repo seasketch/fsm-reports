@@ -6,7 +6,7 @@
       "classId": "gm_abyssal_plains",
       "groupId": null,
       "geographyId": null,
-      "value": 8,
+      "value": 16,
       "extra": {
         "sketchName": "fsm-land-to-international"
       }
@@ -17,7 +17,7 @@
       "classId": "gm_basins_large",
       "groupId": null,
       "geographyId": null,
-      "value": 17,
+      "value": 50,
       "extra": {
         "sketchName": "fsm-land-to-international"
       }
@@ -72,7 +72,7 @@
       "classId": "gm_escarpments",
       "groupId": null,
       "geographyId": null,
-      "value": 5,
+      "value": 13,
       "extra": {
         "sketchName": "fsm-land-to-international"
       }

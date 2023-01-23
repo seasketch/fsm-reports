@@ -4,6 +4,7 @@
   "description": "Reports for Federated States of Micronesia",
   "main": "src/index.js",
   "scripts": {
+    "ts-node": "ts-node --transpile-only --compiler-options '{\"esModuleInterop\":true, \"module\":\"commonjs\"}'",
     "start-data": "http-server data/dist -c-1",
     "__test": "geoprocessing test",
     "test": "npm run test:unit && npm run test:smoke",
@@ -53,7 +54,7 @@
     "tiny-worker": "^2.3.0"
   },
   "devDependencies": {
-    "@seasketch/geoprocessing": "1.0.1-experimental-dockerify.19",
+    "@seasketch/geoprocessing": "1.0.1-experimental-dockerify.26",
     "@turf/boolean-disjoint": "6.5.0",
     "@turf/boolean-valid": "6.5.0"
   },
