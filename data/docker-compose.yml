@@ -1,7 +1,7 @@
 version: '3'
 services:
   db:
-    container_name: db-project-name
+    container_name: db-fsm
     image: seasketch/geoprocessing-db
     # Port 54320 will be exposed on the host machine. For example, with
     # QGIS installed you can connect to the database on this port. Use
@@ -11,7 +11,7 @@ services:
     ports:
       - "54320:5432"
   workspace:
-    container_name: workspace-project-name
+    container_name: workspace-fsm
     image: seasketch/geoprocessing-workspace
     # These env vars make it easy to connect to the database service
     # Use `psql` without arguments to connect from within the workspace
@@ -23,9 +23,9 @@ services:
     # The contents of the project directory in the host will be mirrored
     # within the workspace. 
     volumes:
-      - "..:/project"
+      - "..:/data"
     # Switch to the data directory on startup
-    working_dir: /project/data
+    working_dir: /data
     depends_on:
       - "db"
     command: ["bash"]

@@ -6,7 +6,7 @@
       "classId": "depth_zone_abyssal",
       "groupId": null,
       "geographyId": null,
-      "value": 181,
+      "value": 654,
       "extra": {
         "sketchName": "fsm-east-west"
       }
@@ -17,7 +17,7 @@
       "classId": "depth_zone_bathyal",
       "groupId": null,
       "geographyId": null,
-      "value": 46,
+      "value": 130,
       "extra": {
         "sketchName": "fsm-east-west"
       }

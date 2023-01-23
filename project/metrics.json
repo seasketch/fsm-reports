@@ -15,7 +15,7 @@
                 "display": "Offshore",
                 "datasourceId": "offshore",
                 "objectiveId": "offshore",
-                "layerId": ""
+                "layerId": "607b3caa11ccf2303daf87c7"
             },
             {
                 "classId": "contiguous",
@@ -35,27 +35,27 @@
                 "classId": "depth_zone_abyssal",
                 "display": "Abyssal",
                 "datasourceId": "depth_zone_abyssal",
-                "layerId": ""
+                "layerId": "63a39bc3cec8e485613250cc"
             },{
                 "classId": "depth_zone_bathyal",
                 "display": "Bathyal",
                 "datasourceId": "depth_zone_bathyal",
-                "layerId": ""
+                "layerId": "63a39c91cec8e48561325189"
             },{
                 "classId": "depth_zone_hadal",
                 "display": "Hadal",
                 "datasourceId": "depth_zone_hadal",
-                "layerId": ""
+                "layerId": "63a39cf7cec8e48561325271"
             },{
                 "classId": "depth_zone_mesophotic",
                 "display": "Mesophotic",
                 "datasourceId": "depth_zone_mesophotic",
-                "layerId": ""
+                "layerId": "63a3a143cec8e485613259b7"
             },{
                 "classId": "depth_zone_photic",
                 "display": "Photic",
                 "datasourceId": "depth_zone_photic",
-                "layerId": ""
+                "layerId": "63a3a2eacec8e48561325ca1"
             }
         ]
     },
@@ -68,25 +68,25 @@
                 "datasourceId": "pelagic_habitat_zones1",
                 "classId": "pelagic_habitat_zones1",
                 "display": "Zone 1",
-                "layerId": ""
+                "layerId": "63a3a21ecec8e48561325a8f"
             },
             {
                 "datasourceId": "pelagic_habitat_zones2",
                 "classId": "pelagic_habitat_zones2",
                 "display": "Zone 2",
-                "layerId": ""
+                "layerId": "63a3a259cec8e48561325b15"
             },
             {
                 "datasourceId": "pelagic_habitat_zones3",
                 "classId": "pelagic_habitat_zones3",
                 "display": "Zone 3",
-                "layerId": ""
+                "layerId": "63a3a28acec8e48561325b97"
             },
             {
                 "datasourceId": "pelagic_habitat_zones4",
                 "classId": "pelagic_habitat_zones4",
                 "display": "Zone 4",
-                "layerId": ""
+                "layerId": "63a3a2c9cec8e48561325c25"
             }
         ]
     },
@@ -99,98 +99,98 @@
                 "display": "Abyssal Plains",
                 "datasourceId": "gm_abyssal_plains",
                 "objectiveId": "gm_30",
-                "layerId": ""
+                "layerId": "63a39d1fcec8e485613252dd"
             },
             {
                 "classId": "gm_basins_perched",
                 "display": "Basins - Perched on slope",
                 "datasourceId": "gm_basins_perched",
                 "objectiveId": "gm_30",
-                "layerId": ""
+                "layerId": "63a39d4ccec8e4856132534c"
             },
             {
                 "classId": "gm_basins_large",
                 "display": "Basins - Large",
                 "datasourceId": "gm_basins_large",
                 "objectiveId": "gm_30",
-                "layerId": ""
+                "layerId": "63a39d89cec8e485613253c7"
             },
             {
                 "classId": "gm_basins_major",
                 "display": "Basins - Major",
                 "datasourceId": "gm_basins_major",
                 "objectiveId": "gm_30",
-                "layerId": ""
+                "layerId": "63a39df1cec8e48561325463"
             },
             {
                 "classId": "gm_basins_small",
                 "display": "Basins - Small",
                 "datasourceId": "gm_basins_small",
                 "objectiveId": "gm_30",
-                "layerId": ""
+                "layerId": "63a39e15cec8e485613254d0"
             },
             {
                 "classId": "gm_bridges",
                 "display": "Bridges",
                 "datasourceId": "gm_bridges",
                 "objectiveId": "gm_10",
-                "layerId": ""
+                "layerId": "63a39e58cec8e48561325551"
             },
             {
                 "classId": "gm_escarpments",
                 "display": "Escarpments",
                 "datasourceId": "gm_escarpments",
                 "objectiveId": "gm_10",
-                "layerId": ""
+                "layerId": "63a39f5ecec8e48561325643"
             },
             {
                 "classId": "gm_knolls",
                 "display": "Knolls",
                 "datasourceId": "gm_knolls",
                 "objectiveId": "gm_30",
-                "layerId": ""
+                "layerId": "63a3a351cec8e48561325da9"
             },
             {
                 "classId": "gm_plateaus",
                 "display": "Plateaus",
                 "datasourceId": "gm_plateaus",
                 "objectiveId": "gm_15",
-                "layerId": ""
+                "layerId": "63a3a015cec8e4856132571b"
             },
             {
                 "classId": "gm_ridges",
                 "display": "Ridges",
                 "datasourceId": "gm_ridges",
                 "objectiveId": "gm_10",
-                "layerId": ""
+                "layerId": "63a3a057cec8e4856132579f"
             },
             {
                 "classId": "gm_seamounts",
                 "display": "Seamounts",
                 "datasourceId": "gm_seamounts",
                 "objectiveId": "gm_30",
-                "layerId": ""
+                "layerId": "63a3a3d1cec8e48561325ec9"
             },
             {
                 "classId": "gm_spreading_ridges",
                 "display": "Spreading Ridges",
                 "datasourceId": "gm_spreading_ridges",
                 "objectiveId": "gm_10",
-                "layerId": ""
+                "layerId": "63a3a0d0cec8e48561325845"
             },
             {
                 "classId": "gm_trenches",
                 "display": "Trenches",
                 "datasourceId": "gm_trenches",
                 "objectiveId": "gm_15",
-                "layerId": ""
+                "layerId": "63a3a0fdcec8e485613258c2"
             },
             {
                 "classId": "gm_troughs",
                 "display": "Troughs",
                 "datasourceId": "gm_troughs",
                 "objectiveId": "gm_10",
-                "layerId": ""
+                "layerId": "63a3a121cec8e4856132593b"
             }
         ]
     },
@@ -202,19 +202,19 @@
                 "datasourceId": "gfw_longline_effort",
                 "classId": "gfw_longline_effort",
                 "display": "Longline",
-                "layerId": ""
+                "layerId": "6397c5eeaf8730e53895bf39"
             },
             {
                 "datasourceId": "gfw_purse_seine_effort",
                 "classId": "gfw_purse_seine_effort",
                 "display": "Purse seine",
-                "layerId": ""
+                "layerId": "639b79e94f3f723f33a54196"
             },
             {
                 "datasourceId": "gfw_pole_and_line_effort",
                 "classId": "gfw_pole_and_line_effort",
                 "display": "Pole and line",
-                "layerId": ""
+                "layerId": "639aa6b44f3f723f33a4d2df"
             }
         ]
     },
@@ -226,19 +226,19 @@
                 "datasourceId": "norma_longline_catch",
                 "classId": "norma_longline_catch",
                 "display": "Longline",
-                "layerId": ""
+                "layerId": "639b7a1e4f3f723f33a541f5"
             },
             {
                 "datasourceId": "norma_purse_seine_catch",
                 "classId": "norma_purse_seine_catch",
                 "display": "Purse seine",
-                "layerId": ""
+                "layerId": "639b7a704f3f723f33a542a8"
             },
             {
                 "datasourceId": "norma_pole_and_line_catch",
                 "classId": "norma_pole_and_line_catch",
                 "display": "Pole and line",
-                "layerId": ""
+                "layerId": "639b7c5e4f3f723f33a54527"
             }
         ]
     }

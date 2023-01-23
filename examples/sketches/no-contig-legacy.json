@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "id": "63bda0126db00e0c719760d6",
+        "name": "no-contig-legacy",
+        "updatedAt": "2023-01-10T17:27:56.826Z",
+        "createdAt": "2023-01-10T17:26:28.747Z",
+        "sketchClassId": "6377badb6e639a792de961fb",
+        "isCollection": true,
+        "userAttributes": [
+            {
+                "fieldType": "ChoiceField",
+                "label": "Include 12-24 nm Contiguous Zone as No-Take?",
+                "value": "No",
+                "exportId": "include_12-24_nm_contiguous_zone"
+            }
+        ]
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            140.6823524693773,
+                            8.83674563157263
+                        ],
+                        [
+                            140.87278193335982,
+                            10.281209654843519
+                        ],
+                        [
+                            142.61594621937675,
+                            9.566967069647946
+                        ],
+                        [
+                            140.6823524693773,
+                            8.83674563157263
+                        ]
+                    ]
+                ],
+                "bbox": [
+                    140.6823524693773,
+                    8.83674563157263,
+                    142.61594621937675,
+                    10.281209654843519
+                ]
+            },
+            "properties": {
+                "id": "63bda0126db00e0c719760d5",
+                "name": "west1",
+                "updatedAt": "2023-01-10T17:27:46.749Z",
+                "createdAt": "2023-01-10T17:23:52.415Z",
+                "sketchClassId": "6376b1e681125f1a56289340",
+                "isCollection": false,
+                "userAttributes": []
+            },
+            "id": "1",
+            "bbox": [
+                140.6823524693773,
+                8.83674563157263,
+                142.61594621937675,
+                10.281209654843519
+            ]
+        }
+    ]
+}

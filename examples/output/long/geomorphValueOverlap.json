@@ -6,7 +6,7 @@
       "classId": "gm_abyssal_plains",
       "groupId": null,
       "geographyId": null,
-      "value": 850,
+      "value": 2928,
       "extra": {
         "sketchName": "long"
       }
@@ -17,7 +17,7 @@
       "classId": "gm_basins_large",
       "groupId": null,
       "geographyId": null,
-      "value": 597,
+      "value": 1986,
       "extra": {
         "sketchName": "long"
       }
@@ -50,7 +50,7 @@
       "classId": "gm_basins_small",
       "groupId": null,
       "geographyId": null,
-      "value": 32,
+      "value": 41,
       "extra": {
         "sketchName": "long"
       }
@@ -72,7 +72,7 @@
       "classId": "gm_escarpments",
       "groupId": null,
       "geographyId": null,
-      "value": 272,
+      "value": 478,
       "extra": {
         "sketchName": "long"
       }
@@ -83,7 +83,7 @@
       "classId": "gm_knolls",
       "groupId": null,
       "geographyId": null,
-      "value": 438,
+      "value": 1070,
       "extra": {
         "sketchName": "long"
       }
@@ -94,7 +94,7 @@
       "classId": "gm_plateaus",
       "groupId": null,
       "geographyId": null,
-      "value": 437,
+      "value": 1685,
       "extra": {
         "sketchName": "long"
       }
@@ -105,7 +105,7 @@
       "classId": "gm_ridges",
       "groupId": null,
       "geographyId": null,
-      "value": 122,
+      "value": 249,
       "extra": {
         "sketchName": "long"
       }
@@ -116,7 +116,7 @@
       "classId": "gm_seamounts",
       "groupId": null,
       "geographyId": null,
-      "value": 182,
+      "value": 538,
       "extra": {
         "sketchName": "long"
       }
@@ -127,7 +127,7 @@
       "classId": "gm_spreading_ridges",
       "groupId": null,
       "geographyId": null,
-      "value": 104,
+      "value": 319,
       "extra": {
         "sketchName": "long"
       }

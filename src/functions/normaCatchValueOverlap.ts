@@ -10,8 +10,10 @@ import {
   sortMetrics,
   overlapRaster,
   getCogFilename,
+  isSketchCollection,
 } from "@seasketch/geoprocessing";
 import { loadCogWindow } from "@seasketch/geoprocessing/dataproviders";
+import { includeContiguous } from "../util/includeContiguousSketch";
 import bbox from "@turf/bbox";
 import project from "../../project";
 
@@ -20,7 +22,11 @@ const metricGroup = project.getMetricGroup("normaCatchValueOverlap");
 export async function normaCatchValueOverlap(
   sketch: Sketch<Polygon> | SketchCollection<Polygon>
 ): Promise<ReportResult> {
-  const box = sketch.bbox || bbox(sketch);
+  const finalSketch = isSketchCollection(sketch)
+    ? includeContiguous(sketch)
+    : sketch;
+
+  const box = finalSketch.bbox || bbox(finalSketch);
   const metrics: Metric[] = (
     await Promise.all(
       metricGroup.classes.map(async (curClass) => {
@@ -35,7 +41,7 @@ export async function normaCatchValueOverlap(
         const overlapResult = await overlapRaster(
           metricGroup.metricId,
           raster,
-          sketch
+          finalSketch
         );
         return overlapResult.map(
           (metrics): Metric => ({
@@ -53,7 +59,7 @@ export async function normaCatchValueOverlap(
 
   return {
     metrics: sortMetrics(rekeyMetrics(metrics)),
-    sketch: toNullSketch(sketch, true),
+    sketch: toNullSketch(finalSketch, true),
   };
 }
 

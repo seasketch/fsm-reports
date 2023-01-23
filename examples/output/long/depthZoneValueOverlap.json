@@ -6,7 +6,7 @@
       "classId": "depth_zone_abyssal",
       "groupId": null,
       "geographyId": null,
-      "value": 1280,
+      "value": 4484,
       "extra": {
         "sketchName": "long"
       }
@@ -17,7 +17,7 @@
       "classId": "depth_zone_bathyal",
       "groupId": null,
       "geographyId": null,
-      "value": 1291,
+      "value": 4555,
       "extra": {
         "sketchName": "long"
       }
@@ -39,7 +39,7 @@
       "classId": "depth_zone_mesophotic",
       "groupId": null,
       "geographyId": null,
-      "value": 6,
+      "value": 9,
       "extra": {
         "sketchName": "long"
       }

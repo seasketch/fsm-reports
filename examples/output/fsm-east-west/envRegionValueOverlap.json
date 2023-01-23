@@ -6,7 +6,7 @@
       "classId": "pelagic_habitat_zones1",
       "groupId": null,
       "geographyId": null,
-      "value": 183,
+      "value": 692,
       "extra": {
         "sketchName": "fsm-east-west"
       }
@@ -28,7 +28,7 @@
       "classId": "pelagic_habitat_zones3",
       "groupId": null,
       "geographyId": null,
-      "value": 3,
+      "value": 0,
       "extra": {
         "sketchName": "fsm-east-west"
       }
@@ -39,7 +39,7 @@
       "classId": "pelagic_habitat_zones4",
       "groupId": null,
       "geographyId": null,
-      "value": 21,
+      "value": 86,
       "extra": {
         "sketchName": "fsm-east-west"
       }

@@ -1,0 +1,2431 @@
+{
+  "metrics": [
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "002b23f5-8978-4686-9346-6bb216246833",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5918344366.204904,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "002b23f5-8978-4686-9346-6bb216246833",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5918344366.204904,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10502924862.293755,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10502924862.293755,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "22c41b9b-4f1e-4110-a251-36264045e6af",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4997091361.125395,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "22c41b9b-4f1e-4110-a251-36264045e6af",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4997091361.125395,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "2cb47297-2296-4c64-9493-0a437740978c",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5273515737.12873,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "2cb47297-2296-4c64-9493-0a437740978c",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5273515737.12873,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 24863686853.373627,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 24863686853.373627,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "42979bc6-ec91-4290-935a-98977abaa87f",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 182757216971.14935,
+      "extra": {
+        "sketchName": "contiguous_zone_sketches",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4970462071.956528,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4970462071.956528,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10804495837.679993,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10804495837.679993,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10454250437.261755,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10454250437.261755,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5643724015.781737,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5643724015.781737,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8938264474.431461,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8938264474.431461,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5143803570.034788,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5143803570.034788,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "86defaf7-e45c-4322-b565-67410c1b01f1",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6527860334.204155,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "86defaf7-e45c-4322-b565-67410c1b01f1",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6527860334.204155,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "9eec0da4-69dd-4590-97bd-92a358608c34",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5504553119.25384,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "9eec0da4-69dd-4590-97bd-92a358608c34",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5504553119.25384,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "a4afaa84-4059-4e10-bb26-5799a718883a",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 9643821624.294453,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "a4afaa84-4059-4e10-bb26-5799a718883a",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 9643821624.294453,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 16596435226.459145,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 16596435226.459145,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "c50e2746-5cd4-4860-8603-89094044fc33",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4986459618.278423,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "c50e2746-5cd4-4860-8603-89094044fc33",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4986459618.278423,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "cbec47ba-676a-475b-91bf-74e3af3563db",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4798546729.282001,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "cbec47ba-676a-475b-91bf-74e3af3563db",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4798546729.282001,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5994740352.1105175,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5994740352.1105175,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4959016394.949556,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4959016394.949556,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5170461978.423583,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5170461978.423583,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "de6816a8-f40e-4564-99fa-47165537d961",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8789768187.485779,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "de6816a8-f40e-4564-99fa-47165537d961",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8789768187.485779,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5411631902.821878,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5411631902.821878,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "ed138ca7-92a2-4908-b912-877487721cb2",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6863357916.313438,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "ed138ca7-92a2-4908-b912-877487721cb2",
+      "classId": "contiguous",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6863357916.313438,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "002b23f5-8978-4686-9346-6bb216246833",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5918349527.24461,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "002b23f5-8978-4686-9346-6bb216246833",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5918349527.24461,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10502936052.721205,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10502936052.721205,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "22c41b9b-4f1e-4110-a251-36264045e6af",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4997095064.697509,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "22c41b9b-4f1e-4110-a251-36264045e6af",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4997095064.697509,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "2cb47297-2296-4c64-9493-0a437740978c",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5273521212.174987,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "2cb47297-2296-4c64-9493-0a437740978c",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5273521212.174987,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 24863710624.442497,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 24863710624.442497,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "42979bc6-ec91-4290-935a-98977abaa87f",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 182757394871.32263,
+      "extra": {
+        "sketchName": "contiguous_zone_sketches",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4970467518.134907,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4970467518.134907,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10804506766.398659,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10804506766.398659,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10454261701.25809,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10454261701.25809,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5643729536.017305,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5643729536.017305,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8938274106.450388,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8938274106.450388,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5143808469.01458,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5143808469.01458,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "86defaf7-e45c-4322-b565-67410c1b01f1",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6527866979.307472,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "86defaf7-e45c-4322-b565-67410c1b01f1",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6527866979.307472,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "9eec0da4-69dd-4590-97bd-92a358608c34",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5504558613.952311,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "9eec0da4-69dd-4590-97bd-92a358608c34",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5504558613.952311,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "a4afaa84-4059-4e10-bb26-5799a718883a",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 9643829856.757753,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "a4afaa84-4059-4e10-bb26-5799a718883a",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 9643829856.757753,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 16596449357.18855,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 16596449357.18855,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "c50e2746-5cd4-4860-8603-89094044fc33",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4986463989.370319,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "c50e2746-5cd4-4860-8603-89094044fc33",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4986463989.370319,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "cbec47ba-676a-475b-91bf-74e3af3563db",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4798551177.990337,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "cbec47ba-676a-475b-91bf-74e3af3563db",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4798551177.990337,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5994746504.57062,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5994746504.57062,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4959021608.511359,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4959021608.511359,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5170466713.296507,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5170466713.296507,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "de6816a8-f40e-4564-99fa-47165537d961",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8789777889.370049,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "de6816a8-f40e-4564-99fa-47165537d961",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8789777889.370049,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5411636822.269302,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5411636822.269302,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "ed138ca7-92a2-4908-b912-877487721cb2",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6863364780.18334,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "ed138ca7-92a2-4908-b912-877487721cb2",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6863364780.18334,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "002b23f5-8978-4686-9346-6bb216246833",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5918349527.24461,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "002b23f5-8978-4686-9346-6bb216246833",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5918349527.24461,
+      "extra": {
+        "sketchName": "contiguous-zone-17"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10502936052.721205,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10502936052.721205,
+      "extra": {
+        "sketchName": "contiguous-zone-16"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "22c41b9b-4f1e-4110-a251-36264045e6af",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4996665974.106028,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "22c41b9b-4f1e-4110-a251-36264045e6af",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4996665974.106028,
+      "extra": {
+        "sketchName": "contiguous-zone-19"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "2cb47297-2296-4c64-9493-0a437740978c",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5273521212.174987,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "2cb47297-2296-4c64-9493-0a437740978c",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5273521212.174987,
+      "extra": {
+        "sketchName": "contiguous-zone-14"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 24863710624.442497,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 24863710624.442497,
+      "extra": {
+        "sketchName": "contiguous-zone-22"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "42979bc6-ec91-4290-935a-98977abaa87f",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 182139925631.3417,
+      "extra": {
+        "sketchName": "contiguous_zone_sketches",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4970467518.134907,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4970467518.134907,
+      "extra": {
+        "sketchName": "contiguous-zone-5"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10639001530.326202,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10639001530.326202,
+      "extra": {
+        "sketchName": "contiguous-zone-12"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10454261701.25809,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10454261701.25809,
+      "extra": {
+        "sketchName": "contiguous-zone-2"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5611432464.20046,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5611432464.20046,
+      "extra": {
+        "sketchName": "contiguous-zone-15"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8938274106.450388,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8938274106.450388,
+      "extra": {
+        "sketchName": "contiguous-zone-20"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5080775924.581078,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5080775924.581078,
+      "extra": {
+        "sketchName": "contiguous-zone-6"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "86defaf7-e45c-4322-b565-67410c1b01f1",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6378882583.988177,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "86defaf7-e45c-4322-b565-67410c1b01f1",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6378882583.988177,
+      "extra": {
+        "sketchName": "contiguous-zone-8"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "9eec0da4-69dd-4590-97bd-92a358608c34",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5504558613.952311,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "9eec0da4-69dd-4590-97bd-92a358608c34",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5504558613.952311,
+      "extra": {
+        "sketchName": "contiguous-zone-13"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "a4afaa84-4059-4e10-bb26-5799a718883a",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 9643829856.757753,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "a4afaa84-4059-4e10-bb26-5799a718883a",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 9643829856.757753,
+      "extra": {
+        "sketchName": "contiguous-zone-9"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 16594064991.33423,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 16594064991.33423,
+      "extra": {
+        "sketchName": "contiguous-zone-4"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "c50e2746-5cd4-4860-8603-89094044fc33",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4973711472.711301,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "c50e2746-5cd4-4860-8603-89094044fc33",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4973711472.711301,
+      "extra": {
+        "sketchName": "contiguous-zone-7"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "cbec47ba-676a-475b-91bf-74e3af3563db",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4793025451.320891,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "cbec47ba-676a-475b-91bf-74e3af3563db",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4793025451.320891,
+      "extra": {
+        "sketchName": "contiguous-zone-10"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5876774438.17173,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5876774438.17173,
+      "extra": {
+        "sketchName": "contiguous-zone-11"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4951900562.073739,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4951900562.073739,
+      "extra": {
+        "sketchName": "contiguous-zone-18"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5140914967.448735,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5140914967.448735,
+      "extra": {
+        "sketchName": "contiguous-zone-1"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "de6816a8-f40e-4564-99fa-47165537d961",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8757864455.489779,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "de6816a8-f40e-4564-99fa-47165537d961",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8757864455.489779,
+      "extra": {
+        "sketchName": "contiguous-zone-3"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5411636822.269302,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 5411636822.269302,
+      "extra": {
+        "sketchName": "contiguous-zone-23"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "ed138ca7-92a2-4908-b912-877487721cb2",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6863364780.18334,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "ed138ca7-92a2-4908-b912-877487721cb2",
+      "classId": "offshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 6863364780.18334,
+      "extra": {
+        "sketchName": "contiguous-zone-21"
+      }
+    }
+  ],
+  "sketch": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+          "isCollection": false,
+          "sketchClassId": "8c8d8973-2b09-4062-9339-ef0cb2d42520",
+          "createdAt": "2023-01-13T23:55:40.632Z",
+          "updatedAt": "2023-01-13T23:55:40.632Z",
+          "name": "contiguous-zone-1"
+        },
+        "bbox": [
+          142.587549,
+          6.276767,
+          143.48602,
+          7.107805
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+          "isCollection": false,
+          "sketchClassId": "ce56a14b-27ed-4abb-9630-46e9eb7dcb17",
+          "createdAt": "2023-01-13T23:55:40.633Z",
+          "updatedAt": "2023-01-13T23:55:40.633Z",
+          "name": "contiguous-zone-2"
+        },
+        "bbox": [
+          148.670441,
+          6.265825,
+          149.852718,
+          8.057858
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "de6816a8-f40e-4564-99fa-47165537d961",
+          "isCollection": false,
+          "sketchClassId": "9aeb50af-723f-425e-8065-489879008618",
+          "createdAt": "2023-01-13T23:55:40.633Z",
+          "updatedAt": "2023-01-13T23:55:40.633Z",
+          "name": "contiguous-zone-3"
+        },
+        "bbox": [
+          143.416905,
+          6.830509,
+          144.872046,
+          7.788397
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+          "isCollection": false,
+          "sketchClassId": "b0d33e6f-dcdc-4814-9a96-6f1a2ebd8efb",
+          "createdAt": "2023-01-13T23:55:40.633Z",
+          "updatedAt": "2023-01-13T23:55:40.633Z",
+          "name": "contiguous-zone-4"
+        },
+        "bbox": [
+          145.441469,
+          6.967447,
+          147.455594,
+          8.499142
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+          "isCollection": false,
+          "sketchClassId": "0d86d3b4-1bc0-4119-8398-c8121d9ff4b1",
+          "createdAt": "2023-01-13T23:55:40.633Z",
+          "updatedAt": "2023-01-13T23:55:40.633Z",
+          "name": "contiguous-zone-5"
+        },
+        "bbox": [
+          147.227352,
+          7.689813,
+          148.075888,
+          8.522956
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+          "isCollection": false,
+          "sketchClassId": "368e3bdd-e61e-43df-bf5e-10b2c6757f04",
+          "createdAt": "2023-01-13T23:55:40.633Z",
+          "updatedAt": "2023-01-13T23:55:40.633Z",
+          "name": "contiguous-zone-6"
+        },
+        "bbox": [
+          139.920636,
+          7.713102,
+          140.823909,
+          8.557962
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "c50e2746-5cd4-4860-8603-89094044fc33",
+          "isCollection": false,
+          "sketchClassId": "93dbef10-ac7a-4922-940c-d5b6d65e2c81",
+          "createdAt": "2023-01-13T23:55:40.633Z",
+          "updatedAt": "2023-01-13T23:55:40.633Z",
+          "name": "contiguous-zone-7"
+        },
+        "bbox": [
+          144.090843,
+          8.17143,
+          144.940525,
+          9.015136
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "86defaf7-e45c-4322-b565-67410c1b01f1",
+          "isCollection": false,
+          "sketchClassId": "be46a700-a062-4353-b64a-c9758a33cf0c",
+          "createdAt": "2023-01-13T23:55:40.634Z",
+          "updatedAt": "2023-01-13T23:55:40.634Z",
+          "name": "contiguous-zone-8"
+        },
+        "bbox": [
+          136.943713,
+          7.898587,
+          137.985473,
+          8.996418
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "a4afaa84-4059-4e10-bb26-5799a718883a",
+          "isCollection": false,
+          "sketchClassId": "0d8392ad-d1a6-4292-a1e7-3536ec674866",
+          "createdAt": "2023-01-13T23:55:40.634Z",
+          "updatedAt": "2023-01-13T23:55:40.634Z",
+          "name": "contiguous-zone-9"
+        },
+        "bbox": [
+          149.270524,
+          8.12502,
+          150.849,
+          9.399532
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "cbec47ba-676a-475b-91bf-74e3af3563db",
+          "isCollection": false,
+          "sketchClassId": "ae7a3b77-3566-4c79-8715-5fa4a8726b70",
+          "createdAt": "2023-01-13T23:55:40.634Z",
+          "updatedAt": "2023-01-13T23:55:40.634Z",
+          "name": "contiguous-zone-10"
+        },
+        "bbox": [
+          144.973472,
+          8.818734,
+          145.796708,
+          9.638525
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+          "isCollection": false,
+          "sketchClassId": "0e578416-8cf3-4d9c-a29e-31a4c44c76aa",
+          "createdAt": "2023-01-13T23:55:40.634Z",
+          "updatedAt": "2023-01-13T23:55:40.634Z",
+          "name": "contiguous-zone-11"
+        },
+        "bbox": [
+          137.637499,
+          9.025866,
+          138.610788,
+          10.054432
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+          "isCollection": false,
+          "sketchClassId": "7a93503d-b34a-47bb-b282-8da1513008bd",
+          "createdAt": "2023-01-13T23:55:40.634Z",
+          "updatedAt": "2023-01-13T23:55:40.634Z",
+          "name": "contiguous-zone-12"
+        },
+        "bbox": [
+          139.163326,
+          9.355002,
+          140.933034,
+          10.489295
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "9eec0da4-69dd-4590-97bd-92a358608c34",
+          "isCollection": false,
+          "sketchClassId": "78a2dfd1-de32-4b3e-ae4e-5dd9a2157c95",
+          "createdAt": "2023-01-13T23:55:40.635Z",
+          "updatedAt": "2023-01-13T23:55:40.635Z",
+          "name": "contiguous-zone-13"
+        },
+        "bbox": [
+          154.30444,
+          0.61838,
+          155.215737,
+          1.513748
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2cb47297-2296-4c64-9493-0a437740978c",
+          "isCollection": false,
+          "sketchClassId": "1a009275-d4e3-43f3-ab30-e48ea23e9564",
+          "createdAt": "2023-01-13T23:55:40.635Z",
+          "updatedAt": "2023-01-13T23:55:40.635Z",
+          "name": "contiguous-zone-14"
+        },
+        "bbox": [
+          154.504333,
+          3.413951,
+          155.382267,
+          4.281411
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+          "isCollection": false,
+          "sketchClassId": "372cdb24-836c-471c-809e-325fa97ad22f",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-15"
+        },
+        "bbox": [
+          162.49786,
+          4.858222,
+          163.43671,
+          5.776735
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+          "isCollection": false,
+          "sketchClassId": "f1d6c050-1f1a-4b75-926e-2241f7c62e37",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-16"
+        },
+        "bbox": [
+          152.704073,
+          4.875051,
+          154.230365,
+          6.33761
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "002b23f5-8978-4686-9346-6bb216246833",
+          "isCollection": false,
+          "sketchClassId": "b5acb1ed-9f94-4944-8884-a6c637808800",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-17"
+        },
+        "bbox": [
+          156.742669,
+          5.367711,
+          157.753802,
+          6.264225
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+          "isCollection": false,
+          "sketchClassId": "1027c897-6ad6-444b-8362-79600740d0e5",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-18"
+        },
+        "bbox": [
+          160.285178,
+          5.793561,
+          161.123183,
+          6.636039
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "22c41b9b-4f1e-4110-a251-36264045e6af",
+          "isCollection": false,
+          "sketchClassId": "7ca75cce-7887-430d-a2e3-0c15ba03316a",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-19"
+        },
+        "bbox": [
+          159.341225,
+          6.25763,
+          160.176846,
+          7.104735
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+          "isCollection": false,
+          "sketchClassId": "27c38276-1f2b-4d0c-926d-0a3f30f65bf2",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-20"
+        },
+        "bbox": [
+          157.358192,
+          6.316639,
+          158.774761,
+          7.493237
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "ed138ca7-92a2-4908-b912-877487721cb2",
+          "isCollection": false,
+          "sketchClassId": "827fe7bf-213a-4c5b-b374-4b2237ee2306",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-21"
+        },
+        "bbox": [
+          154.739631,
+          7.000378,
+          155.821666,
+          8.034262
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+          "isCollection": false,
+          "sketchClassId": "c475143e-81c5-4f90-a474-e0c7c4fee752",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-22"
+        },
+        "bbox": [
+          150.924417,
+          6.422887,
+          153.156336,
+          9.194743
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+          "isCollection": false,
+          "sketchClassId": "5c8c4d41-1375-4120-a446-9d5252e44b9c",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-23"
+        },
+        "bbox": [
+          153.833951,
+          7.653451,
+          154.722885,
+          8.555551
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "d9a8fe7e-e464-41e1-bf67-b8dc9ff15d4b",
+          "isCollection": false,
+          "sketchClassId": "8c8d8973-2b09-4062-9339-ef0cb2d42520",
+          "createdAt": "2023-01-13T23:55:40.632Z",
+          "updatedAt": "2023-01-13T23:55:40.632Z",
+          "name": "contiguous-zone-1"
+        },
+        "bbox": [
+          142.587549,
+          6.276767,
+          143.48602,
+          7.107805
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4e10d3d7-ba4e-410f-bd9e-ff9d4e1c72d8",
+          "isCollection": false,
+          "sketchClassId": "ce56a14b-27ed-4abb-9630-46e9eb7dcb17",
+          "createdAt": "2023-01-13T23:55:40.633Z",
+          "updatedAt": "2023-01-13T23:55:40.633Z",
+          "name": "contiguous-zone-2"
+        },
+        "bbox": [
+          148.670441,
+          6.265825,
+          149.852718,
+          8.057858
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "de6816a8-f40e-4564-99fa-47165537d961",
+          "isCollection": false,
+          "sketchClassId": "9aeb50af-723f-425e-8065-489879008618",
+          "createdAt": "2023-01-13T23:55:40.633Z",
+          "updatedAt": "2023-01-13T23:55:40.633Z",
+          "name": "contiguous-zone-3"
+        },
+        "bbox": [
+          143.416905,
+          6.830509,
+          144.872046,
+          7.788397
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "b0fc7475-d6c3-4e9d-897b-7132e55fe460",
+          "isCollection": false,
+          "sketchClassId": "b0d33e6f-dcdc-4814-9a96-6f1a2ebd8efb",
+          "createdAt": "2023-01-13T23:55:40.633Z",
+          "updatedAt": "2023-01-13T23:55:40.633Z",
+          "name": "contiguous-zone-4"
+        },
+        "bbox": [
+          145.441469,
+          6.967447,
+          147.455594,
+          8.499142
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4ac00c78-1aee-492b-9585-fa803959dbb6",
+          "isCollection": false,
+          "sketchClassId": "0d86d3b4-1bc0-4119-8398-c8121d9ff4b1",
+          "createdAt": "2023-01-13T23:55:40.633Z",
+          "updatedAt": "2023-01-13T23:55:40.633Z",
+          "name": "contiguous-zone-5"
+        },
+        "bbox": [
+          147.227352,
+          7.689813,
+          148.075888,
+          8.522956
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8030d0e7-e261-4136-86f7-c3940c11ff8b",
+          "isCollection": false,
+          "sketchClassId": "368e3bdd-e61e-43df-bf5e-10b2c6757f04",
+          "createdAt": "2023-01-13T23:55:40.633Z",
+          "updatedAt": "2023-01-13T23:55:40.633Z",
+          "name": "contiguous-zone-6"
+        },
+        "bbox": [
+          139.920636,
+          7.713102,
+          140.823909,
+          8.557962
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "c50e2746-5cd4-4860-8603-89094044fc33",
+          "isCollection": false,
+          "sketchClassId": "93dbef10-ac7a-4922-940c-d5b6d65e2c81",
+          "createdAt": "2023-01-13T23:55:40.633Z",
+          "updatedAt": "2023-01-13T23:55:40.633Z",
+          "name": "contiguous-zone-7"
+        },
+        "bbox": [
+          144.090843,
+          8.17143,
+          144.940525,
+          9.015136
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "86defaf7-e45c-4322-b565-67410c1b01f1",
+          "isCollection": false,
+          "sketchClassId": "be46a700-a062-4353-b64a-c9758a33cf0c",
+          "createdAt": "2023-01-13T23:55:40.634Z",
+          "updatedAt": "2023-01-13T23:55:40.634Z",
+          "name": "contiguous-zone-8"
+        },
+        "bbox": [
+          136.943713,
+          7.898587,
+          137.985473,
+          8.996418
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "a4afaa84-4059-4e10-bb26-5799a718883a",
+          "isCollection": false,
+          "sketchClassId": "0d8392ad-d1a6-4292-a1e7-3536ec674866",
+          "createdAt": "2023-01-13T23:55:40.634Z",
+          "updatedAt": "2023-01-13T23:55:40.634Z",
+          "name": "contiguous-zone-9"
+        },
+        "bbox": [
+          149.270524,
+          8.12502,
+          150.849,
+          9.399532
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "cbec47ba-676a-475b-91bf-74e3af3563db",
+          "isCollection": false,
+          "sketchClassId": "ae7a3b77-3566-4c79-8715-5fa4a8726b70",
+          "createdAt": "2023-01-13T23:55:40.634Z",
+          "updatedAt": "2023-01-13T23:55:40.634Z",
+          "name": "contiguous-zone-10"
+        },
+        "bbox": [
+          144.973472,
+          8.818734,
+          145.796708,
+          9.638525
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "ce4be24d-c41e-4957-af92-ac59d42ebcc5",
+          "isCollection": false,
+          "sketchClassId": "0e578416-8cf3-4d9c-a29e-31a4c44c76aa",
+          "createdAt": "2023-01-13T23:55:40.634Z",
+          "updatedAt": "2023-01-13T23:55:40.634Z",
+          "name": "contiguous-zone-11"
+        },
+        "bbox": [
+          137.637499,
+          9.025866,
+          138.610788,
+          10.054432
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4cc55d6e-b4fb-4c56-b5f2-bc82106fac1f",
+          "isCollection": false,
+          "sketchClassId": "7a93503d-b34a-47bb-b282-8da1513008bd",
+          "createdAt": "2023-01-13T23:55:40.634Z",
+          "updatedAt": "2023-01-13T23:55:40.634Z",
+          "name": "contiguous-zone-12"
+        },
+        "bbox": [
+          139.163326,
+          9.355002,
+          140.933034,
+          10.489295
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "9eec0da4-69dd-4590-97bd-92a358608c34",
+          "isCollection": false,
+          "sketchClassId": "78a2dfd1-de32-4b3e-ae4e-5dd9a2157c95",
+          "createdAt": "2023-01-13T23:55:40.635Z",
+          "updatedAt": "2023-01-13T23:55:40.635Z",
+          "name": "contiguous-zone-13"
+        },
+        "bbox": [
+          154.30444,
+          0.61838,
+          155.215737,
+          1.513748
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2cb47297-2296-4c64-9493-0a437740978c",
+          "isCollection": false,
+          "sketchClassId": "1a009275-d4e3-43f3-ab30-e48ea23e9564",
+          "createdAt": "2023-01-13T23:55:40.635Z",
+          "updatedAt": "2023-01-13T23:55:40.635Z",
+          "name": "contiguous-zone-14"
+        },
+        "bbox": [
+          154.504333,
+          3.413951,
+          155.382267,
+          4.281411
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6b5a7edb-3daa-431d-afda-ef7ba0be31b2",
+          "isCollection": false,
+          "sketchClassId": "372cdb24-836c-471c-809e-325fa97ad22f",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-15"
+        },
+        "bbox": [
+          162.49786,
+          4.858222,
+          163.43671,
+          5.776735
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1a457268-fbe9-4477-bef5-ff26166c0a17",
+          "isCollection": false,
+          "sketchClassId": "f1d6c050-1f1a-4b75-926e-2241f7c62e37",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-16"
+        },
+        "bbox": [
+          152.704073,
+          4.875051,
+          154.230365,
+          6.33761
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "002b23f5-8978-4686-9346-6bb216246833",
+          "isCollection": false,
+          "sketchClassId": "b5acb1ed-9f94-4944-8884-a6c637808800",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-17"
+        },
+        "bbox": [
+          156.742669,
+          5.367711,
+          157.753802,
+          6.264225
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "d9663f83-40b2-4fb3-ac99-84b78236866c",
+          "isCollection": false,
+          "sketchClassId": "1027c897-6ad6-444b-8362-79600740d0e5",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-18"
+        },
+        "bbox": [
+          160.285178,
+          5.793561,
+          161.123183,
+          6.636039
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "22c41b9b-4f1e-4110-a251-36264045e6af",
+          "isCollection": false,
+          "sketchClassId": "7ca75cce-7887-430d-a2e3-0c15ba03316a",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-19"
+        },
+        "bbox": [
+          159.341225,
+          6.25763,
+          160.176846,
+          7.104735
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "743da433-5bd0-45b6-9031-e9db148fc8f5",
+          "isCollection": false,
+          "sketchClassId": "27c38276-1f2b-4d0c-926d-0a3f30f65bf2",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-20"
+        },
+        "bbox": [
+          157.358192,
+          6.316639,
+          158.774761,
+          7.493237
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "ed138ca7-92a2-4908-b912-877487721cb2",
+          "isCollection": false,
+          "sketchClassId": "827fe7bf-213a-4c5b-b374-4b2237ee2306",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-21"
+        },
+        "bbox": [
+          154.739631,
+          7.000378,
+          155.821666,
+          8.034262
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2ede721e-43c6-4aad-b9c7-1393f13b75ad",
+          "isCollection": false,
+          "sketchClassId": "c475143e-81c5-4f90-a474-e0c7c4fee752",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-22"
+        },
+        "bbox": [
+          150.924417,
+          6.422887,
+          153.156336,
+          9.194743
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "e4d90f9a-6fee-474e-964e-b8f58963fb94",
+          "isCollection": false,
+          "sketchClassId": "5c8c4d41-1375-4120-a446-9d5252e44b9c",
+          "createdAt": "2023-01-13T23:55:40.636Z",
+          "updatedAt": "2023-01-13T23:55:40.636Z",
+          "name": "contiguous-zone-23"
+        },
+        "bbox": [
+          153.833951,
+          7.653451,
+          154.722885,
+          8.555551
+        ],
+        "geometry": null
+      }
+    ],
+    "properties": {
+      "id": "42979bc6-ec91-4290-935a-98977abaa87f",
+      "isCollection": true,
+      "sketchClassId": "e4fdcdc6-4856-44bc-8d52-7bc15a4401f9",
+      "createdAt": "2023-01-13T23:55:40.637Z",
+      "updatedAt": "2023-01-13T23:55:40.637Z",
+      "name": "contiguous_zone_sketches",
+      "userAttributes": [
+        {
+          "fieldType": "ChoiceField",
+          "label": "Include 12-24 nm Contiguous Zone as No-Take?",
+          "value": "Yes",
+          "exportId": "include_12-24_nm_contiguous_zone"
+        },
+        {
+          "label": "Include 12-24 nm Contiguous Zone as No-Take?",
+          "value": true,
+          "exportId": "include_12-24_nm_contiguous_zone",
+          "fieldType": "YesNo"
+        },
+        {
+          "label": "Description",
+          "value": null,
+          "exportId": "description",
+          "fieldType": "TextArea"
+        },
+        {
+          "label": "Author(s)",
+          "value": null,
+          "exportId": "authors",
+          "fieldType": "TextArea"
+        }
+      ]
+    },
+    "bbox": [
+      136.943713,
+      0.61838,
+      163.43671,
+      10.489295
+    ]
+  }
+}

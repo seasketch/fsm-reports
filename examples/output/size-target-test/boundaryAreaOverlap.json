@@ -6,7 +6,7 @@
       "classId": "contiguous",
       "groupId": null,
       "geographyId": null,
-      "value": 16860232469.008862,
+      "value": 16112820010.445204,
       "extra": {
         "sketchName": "west"
       }
@@ -17,7 +17,7 @@
       "classId": "contiguous",
       "groupId": null,
       "geographyId": null,
-      "value": 21055626898.789997,
+      "value": 21087202282.13977,
       "extra": {
         "sketchName": "long"
       }
@@ -28,7 +28,7 @@
       "classId": "contiguous",
       "groupId": null,
       "geographyId": null,
-      "value": 128436311162.09753,
+      "value": 127568985743.92453,
       "extra": {
         "sketchName": "size-target-test",
         "isCollection": true
@@ -40,7 +40,7 @@
       "classId": "contiguous",
       "groupId": null,
       "geographyId": null,
-      "value": 96032316300.17496,
+      "value": 95930681506.27435,
       "extra": {
         "sketchName": "big"
       }
