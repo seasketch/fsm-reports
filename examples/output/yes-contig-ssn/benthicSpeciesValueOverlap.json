@@ -1,871 +1,875 @@
 {
   "metrics": [
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "1",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 5170461978.423583,
+      "value": 11,
       "extra": {
         "sketchName": "contiguous-zone-1"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "10",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 4798546729.282001,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-10"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
-      "sketchId": "11",
-      "classId": "contiguous",
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "10923",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 5994740352.1105175,
+      "value": 8,
+      "extra": {
+        "sketchName": "small-west"
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "10924",
+      "classId": "antipatharia",
+      "groupId": null,
+      "geographyId": null,
+      "value": 321,
+      "extra": {
+        "sketchName": "yes-contig-ssn",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "11",
+      "classId": "antipatharia",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8,
       "extra": {
         "sketchName": "contiguous-zone-11"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "12",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 10804495837.679993,
+      "value": 37,
       "extra": {
         "sketchName": "contiguous-zone-12"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "13",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 5504553119.25384,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-13"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "14",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 5273515737.12873,
+      "value": 4,
       "extra": {
         "sketchName": "contiguous-zone-14"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "15",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 5643724015.781737,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-15"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "16",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 10502924862.293755,
+      "value": 1,
       "extra": {
         "sketchName": "contiguous-zone-16"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "17",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 5918344366.204904,
+      "value": 2,
       "extra": {
         "sketchName": "contiguous-zone-17"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "18",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 4959016394.949556,
+      "value": 1,
       "extra": {
         "sketchName": "contiguous-zone-18"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "19",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 4997091361.125395,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-19"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "2",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 10454250437.261755,
+      "value": 43,
       "extra": {
         "sketchName": "contiguous-zone-2"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "20",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 8938264474.431461,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-20"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "21",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 6863357916.313438,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-21"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "22",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 24863686853.373627,
+      "value": 7,
       "extra": {
         "sketchName": "contiguous-zone-22"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "23",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 5411631902.821878,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-23"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "3",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 8789768187.485779,
+      "value": 31,
       "extra": {
         "sketchName": "contiguous-zone-3"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "4",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 16596435226.459145,
+      "value": 73,
       "extra": {
         "sketchName": "contiguous-zone-4"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "5",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 4970462071.956528,
+      "value": 59,
       "extra": {
         "sketchName": "contiguous-zone-5"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "6",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 5143803570.034788,
+      "value": 10,
       "extra": {
         "sketchName": "contiguous-zone-6"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
-      "sketchId": "63bd9f287e6222710ccf0415",
-      "classId": "contiguous",
-      "groupId": null,
-      "geographyId": null,
-      "value": 654631352.8783262,
-      "extra": {
-        "sketchName": "west1"
-      }
-    },
-    {
-      "metricId": "boundaryAreaOverlap",
-      "sketchId": "63bd9fc47e6222710ccf0417",
-      "classId": "contiguous",
-      "groupId": null,
-      "geographyId": null,
-      "value": 182757217938.427,
-      "extra": {
-        "sketchName": "yes-contig-legacy",
-        "isCollection": true
-      }
-    },
-    {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "7",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 4986459618.278423,
+      "value": 3,
       "extra": {
         "sketchName": "contiguous-zone-7"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "8",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 6527860334.204155,
+      "value": 21,
       "extra": {
         "sketchName": "contiguous-zone-8"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "9",
-      "classId": "contiguous",
+      "classId": "antipatharia",
       "groupId": null,
       "geographyId": null,
-      "value": 9643821624.294453,
+      "value": 6,
       "extra": {
         "sketchName": "contiguous-zone-9"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "1",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 5170466713.296507,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-1"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "10",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 4798551177.990337,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-10"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
-      "sketchId": "11",
-      "classId": "eez",
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "10923",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 5994746504.57062,
+      "value": 0,
+      "extra": {
+        "sketchName": "small-west"
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "10924",
+      "classId": "cold_water_coral",
+      "groupId": null,
+      "geographyId": null,
+      "value": 23,
+      "extra": {
+        "sketchName": "yes-contig-ssn",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "11",
+      "classId": "cold_water_coral",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-11"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "12",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 10804506766.398659,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-12"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "13",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 5504558613.952311,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-13"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "14",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 5273521212.174987,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-14"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "15",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 5643729536.017305,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-15"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "16",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 10502936052.721205,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-16"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "17",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 5918349527.24461,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-17"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "18",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 4959021608.511359,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-18"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "19",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 4997095064.697509,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-19"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "2",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 10454261701.25809,
+      "value": 2,
       "extra": {
         "sketchName": "contiguous-zone-2"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "20",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 8938274106.450388,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-20"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "21",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 6863364780.18334,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-21"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "22",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 24863710624.442497,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-22"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "23",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 5411636822.269302,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-23"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "3",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 8789777889.370049,
+      "value": 2,
       "extra": {
         "sketchName": "contiguous-zone-3"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "4",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 16596449357.18855,
+      "value": 6,
       "extra": {
         "sketchName": "contiguous-zone-4"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "5",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 4970467518.134907,
+      "value": 11,
       "extra": {
         "sketchName": "contiguous-zone-5"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "6",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 5143808469.01458,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-6"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
-      "sketchId": "63bd9f287e6222710ccf0415",
-      "classId": "eez",
-      "groupId": null,
-      "geographyId": null,
-      "value": 16214276291.963934,
-      "extra": {
-        "sketchName": "west1"
-      }
-    },
-    {
-      "metricId": "boundaryAreaOverlap",
-      "sketchId": "63bd9fc47e6222710ccf0417",
-      "classId": "eez",
-      "groupId": null,
-      "geographyId": null,
-      "value": 198318058580.44827,
-      "extra": {
-        "sketchName": "yes-contig-legacy",
-        "isCollection": true
-      }
-    },
-    {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "7",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 4986463989.370319,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-7"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "8",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 6527866979.307472,
+      "value": 2,
       "extra": {
         "sketchName": "contiguous-zone-8"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "9",
-      "classId": "eez",
+      "classId": "cold_water_coral",
       "groupId": null,
       "geographyId": null,
-      "value": 9643829856.757753,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-9"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "1",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 5140914967.448735,
+      "value": 7,
       "extra": {
         "sketchName": "contiguous-zone-1"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "10",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 4793025451.320891,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-10"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
-      "sketchId": "11",
-      "classId": "offshore",
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "10923",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 5876774438.17173,
+      "value": 10,
+      "extra": {
+        "sketchName": "small-west"
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "10924",
+      "classId": "octocorals",
+      "groupId": null,
+      "geographyId": null,
+      "value": 277,
+      "extra": {
+        "sketchName": "yes-contig-ssn",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "11",
+      "classId": "octocorals",
+      "groupId": null,
+      "geographyId": null,
+      "value": 11,
       "extra": {
         "sketchName": "contiguous-zone-11"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "12",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 10639001530.326202,
+      "value": 49,
       "extra": {
         "sketchName": "contiguous-zone-12"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "13",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 5504558613.952311,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-13"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "14",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 5273521212.174987,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-14"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "15",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 5611432464.20046,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-15"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "16",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 10502936052.721205,
+      "value": 1,
       "extra": {
         "sketchName": "contiguous-zone-16"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "17",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 5918349527.24461,
+      "value": 1,
       "extra": {
         "sketchName": "contiguous-zone-17"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "18",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 4951900562.073739,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-18"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "19",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 4996665974.106028,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-19"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "2",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 10454261701.25809,
+      "value": 26,
       "extra": {
         "sketchName": "contiguous-zone-2"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "20",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 8938274106.450388,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-20"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "21",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 6863364780.18334,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-21"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "22",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 24863710624.442497,
+      "value": 1,
       "extra": {
         "sketchName": "contiguous-zone-22"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "23",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 5411636822.269302,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-23"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "3",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 8757864455.489779,
+      "value": 29,
       "extra": {
         "sketchName": "contiguous-zone-3"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "4",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 16594064991.33423,
+      "value": 67,
       "extra": {
         "sketchName": "contiguous-zone-4"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "5",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 4970467518.134907,
+      "value": 54,
       "extra": {
         "sketchName": "contiguous-zone-5"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "6",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 5080775924.581078,
+      "value": 3,
       "extra": {
         "sketchName": "contiguous-zone-6"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
-      "sketchId": "63bd9f287e6222710ccf0415",
-      "classId": "offshore",
-      "groupId": null,
-      "geographyId": null,
-      "value": 16214276291.963934,
-      "extra": {
-        "sketchName": "west1"
-      }
-    },
-    {
-      "metricId": "boundaryAreaOverlap",
-      "sketchId": "63bd9fc47e6222710ccf0417",
-      "classId": "offshore",
-      "groupId": null,
-      "geographyId": null,
-      "value": 197700589340.46732,
-      "extra": {
-        "sketchName": "yes-contig-legacy",
-        "isCollection": true
-      }
-    },
-    {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "7",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 4973711472.711301,
+      "value": 0,
       "extra": {
         "sketchName": "contiguous-zone-7"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "8",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 6378882583.988177,
+      "value": 18,
       "extra": {
         "sketchName": "contiguous-zone-8"
       }
     },
     {
-      "metricId": "boundaryAreaOverlap",
+      "metricId": "benthicSpeciesValueOverlap",
       "sketchId": "9",
-      "classId": "offshore",
+      "classId": "octocorals",
       "groupId": null,
       "geographyId": null,
-      "value": 9643829856.757753,
+      "value": 5,
       "extra": {
         "sketchName": "contiguous-zone-9"
       }
     }
   ],
   "sketch": {
+    "id": 10924,
     "type": "FeatureCollection",
-    "properties": {
-      "id": "63bd9fc47e6222710ccf0417",
-      "name": "yes-contig-legacy",
-      "updatedAt": "2023-01-10T17:27:32.657Z",
-      "createdAt": "2023-01-10T17:26:28.747Z",
-      "sketchClassId": "6377badb6e639a792de961fb",
-      "isCollection": true,
-      "userAttributes": [
-        {
-          "fieldType": "ChoiceField",
-          "label": "Include 12-24 nm Contiguous Zone as No-Take?",
-          "value": "Yes",
-          "exportId": "include_12-24_nm_contiguous_zone"
-        }
-      ]
-    },
     "features": [
       {
+        "id": 10923,
+        "bbox": [
+          137.42888,
+          8.6295395,
+          138.27959,
+          9.424693
+        ],
         "type": "Feature",
         "properties": {
-          "id": "63bd9f287e6222710ccf0415",
-          "name": "west1",
-          "updatedAt": "2023-01-10T17:27:32.660Z",
-          "createdAt": "2023-01-10T17:23:52.415Z",
-          "sketchClassId": "6376b1e681125f1a56289340",
+          "2288": "small-west",
+          "id": "10923",
+          "name": "small-west",
+          "userId": "6",
+          "authors": null,
+          "userSlug": null,
+          "createdAt": "2023-01-10T17:20:17.178528+00:00",
+          "updatedAt": "2023-01-10T17:20:36.678816+00:00",
+          "collectionId": "10924",
           "isCollection": false,
-          "userAttributes": []
+          "sketchClassId": "104",
+          "userAttributes": [
+            {
+              "label": "Author(s)",
+              "value": null,
+              "exportId": "authors",
+              "fieldType": "TextArea"
+            },
+            {
+              "label": "Description",
+              "value": null,
+              "exportId": "descriptionconsider_adding_a_ra",
+              "fieldType": "TextArea"
+            }
+          ],
+          "descriptionconsider_adding_a_ra": null
         },
-        "id": "1",
-        "bbox": [
-          140.6823524693773,
-          8.83674563157263,
-          142.61594621937675,
-          10.281209654843519
-        ],
         "geometry": null
       },
       {
@@ -1283,6 +1287,42 @@
         "geometry": null
       }
     ],
+    "properties": {
+      "2530": "yes-contig-ssn",
+      "2627": true,
+      "id": "10924",
+      "name": "yes-contig-ssn",
+      "userId": "6",
+      "authors": null,
+      "userSlug": null,
+      "createdAt": "2023-01-10T17:20:33.668529+00:00",
+      "updatedAt": "2023-01-10T17:21:07.432889+00:00",
+      "description": null,
+      "collectionId": null,
+      "isCollection": true,
+      "sketchClassId": "119",
+      "userAttributes": [
+        {
+          "label": "Include 12-24 nm Contiguous Zone as No-Take?",
+          "value": true,
+          "exportId": "include_12-24_nm_contiguous_zone",
+          "fieldType": "YesNo"
+        },
+        {
+          "label": "Description",
+          "value": null,
+          "exportId": "description",
+          "fieldType": "TextArea"
+        },
+        {
+          "label": "Author(s)",
+          "value": null,
+          "exportId": "authors",
+          "fieldType": "TextArea"
+        }
+      ],
+      "include_12-24_nm_contiguous_zone": true
+    },
     "bbox": [
       136.943713,
       0.61838,

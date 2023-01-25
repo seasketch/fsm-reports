@@ -241,5 +241,30 @@
                 "layerId": "639b7c5e4f3f723f33a54527"
             }
         ]
+    },
+    {
+        "metricId": "benthicSpeciesValueOverlap",
+        "type": "valueOverlap",
+        "objectiveId": "gm_30",
+        "classes": [
+            {
+                "datasourceId": "antipatharia",
+                "classId": "antipatharia",
+                "display": "Black Coral",
+                "layerId": "63a3a325cec8e48561325d2a"
+            },
+            {
+                "datasourceId": "cold_water_coral",
+                "classId": "cold_water_coral",
+                "display": "Cold water coral",
+                "layerId": "63a39cd0cec8e48561325201"
+            },
+            {
+                "datasourceId": "octocorals",
+                "classId": "octocorals",
+                "display": "Octocoral",
+                "layerId": "63a3a36ecec8e48561325e26"
+            }
+        ]
     }
 ]

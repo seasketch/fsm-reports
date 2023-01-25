@@ -1,0 +1,47 @@
+{
+  "metrics": [
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "abc123",
+      "classId": "antipatharia",
+      "groupId": null,
+      "geographyId": null,
+      "value": 4,
+      "extra": {
+        "sketchName": "fsm-east-west"
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "abc123",
+      "classId": "cold_water_coral",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "fsm-east-west"
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "abc123",
+      "classId": "octocorals",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "fsm-east-west"
+      }
+    }
+  ],
+  "sketch": {
+    "type": "Feature",
+    "properties": {
+      "name": "fsm-east-west",
+      "updatedAt": "2022-11-17T10:02:53.645Z",
+      "sketchClassId": "123abc",
+      "id": "abc123"
+    },
+    "geometry": null
+  }
+}

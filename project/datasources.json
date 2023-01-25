@@ -764,5 +764,71 @@
     "lastUpdated": "2023-01-21T04:16:02.487Z",
     "src": "data/src/Analytics/current-vector.gpkg",
     "propertiesToKeep": []
+  },
+  {
+    "datasourceId": "cold_water_coral",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 141,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2023-01-24T18:20:16.586Z",
+    "lastUpdated": "2023-01-24T18:20:16.586Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/cold_water_coral.tif"
+  },
+  {
+    "datasourceId": "antipatharia",
+    "geo_type": "raster",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": null,
+          "sum": 1155,
+          "area": null
+        }
+      }
+    },
+    "formats": [
+      "tif"
+    ],
+    "measurementType": "quantitative",
+    "band": 1,
+    "noDataValue": -3.3999999521443642e+38,
+    "created": "2023-01-24T18:23:26.246Z",
+    "lastUpdated": "2023-01-24T18:23:26.246Z",
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/yesson_antipatharia.tif"
+  },
+  {
+    "src": "data/src/Data_Received/EmLab/offshore/inputs/features/yesson_octocorals.tif",
+    "band": 1,
+    "geo_type": "raster",
+    "datasourceId": "octocorals",
+    "formats": [
+      "tif"
+    ],
+    "created": "2023-01-24T18:24:26.596Z",
+    "lastUpdated": "2023-01-24T18:24:26.596Z",
+    "keyStats": {
+      "total": {
+        "total": {
+          "sum": 992,
+          "count": null,
+          "area": null
+        }
+      }
+    },
+    "noDataValue": -3.3999999521443642e+38,
+    "measurementType": "quantitative"
   }
 ]

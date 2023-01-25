@@ -1,0 +1,57 @@
+{
+  "metrics": [
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "6376b35881125f1a56289356",
+      "classId": "antipatharia",
+      "groupId": null,
+      "geographyId": null,
+      "value": 92,
+      "extra": {
+        "sketchName": "long"
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "6376b35881125f1a56289356",
+      "classId": "cold_water_coral",
+      "groupId": null,
+      "geographyId": null,
+      "value": 9,
+      "extra": {
+        "sketchName": "long"
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "6376b35881125f1a56289356",
+      "classId": "octocorals",
+      "groupId": null,
+      "geographyId": null,
+      "value": 47,
+      "extra": {
+        "sketchName": "long"
+      }
+    }
+  ],
+  "sketch": {
+    "type": "Feature",
+    "properties": {
+      "id": "6376b35881125f1a56289356",
+      "name": "long",
+      "updatedAt": "2022-11-21T19:23:16.496Z",
+      "createdAt": "2022-11-17T22:19:04.962Z",
+      "sketchClassId": "6376b1e681125f1a56289340",
+      "isCollection": false,
+      "userAttributes": []
+    },
+    "id": "1",
+    "bbox": [
+      136.5434007298542,
+      3.1214126314693567,
+      165.67652822599453,
+      6.2612601794926315
+    ],
+    "geometry": null
+  }
+}

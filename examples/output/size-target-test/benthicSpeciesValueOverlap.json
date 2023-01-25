@@ -1,0 +1,213 @@
+{
+  "metrics": [
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "6376b31d81125f1a56289351",
+      "classId": "antipatharia",
+      "groupId": null,
+      "geographyId": null,
+      "value": 93,
+      "extra": {
+        "sketchName": "west"
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "6376b35881125f1a56289356",
+      "classId": "antipatharia",
+      "groupId": null,
+      "geographyId": null,
+      "value": 92,
+      "extra": {
+        "sketchName": "long"
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "637bd01f30794c0718ce2291",
+      "classId": "antipatharia",
+      "groupId": null,
+      "geographyId": null,
+      "value": 988,
+      "extra": {
+        "sketchName": "size-target-test",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "63852d1f7eabfd48c78af3d6",
+      "classId": "antipatharia",
+      "groupId": null,
+      "geographyId": null,
+      "value": 881,
+      "extra": {
+        "sketchName": "big"
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "6376b31d81125f1a56289351",
+      "classId": "cold_water_coral",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1,
+      "extra": {
+        "sketchName": "west"
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "6376b35881125f1a56289356",
+      "classId": "cold_water_coral",
+      "groupId": null,
+      "geographyId": null,
+      "value": 9,
+      "extra": {
+        "sketchName": "long"
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "637bd01f30794c0718ce2291",
+      "classId": "cold_water_coral",
+      "groupId": null,
+      "geographyId": null,
+      "value": 138,
+      "extra": {
+        "sketchName": "size-target-test",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "63852d1f7eabfd48c78af3d6",
+      "classId": "cold_water_coral",
+      "groupId": null,
+      "geographyId": null,
+      "value": 137,
+      "extra": {
+        "sketchName": "big"
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "6376b31d81125f1a56289351",
+      "classId": "octocorals",
+      "groupId": null,
+      "geographyId": null,
+      "value": 130,
+      "extra": {
+        "sketchName": "west"
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "6376b35881125f1a56289356",
+      "classId": "octocorals",
+      "groupId": null,
+      "geographyId": null,
+      "value": 47,
+      "extra": {
+        "sketchName": "long"
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "637bd01f30794c0718ce2291",
+      "classId": "octocorals",
+      "groupId": null,
+      "geographyId": null,
+      "value": 876,
+      "extra": {
+        "sketchName": "size-target-test",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "63852d1f7eabfd48c78af3d6",
+      "classId": "octocorals",
+      "groupId": null,
+      "geographyId": null,
+      "value": 743,
+      "extra": {
+        "sketchName": "big"
+      }
+    }
+  ],
+  "sketch": {
+    "type": "FeatureCollection",
+    "properties": {
+      "id": "637bd01f30794c0718ce2291",
+      "name": "size-target-test",
+      "updatedAt": "2022-11-28T21:50:43.735Z",
+      "createdAt": "2022-11-21T19:23:11.226Z",
+      "sketchClassId": "6377badb6e639a792de961fb",
+      "isCollection": true,
+      "userAttributes": []
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6376b31d81125f1a56289351",
+          "name": "west",
+          "updatedAt": "2022-11-21T19:23:19.692Z",
+          "createdAt": "2022-11-17T22:18:05.307Z",
+          "sketchClassId": "6376b1e681125f1a56289340",
+          "isCollection": false,
+          "userAttributes": []
+        },
+        "id": "1",
+        "bbox": [
+          136.47063966171845,
+          8.093076386108963,
+          141.3964637975021,
+          13.235380349261346
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6376b35881125f1a56289356",
+          "name": "long",
+          "updatedAt": "2022-11-21T19:23:16.496Z",
+          "createdAt": "2022-11-17T22:19:04.962Z",
+          "sketchClassId": "6376b1e681125f1a56289340",
+          "isCollection": false,
+          "userAttributes": []
+        },
+        "id": "2",
+        "bbox": [
+          136.5434007298542,
+          3.1214126314693567,
+          165.67652822599453,
+          6.2612601794926315
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "63852d1f7eabfd48c78af3d6",
+          "name": "big",
+          "updatedAt": "2022-11-28T21:50:43.826Z",
+          "createdAt": "2022-11-28T21:50:23.153Z",
+          "sketchClassId": "6376b1e681125f1a56289340",
+          "isCollection": false,
+          "userAttributes": []
+        },
+        "id": "3",
+        "bbox": [
+          139.35300676625263,
+          2.5805093633236234,
+          155.0854286412482,
+          9.864420280008929
+        ],
+        "geometry": null
+      }
+    ]
+  }
+}

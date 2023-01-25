@@ -1,0 +1,154 @@
+{
+  "metrics": [
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "10925",
+      "classId": "antipatharia",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8,
+      "extra": {
+        "sketchName": "no-contig-ssn",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "10926",
+      "classId": "antipatharia",
+      "groupId": null,
+      "geographyId": null,
+      "value": 8,
+      "extra": {
+        "sketchName": "small-west"
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "10925",
+      "classId": "cold_water_coral",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "no-contig-ssn",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "10926",
+      "classId": "cold_water_coral",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "small-west"
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "10925",
+      "classId": "octocorals",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10,
+      "extra": {
+        "sketchName": "no-contig-ssn",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "benthicSpeciesValueOverlap",
+      "sketchId": "10926",
+      "classId": "octocorals",
+      "groupId": null,
+      "geographyId": null,
+      "value": 10,
+      "extra": {
+        "sketchName": "small-west"
+      }
+    }
+  ],
+  "sketch": {
+    "id": 10925,
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": 10926,
+        "bbox": [
+          137.42888,
+          8.6295395,
+          138.27959,
+          9.424693
+        ],
+        "type": "Feature",
+        "properties": {
+          "2288": "small-west",
+          "id": "10926",
+          "name": "small-west",
+          "userId": "6",
+          "authors": null,
+          "userSlug": null,
+          "createdAt": "2023-01-10T17:20:40.061846+00:00",
+          "updatedAt": "2023-01-10T17:20:40.061846+00:00",
+          "collectionId": "10925",
+          "isCollection": false,
+          "sketchClassId": "104",
+          "userAttributes": [
+            {
+              "label": "Author(s)",
+              "value": null,
+              "exportId": "authors",
+              "fieldType": "TextArea"
+            },
+            {
+              "label": "Description",
+              "value": null,
+              "exportId": "descriptionconsider_adding_a_ra",
+              "fieldType": "TextArea"
+            }
+          ],
+          "descriptionconsider_adding_a_ra": null
+        },
+        "geometry": null
+      }
+    ],
+    "properties": {
+      "2530": "no-contig-ssn",
+      "2627": false,
+      "id": "10925",
+      "name": "no-contig-ssn",
+      "userId": "6",
+      "authors": null,
+      "userSlug": null,
+      "createdAt": "2023-01-10T17:20:40.061846+00:00",
+      "updatedAt": "2023-01-10T17:20:59.611186+00:00",
+      "description": null,
+      "collectionId": null,
+      "isCollection": true,
+      "sketchClassId": "119",
+      "userAttributes": [
+        {
+          "label": "Include 12-24 nm Contiguous Zone as No-Take?",
+          "value": false,
+          "exportId": "include_12-24_nm_contiguous_zone",
+          "fieldType": "YesNo"
+        },
+        {
+          "label": "Description",
+          "value": null,
+          "exportId": "description",
+          "fieldType": "TextArea"
+        },
+        {
+          "label": "Author(s)",
+          "value": null,
+          "exportId": "authors",
+          "fieldType": "TextArea"
+        }
+      ],
+      "include_12-24_nm_contiguous_zone": false
+    }
+  }
+}
