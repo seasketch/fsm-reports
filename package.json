@@ -41,22 +41,23 @@
   ],
   "dependencies": {
     "@turf/area": "6.5.0",
-    "@turf/bbox-clip": "6.5.0",
     "@turf/bbox": "6.5.0",
+    "@turf/bbox-clip": "6.5.0",
     "@turf/combine": "6.5.0",
     "@turf/flatten": "6.5.0",
     "@turf/invariant": "6.5.0",
     "@turf/kinks": "6.5.0",
-    "union-subdivided-polygons": "^0.9.1",
     "geoblaze": "^0.2.6",
     "georaster": "^1.1.0",
     "geotiff": "^1.0.0-beta.13",
-    "tiny-worker": "^2.3.0"
+    "tiny-worker": "^2.3.0",
+    "union-subdivided-polygons": "^0.9.1"
   },
   "devDependencies": {
     "@seasketch/geoprocessing": "1.0.1-experimental-dockerify.26",
     "@turf/boolean-disjoint": "6.5.0",
-    "@turf/boolean-valid": "6.5.0"
+    "@turf/boolean-valid": "6.5.0",
+    "@turf/random": "^6.5.0"
   },
   "repositoryUrl": "https://github.com/seasketch/fsm-reports.git",
   "author": "Dan Yocum",
