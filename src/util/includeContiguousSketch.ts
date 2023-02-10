@@ -3,12 +3,10 @@ import {
   SketchCollection,
   SketchGeometryTypes,
   SketchProperties,
-} from "@seasketch/geoprocessing";
-import { getUserAttribute } from "@seasketch/geoprocessing/client-core";
-import {
   includeVirtualSketch,
   isTruthyAttributeValue,
-} from "./includeVirtualSketch";
+} from "@seasketch/geoprocessing";
+import { getUserAttribute } from "@seasketch/geoprocessing/client-core";
 
 import contiguous_zone_sketches from "../../examples/sketches/contiguous_zone_sketches.json";
 
