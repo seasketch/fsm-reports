@@ -2,10 +2,9 @@
  * @jest-environment node
  * @group smoke
  */
-import { clipToOuterOffshore } from "./clipToOceanOuterOffshore";
-import { clipToPolygonPreprocessorSmokeTest } from "../util/genClipToPolygonPreprocessorSmokeTest";
+import handler, { clipToOuterOffshore } from "./clipToOceanOuterOffshore";
+import { polygonPreprocessorSmokeTest } from "@seasketch/geoprocessing/scripts/testing";
 
-clipToPolygonPreprocessorSmokeTest(
-  clipToOuterOffshore,
-  "clipToOceanOuterOffshore"
-);
+polygonPreprocessorSmokeTest(clipToOuterOffshore, handler.options.title, {
+  timeout: 20000,
+});

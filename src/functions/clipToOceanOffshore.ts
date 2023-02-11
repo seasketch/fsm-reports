@@ -1,22 +1,16 @@
 import {
   PreprocessingHandler,
   genClipToPolygonPreprocessor,
-  DatasourceClipOperation,
 } from "@seasketch/geoprocessing";
 import { genClipOperationLoader } from "@seasketch/geoprocessing/dataproviders";
 import project from "../../project";
 
-const operations: DatasourceClipOperation[] = [
+const clipOpsLoader = genClipOperationLoader(project, [
   {
     datasourceId: "offshore",
     operation: "intersect",
   },
-];
-
-// Generate function that will fetch features for each clip operation
-const clipOpsLoader = genClipOperationLoader(project, operations);
-
-// Generate preprocessing function
+]);
 export const clipToOffshore = genClipToPolygonPreprocessor(clipOpsLoader);
 
 export default new PreprocessingHandler(clipToOffshore, {

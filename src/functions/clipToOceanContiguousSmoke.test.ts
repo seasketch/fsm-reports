@@ -2,7 +2,9 @@
  * @jest-environment node
  * @group smoke
  */
-import { clipToContiguous } from "./clipToOceanContiguous";
-import { clipToPolygonPreprocessorSmokeTest } from "../util/genClipToPolygonPreprocessorSmokeTest";
+import handler, { clipToContiguous } from "./clipToOceanContiguous";
+import { polygonPreprocessorSmokeTest } from "@seasketch/geoprocessing/scripts/testing";
 
-clipToPolygonPreprocessorSmokeTest(clipToContiguous, "clipToOceanContiguous");
+polygonPreprocessorSmokeTest(clipToContiguous, handler.options.title, {
+  timeout: 20000,
+});

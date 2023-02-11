@@ -2,7 +2,9 @@
  * @jest-environment node
  * @group smoke
  */
-import { clipToOceanEez } from "./clipToOceanEez";
-import { clipToPolygonPreprocessorSmokeTest } from "../util/genClipToPolygonPreprocessorSmokeTest";
+import handler, { clipToOceanEez } from "./clipToOceanEez";
+import { polygonPreprocessorSmokeTest } from "@seasketch/geoprocessing/scripts/testing";
 
-clipToPolygonPreprocessorSmokeTest(clipToOceanEez, "clipToOceanEez");
+polygonPreprocessorSmokeTest(clipToOceanEez, handler.options.title, {
+  timeout: 20000,
+});
