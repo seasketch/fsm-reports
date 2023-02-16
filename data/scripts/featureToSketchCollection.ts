@@ -1,7 +1,10 @@
 #!/usr/bin/env ts-node
-import { FeatureCollection, Polygon } from "@seasketch/geoprocessing";
+import {
+  FeatureCollection,
+  Polygon,
+  featureToSketchCollection,
+} from "@seasketch/geoprocessing";
 import fs from "fs-extra";
-import { convertToSketch } from "../../src/util/convertToSketch";
 
 if (require.main === module) {
   const usage =
@@ -16,7 +19,7 @@ if (require.main === module) {
   }
 
   const fc = fs.readJSONSync(infile) as FeatureCollection<Polygon>;
-  const sc = convertToSketch(fc, name);
+  const sc = featureToSketchCollection(fc, name);
 
   fs.removeSync(outfile);
   fs.writeJSONSync(outfile, sc, { spaces: 4 });

@@ -1,18 +1,17 @@
 import {
   PreprocessingHandler,
-  genClipToPolygonPreprocessor,
+  genPreprocessor,
 } from "@seasketch/geoprocessing";
-import { genClipOperationLoader } from "@seasketch/geoprocessing/dataproviders";
+import { genClipLoader } from "@seasketch/geoprocessing/dataproviders";
 import project from "../../project";
 
-const clipOperationLoader = genClipOperationLoader(project, [
+const clipLoader = genClipLoader(project, [
   {
     datasourceId: "12_24_nm_boundary",
     operation: "intersection",
   },
 ]);
-export const clipToContiguous =
-  genClipToPolygonPreprocessor(clipOperationLoader);
+export const clipToContiguous = genPreprocessor(clipLoader);
 
 export default new PreprocessingHandler(clipToContiguous, {
   title: "clipToOceanContiguous",

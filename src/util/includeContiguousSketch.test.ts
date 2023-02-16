@@ -4,7 +4,7 @@
  */
 
 import { shouldIncludeContiguous } from "./includeContiguousSketch";
-import { genSketch, genSketchCollection } from "./sketch";
+import { genSketch, genSketchCollection } from "@seasketch/geoprocessing";
 
 describe("includeContiguous", () => {
   test.only("should be included only if valid yes attribute", async () => {

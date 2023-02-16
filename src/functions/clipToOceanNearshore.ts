@@ -1,18 +1,17 @@
 import {
   PreprocessingHandler,
-  genClipToPolygonPreprocessor,
+  genPreprocessor,
 } from "@seasketch/geoprocessing";
-import { genClipOperationLoader } from "@seasketch/geoprocessing/dataproviders";
+import { genClipLoader } from "@seasketch/geoprocessing/dataproviders";
 import project from "../../project";
 
-const clipOperationLoader = genClipOperationLoader(project, [
+const clipLoader = genClipLoader(project, [
   {
     datasourceId: "nearshore",
     operation: "intersection",
   },
 ]);
-export const clipToNearshore =
-  genClipToPolygonPreprocessor(clipOperationLoader);
+export const clipToNearshore = genPreprocessor(clipLoader);
 
 export default new PreprocessingHandler(clipToNearshore, {
   title: "clipToOceanNearshore",
