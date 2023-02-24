@@ -5,11 +5,8 @@
         165.676528225997,
         13.4454329253893
     ],
-    "noun": "Micronesia",
-    "nounPossessive": "Micronesian",
-    "externalLinks": {},
-    "clipDatasources": {
-        "land": "global-clipping-osm-land",
-        "eez": "global-clipping-eez-land-union"
-    }
+    "planningAreaType": "eez",
+    "planningAreaName": "Micronesia",
+    "planningAreaPossessive": "Micronesian",
+    "externalLinks": {}
 }

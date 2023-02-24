@@ -99,8 +99,8 @@ const SizeCard = () => {
               }
             >
               <p>
-                {project.basic.nounPossessive || ""} waters extend from the
-                shoreline out to 200 nautical miles, known as the Exclusive
+                {project.basic.planningAreaPossessive || ""} waters extend from
+                the shoreline out to 200 nautical miles, known as the Exclusive
                 Economic Zone (EEZ). This report summarizes offshore plan
                 overlap with the EEZ and other boundaries within it, measuring
                 progress towards achieving % targets for each boundary.
